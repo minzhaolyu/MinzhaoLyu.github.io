@@ -16,7 +16,7 @@ My current research interests fall in a broad range of computer networks with fo
 
 The website also contains a (not-very-updated) list of my publications, tech blogs, teaching and professional services. You may also find my at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
 
-I speak English and Mardarin Chinese, am reachable via email (minzhao dot lyu at unsw dot edu dot au) and open to discussions on emerging topics and potential collaborations.
+I speak English and Mardarin Chinese, am reachable via email [minzhao.lyu@unsw.edu.au] and open to discussions on emerging topics and potential collaborations.
 
 <!-- A data-driven personal website
 ======
