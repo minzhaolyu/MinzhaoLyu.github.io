@@ -10,8 +10,8 @@ main:
     url: /teaching/    
     
   - title: "Service"
-    url: /portfolio/
+    url: /service/
     
-  - title: "CV"
-    url: /cv/
+   - title: "Awards"
+     url: /award/
     
