@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ Education
 * B.Eng.(First Class Hons.), University of New South Wales, 2017
 * Ph.D, University of New South Wales, 2022
 
-Research experience
+Work experience
 ======
 * Oct 2021 - Now: Postdoctoral Research Associate
   * University of New South Wales
