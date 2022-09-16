@@ -11,7 +11,7 @@ author_profile: true
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Journal Publications
+Journal
 ======
 * **[ACM CSUR]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. “A Survey on DNS Encryption: Current
 Development, Malware Misuse, and Inference Techniques” at **ACM Computing Surveys**, Jul 2022. (JCR Q1)
@@ -24,7 +24,7 @@ Development, Malware Misuse, and Inference Techniques” at **ACM Computing Surv
 
 * **[IEEE TNSM]** H. Habibi Gharakheili, **M. Lyu**, Y. Wang, H. Kumar and V. Sivaraman. “iTeleScope: Soft- warized Network Middle-Box for Real-Time Video Telemetry and Classification” at **IEEE Transactions on Network and Service Management**, Dec 2019. (JCR Q1)
 
-Conference Publications
+Conference
 ======
 * **[PAM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. “Mapping an Enterprise Network by Analyzing DNS Traffic” **International Conference on Passive and Active Network Measurement**, Puerto Varas, Chile, March 2019.
 

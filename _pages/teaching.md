@@ -26,5 +26,5 @@ author_profile: true
 * (2021 - Now): **Network Systems Architecture** GSOE9758
   * Teaching Assistant
 
-* (2021 - Now): ENGG4600 **Engineering Vertically Integrated Project** ENGG4600
+* (2021 - Now): **Engineering Vertically Integrated Project** ENGG4600
   * Project Lead in CyberShield
