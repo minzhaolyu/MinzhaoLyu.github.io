@@ -15,5 +15,8 @@ main:
   - title: "Awards"
     url: /award/
 
-  - title: "Contact Me"
+  - title: "Contact"
     url: /contact/
+
+  - title: "About Me"
+    url: /about/

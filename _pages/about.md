@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Research Associate in the Programmable Networking Lab at the University of New South Wales, Sydney, Australia. 
+I am currently a **Postdoctoral Research Associate** in the Programmable Networking Lab at the **University of New South Wales, Sydney, Australia**. 
 
 I received my B.Eng. (First Class Hons.) and Ph.D. degree from the University of New South Wales, Sydney, Australia in 2017 and 2022 respectively. I have worked at CSIRO’s Data61, Sydney, Australia as a student fellow and at National Telemedicine Center of China as a research intern. 
 
-My current research interests fall in a broad range of computer networks with focuses on network data analytics, network security, programmable networks, and machine learning for network problems.
+My current research interests fall in a broad range of **computer networks** with focuses on network data analytics, network security, programmable networks, and machine learning for network problems.
 
 The website also contains a (not-very-updated) list of my publications, tech blogs, teaching and professional services. You may also find me at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
 
