@@ -16,18 +16,18 @@ Education
 
 Work experience
 ======
-* Oct 2021 - Now: Postdoctoral Research Associate
+* (Oct 2021 - Now): Postdoctoral Research Associate
   * University of New South Wales
   * Programmable Networking Lab, School of EET
 
-* Jun 2020 - May 2021: Research Intern
+* (Jun 2020 - May 2021): Research Intern
   * National Telemedicine Center of China
 
-* Nov 2016 - Feb 2017: Summer Research Intern
+* (Nov 2016 - Feb 2017): Summer Research Intern
   * University of New South Wales
   * Programmable Networking Lab, School of EET
 
-* Nov 2015 - Feb 2016: Summer Research Intern
+* (Nov 2015 - Feb 2016): Summer Research Intern
   * CSIRO's Data61
 
   
@@ -45,22 +45,22 @@ Talks & Tech Blogs
   
 Teaching
 ======
-* 2019 - Now: Network Technologies TELE3118
+* (2019 - Now): Network Technologies TELE3118
   * Course Developer, Teaching Assistant and Lab Demonstrator
 
-* 2018 - 2019: Trusted Network TELE3119
+* (2018 - 2019): Trusted Network TELE3119
   * Lab Demonstrator
 
-* 2018 - Now: Network Performance TELE4642
+* (2018 - Now): Network Performance TELE4642
   * Teaching Assistant and Lab Demonstrator
 
-* 2021 - Now: Network Operations and Control TELE9752
+* (2021 - Now): Network Operations and Control TELE9752
   * Teaching Assistant
 
-* 2021 - Now: Network Systems Architecture GSOE9758
+* (2021 - Now): Network Systems Architecture GSOE9758
   * Teaching Assistant
 
-* 2021 - Now: ENGG4600 Engineering Vertically Integrated Project ENGG4600
+* (2021 - Now): ENGG4600 Engineering Vertically Integrated Project ENGG4600
   * Project Lead in CyberShield
 <!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
