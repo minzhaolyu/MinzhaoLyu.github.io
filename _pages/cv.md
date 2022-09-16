@@ -11,38 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng.(First Class Hons.), University of New South Wales, 2017
+* Ph.D, University of New South Wales, 2022
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2021 - Now: Postdoctoral Research Associate
+  * University of New South Wales
+  * Programmable Networking Lab, School of EET
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2020 - May 2021: Research Intern
+  * National Telemedicine Center of China
+
+* Nov 2016 - Feb 2017: Summer Research Intern
+  * University of New South Wales
+  * Programmable Networking Lab, School of EET
+
+* Nov 2015 - Feb 2016: Summer Research Intern
+  * CSIRO's Data61
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks & Tech Blogs
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -50,10 +45,33 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+* 2019 - Now: Network Technologies TELE3118
+  * Course Developer, Teaching Assistant and Lab Demonstrator
+
+* 2018 - 2019: Trusted Network TELE3119
+  * Lab Demonstrator
+
+* 2018 - Now: Network Performance TELE4642
+  * Teaching Assistant and Lab Demonstrator
+
+* 2021 - Now: Network Operations and Control TELE9752
+  * Teaching Assistant
+
+* 2021 - Now: Network Systems Architecture GSOE9758
+  * Teaching Assistant
+
+* 2021 - Now: ENGG4600 Engineering Vertically Integrated Project ENGG4600
+  * Project Lead in CyberShield
+<!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewers for prestigous journals and conferences such as 
+  * IEEE Transactions on Network and Service Management
+  * ACM Computing Surveys
+  * Computer Networks
+  * IEEE Transactions on Green Communications and Networking 
+  * IEEE Networking Letters
+  * Journal of Information Security and Applications.
