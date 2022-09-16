@@ -11,23 +11,23 @@ author_profile: true
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-title: "A Survey on DNS Encryption: Current Development, Malware Misuse, and Inference Techniques"
-date: 2022-07-13
-venue: 'ACM Computing Surveys'
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/3547331'
-citation: 'Minzhao Lyu, Hassan Habibi Gharakheili, and Vijay Sivaraman. 2022. A Survey on DNS Encryption: Current Development, Malware Misuse, and Inference Techniques. ACM Comput. Surv. Just Accepted (July 2022). https://doi.org/10.1145/3547331'
+Journal Publications
+======
+* [ACM CSUR] M. Lyu, H. Habibi Gharakheili, and V. Sivaraman. “A Survey on DNS Encryption: Current
+Development, Malware Misuse, and Inference Techniques” at ACM Computing Surveys, Jul 2022. (JCR Q1)
 
+* [JMIR] F.Cui,X.He,Y.Zhai,M.Lyu,J.Shi,D.Sun,S.Juang,C.Li,andJ.Zhao.“ApplicationofTelemedicine services based on a regional telemedicine platform in China from 2014 to 2020: Longitudinal Trend Anaylsis”, at Journal of Medical Internet Research, Jul 2021. (JCR Q1)
 
+* [IEEE IoTJ] B. Chen, S. Qiao, J. Zhao, D. Liu, X. Shi, M. Lyu, H. Chen, H. Lu, and Y. Zhai. “A Security Awareness & Protection System For 5G Smart Healthcare Based on Zero-Trust Architecture” at IEEE Internet of Things Journal, Jul 2021. (JCR Q1)
 
-title: "Application of telemedicine services based on a regional telemedicine platform in China from 2014 to 2020: longitudinal trend analysis"
-date: 2021-07-12
-venue: 'Journal of Medical Internet Research'
-paperurl: 'https://www.jmir.org/2021/7/e28009/'
-citation: 'Cui F, He X, Zhai Y, Lyu M, Shi J, Sun D, Jiang S, Li C, Zhao J. Application of Telemedicine Services Based on a Regional Telemedicine Platform in China From 2014 to 2020: Longitudinal Trend Analysis. J Med Internet Res 2021;23(7):e28009. DOI: 10.2196/28009'
+* [IEEE TNSM] M. Lyu, H. Habibi Gharakheili, C. Russell and V. Sivaraman. “Hierarchical Anomaly-Based Detection of Distributed DNS Attacks on Enterprise Networks” at IEEE Transactions on Network and Service Management, Mar 2021. (JCR Q1)
 
+* [IEEE TNSM] H. Habibi Gharakheili, M. Lyu, Y. Wang, H. Kumar and V. Sivaraman. “iTeleScope: Soft- warized Network Middle-Box for Real-Time Video Telemetry and Classification” IEEE Transactions on Net- work and Service Management, Dec 2019. (JCR Q1)
 
-title: "Hierarchical anomaly-based detection of distributed DNS attacks on enterprise networks"
-date: 2021-07-12
-venue: 'IEEE Transactions on Network and Service Management'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9316919'
-citation: 'M. Lyu, H. H. Gharakheili, C. Russell and V. Sivaraman, "Hierarchical Anomaly-Based Detection of Distributed DNS Attacks on Enterprise Networks," in IEEE Transactions on Network and Service Management, vol. 18, no. 1, pp. 1031-1048, March 2021, doi: 10.1109/TNSM.2021.3050091.'
+Conference Publications
+======
+* [Springer PAM] M. Lyu, H. Habibi Gharakheili, C. Russell and V. Sivaraman. “Mapping an Enterprise Network by Analyzing DNS Traffic” International Conference on Passive and Active Network Measurement, Puerto Varas, Chile, March 2019.
+
+* [IEEE/IFIP NOMS] S. C. Madanapalli, M. Lyu, H. Kumar, H. Habibi Gharakheili and V. Sivaraman. “Real- time detection, isolation and monitoring of elephant flows using commodity SDN system” IEEE/IFIP Network Operations and Management Symposium, Taipei, Taiwan, March 2018.
+
+* [ACM WiSec] M. Lyu, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. “Quantifying the Reflective DDoS Attack Capability of Household IoT Devices” ACM Conference on Security and Privacy in Wireless and Mobile Networks, Boston, MA, USA, July 2017.
