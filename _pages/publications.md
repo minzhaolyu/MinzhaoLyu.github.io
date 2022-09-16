@@ -16,7 +16,7 @@ Journal
 * **[ACM CSUR]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. “A Survey on DNS Encryption: Current
 Development, Malware Misuse, and Inference Techniques” at **ACM Computing Surveys**, Jul 2022. (JCR Q1)
 
-* **[JMIR]** F. Cui, X. He, Y. Zhai, **M. Lyu**, J. Shi, D. Sun, S. Juang, C. Li,and J. Zhao.“ApplicationofTelemedicine services based on a regional telemedicine platform in China from 2014 to 2020: Longitudinal Trend Anaylsis”, at **Journal of Medical Internet Research**, Jul 2021. (JCR Q1)
+* **[JMIR]** F. Cui, X. He, Y. Zhai, **M. Lyu**, J. Shi, D. Sun, S. Juang, C. Li, and J. Zhao. “Application of Telemedicine services based on a regional telemedicine platform in China from 2014 to 2020: Longitudinal Trend Anaylsis”, at **Journal of Medical Internet Research**, Jul 2021. (JCR Q1)
 
 * **[IEEE IoTJ]** B. Chen, S. Qiao, J. Zhao, D. Liu, X. Shi, **M. Lyu**, H. Chen, H. Lu, and Y. Zhai. “A Security Awareness & Protection System For 5G Smart Healthcare Based on Zero-Trust Architecture” at **IEEE Internet of Things Journal**, Jul 2021. (JCR Q1)
 
