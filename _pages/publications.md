@@ -26,8 +26,8 @@ Development, Malware Misuse, and Inference Techniques” at **ACM Computing Surv
 
 Conference
 ======
-* **[PAM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. “Mapping an Enterprise Network by Analyzing DNS Traffic” **International Conference on Passive and Active Network Measurement**, Puerto Varas, Chile, March 2019.
+* **[PAM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. “Mapping an Enterprise Network by Analyzing DNS Traffic” at **International Conference on Passive and Active Network Measurement**, Puerto Varas, Chile, March 2019.
 
-* **[IEEE/IFIP NOMS]** S. C. Madanapalli, **M. Lyu**, H. Kumar, H. Habibi Gharakheili and V. Sivaraman. “Real- time detection, isolation and monitoring of elephant flows using commodity SDN system” **IEEE/IFIP Network Operations and Management Symposium**, Taipei, Taiwan, March 2018.
+* **[IEEE/IFIP NOMS]** S. C. Madanapalli, **M. Lyu**, H. Kumar, H. Habibi Gharakheili and V. Sivaraman. “Real- time detection, isolation and monitoring of elephant flows using commodity SDN system” at **IEEE/IFIP Network Operations and Management Symposium**, Taipei, Taiwan, March 2018.
 
-* **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. “Quantifying the Reflective DDoS Attack Capability of Household IoT Devices” **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, July 2017.
+* **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. “Quantifying the Reflective DDoS Attack Capability of Household IoT Devices” at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, July 2017.
