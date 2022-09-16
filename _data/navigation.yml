@@ -1,17 +1,17 @@
 # main links links
 main:
   - title: "Publications"
-#    url: /publications/
+    url: /publications/
 
   - title: "Talks & Blog Posts"
-#    url: /talks/    
+    url: /talks/    
 
   - title: "Teaching"
-#    url: /teaching/    
+    url: /teaching/    
     
   - title: "Service"
-#    url: /service/
+    url: /service/
     
    - title: "Awards"
-#     url: /award/
+     url: /award/
     
