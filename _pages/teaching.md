@@ -29,6 +29,3 @@ author_profile: true
 
 * 2021 - Now: ENGG4600 Engineering Vertically Integrated Project ENGG4600
   * Project Lead in CyberShield
-<!--   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
