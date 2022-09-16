@@ -14,4 +14,4 @@ author_profile: true
  -->
 
 * Email:
-  *minzhao.lyu@unsw.edu.au
+  * minzhao.lyu@unsw.edu.au

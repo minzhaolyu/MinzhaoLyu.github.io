@@ -11,7 +11,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-======
 * 2019 - Now: Network Technologies TELE3118
   * Course Developer, Teaching Assistant and Lab Demonstrator
 
