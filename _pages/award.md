@@ -13,7 +13,6 @@ author_profile: true
 {% endfor %}
  -->
 
-======
 * CSIRO’s Data61 PhD Scholarship & Top-up Scholarship (Feb 2018 - Aug 2021)
 * UNSW PhD Tuition Fee Scholarship (Feb 2018 - Sep 2021)
 * Student ePoster Scholarship & Awarded Poster Networkshop2019 hosted by AARNet (Jun 2019)
