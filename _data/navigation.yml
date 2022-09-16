@@ -20,3 +20,6 @@ main:
 
   - title: "About Me"
     url: /about/
+
+  - title: "Site Stats"
+    url: /sitestats/
