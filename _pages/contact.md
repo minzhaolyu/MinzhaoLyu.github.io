@@ -15,3 +15,8 @@ author_profile: true
 
 * Email:
   * minzhao.lyu@unsw.edu.au
+
+* Address:
+  * Room 422, EE building (G17)
+  * School of Electrical Engineering & Telecommunications
+  * The University of New South Wales (UNSW Sydney), NSW 2052, Australia
