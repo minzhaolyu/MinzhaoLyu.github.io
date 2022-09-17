@@ -14,7 +14,7 @@ I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the Unive
 
 My current research interests fall in a broad range of **computer networks** with focuses on **(Terabit-speed) network traffic analytics**, **network security**, programmable networks, and machine learning for network problems.
 
-The website also contains a (not-very-updated) list of my publications, tech blogs, teaching and professional services. You may also find me at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
+The website also contains a list of my publications, tech blogs, teaching and professional services. You may also find me at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
 
 I speak English and Mardarin Chinese (普通话), am reachable via email [**minzhao.lyu@unsw.edu.au**] and open to discussions on emerging topics and potential collaborations.
 
