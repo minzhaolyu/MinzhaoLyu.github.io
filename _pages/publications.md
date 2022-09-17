@@ -16,7 +16,7 @@ Journal
 * **[ACM CSUR]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [A Survey on DNS Encryption: Current
 Development, Malware Misuse, and Inference Techniques](https://dl.acm.org/doi/abs/10.1145/3547331) at **ACM Computing Surveys**, Jul 2022. ([preprint version](https://www.researchgate.net/profile/Minzhao-Lyu/publication/357587121_A_Survey_on_DNS_Encryption_Current_Development_Malware_Misuse_and_Inference_Techniques/links/61ee10f0dafcdb25fd48b7a8/A-Survey-on-DNS-Encryption-Current-Development-Malware-Misuse-and-Inference-Techniques.pdf))
 
-* **[JMIR]** F. Cui, X. He, Y. Zhai, **M. Lyu**, J. Shi, D. Sun, S. Juang, C. Li, and J. Zhao. [Application of Telemedicine services based on a regional telemedicine platform in China from 2014 to 2020: Longitudinal Trend Anaylsis](https://www.jmir.org/2021/7/e28009/), at **Journal of Medical Internet Research**, Jul 2021.
+* **[JMIR]** F. Cui, X. He, Y. Zhai, **M. Lyu**, J. Shi, D. Sun, S. Juang, C. Li, and J. Zhao. [Application of Telemedicine services based on a regional telemedicine platform in China from 2014 to 2020: Longitudinal Trend Anaylsis](https://www.jmir.org/2021/7/e28009/) at **Journal of Medical Internet Research**, Jul 2021.
 
 * **[IEEE IoTJ]** B. Chen, S. Qiao, J. Zhao, D. Liu, X. Shi, **M. Lyu**, H. Chen, H. Lu, and Y. Zhai. [A Security Awareness & Protection System For 5G Smart Healthcare Based on Zero-Trust Architecture](https://ieeexplore.ieee.org/abstract/document/9273056) at **IEEE Internet of Things Journal**, Jul 2021.
 

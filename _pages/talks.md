@@ -16,4 +16,4 @@ author_profile: true
 {% endfor %}
  -->
 
-* **[APNIC Blog]** M.Lyu “[DNS Malware Misuse and Current Countermeasures](https://blog.apnic.net/2022/02/02/dns-malware-misuse-and-current-countermeasures/)”, APNIC Blog, Feb 2022.
+* **[APNIC Blog]** M.Lyu [DNS Malware Misuse and Current Countermeasures](https://blog.apnic.net/2022/02/02/dns-malware-misuse-and-current-countermeasures/), APNIC Blog, Feb 2022.
