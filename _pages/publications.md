@@ -14,7 +14,7 @@ author_profile: true
 Journal
 ======
 * **[ComNet]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. Classifying and Tracking Enterprise Assets via
-Dual-Grained Network Behavioral Analysis, to appear in **Computer Networks** (Elsevier), 2022.
+Dual-Grained Network Behavioral Analysis, to appear in Elsevier **Computer Networks**, 2022.
 
 * **[ACM CSUR]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [A Survey on DNS Encryption: Current
 Development, Malware Misuse, and Inference Techniques](https://dl.acm.org/doi/abs/10.1145/3547331) at **ACM Computing Surveys**, Jul 2022. ([preprint version](https://www.researchgate.net/profile/Minzhao-Lyu/publication/357587121_A_Survey_on_DNS_Encryption_Current_Development_Malware_Misuse_and_Inference_Techniques/links/61ee10f0dafcdb25fd48b7a8/A-Survey-on-DNS-Encryption-Current-Development-Malware-Misuse-and-Inference-Techniques.pdf))
