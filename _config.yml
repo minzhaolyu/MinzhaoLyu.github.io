@@ -11,9 +11,9 @@ title                    : "Minzhao's Homepage"
 title_separator          : "-"
 name                     : &name "Minzhao Lyu"
 description              : &description "Postdoc Research Associate working on the topics of Network Traffic Analytics, Network Security, Machine Learning for Computer Network Problems."
-url                      : https://minzhaol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://minzhaolyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/minzhaol.github.io"
+repository               : "academicpages/minzhaolyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
