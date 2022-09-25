@@ -21,10 +21,10 @@ I speak English and Mardarin Chinese (普通话), am reachable via email [**minz
 
 Updates
 ======
-* (Sep 2022) [**Enterprise Asset Classification and Tracking**](https://minzhaolyu.github.io/publications/) is accepted at Elsevier Computer Networks.
+* [Sep 2022] [**Enterprise Asset Classification and Tracking**](https://minzhaolyu.github.io/publications/) is accepted at Elsevier Computer Networks.
 
-* (Jul 2022) [**DNS Encryption Survey**](https://minzhaolyu.github.io/publications/) is accepted at ACM Computing Surveys.
+* [Jul 2022] [**DNS Encryption Survey**](https://minzhaolyu.github.io/publications/) is accepted at ACM Computing Surveys.
 
-* (Feb 2022) A tech blog on [**DNS Malware Misuse and Contermeasures**](https://minzhaolyu.github.io/talks/) is published by APNIC Blog.
+* [Feb 2022] A tech blog on [**DNS Malware Misuse and Contermeasures**](https://minzhaolyu.github.io/talks/) is published by APNIC Blog.
 
-* (Oct 2021) Start my postdoctoral role as a **Research Associate** at the University of New South Wales, Sydney, Australia (UNSW Sydney).
+* [Oct 2021] Start my postdoctoral role as a **Research Associate** at the University of New South Wales, Sydney, Australia (UNSW Sydney).
