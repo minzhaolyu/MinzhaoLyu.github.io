@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://https://minzhaolyu.github.io</loc>
+
+      <lastmod>2022-09-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://minzhaolyu.github.io/publications</loc>
+
+      <lastmod>2022-09-25</lastmod>
+
+      <priority>0.6</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://minzhaolyu.github.io/talks</loc>
+
+      <lastmod>2022-09-25</lastmod>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://minzhaolyu.github.io/teaching</loc>
+
+      <lastmod>2022-09-25</lastmod>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://minzhaolyu.github.io/service</loc>
+
+      <lastmod>2022-09-25</lastmod>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://minzhaolyu.github.io/award</loc>
+
+      <lastmod>2022-09-25</lastmod>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://minzhaolyu.github.io/contact</loc>
+
+      <lastmod>2022-09-25</lastmod>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://minzhaolyu.github.io/sitestats</loc>
+
+      <lastmod>2022-09-25</lastmod>
+
+      <priority>0.3</priority>
+
+   </url>
+
+</urlset>
