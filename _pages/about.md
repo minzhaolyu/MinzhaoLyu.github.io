@@ -18,3 +18,13 @@ The website also contains a list of my publications, tech blogs, teaching and pr
 
 I speak English and Mardarin Chinese (普通话), am reachable via email [**minzhao.lyu@unsw.edu.au**] and open to discussions on emerging topics and potential collaborations.
 
+
+Updates
+======
+* (Sep 2022) [**Enterprise Asset Classification and Tracking**](https://minzhaolyu.github.io/publications/) is accepted at Elsevier Computer Networks.
+
+* (Jul 2022) [**DNS Encryption Survey**](https://minzhaolyu.github.io/publications/) is accepted at ACM Computing Surveys.
+
+* (Feb 2022) A tech blog on [**DNS Malware Misuse and Contermeasures**](https://minzhaolyu.github.io/talks/) is published by APNIC Blog.
+
+* (Oct 2021) Start my role as a **(Postdoctoral) Research Associate** at the University of New South Wales, Sydney, Australia (UNSW Sydney).
