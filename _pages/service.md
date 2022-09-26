@@ -15,9 +15,10 @@ author_profile: true
  -->
 
 * Journal Reviewers
-  * IEEE Transactions on Network and Service Management
   * ACM Computing Surveys
-  * Computer Networks
-  * IEEE Transactions on Green Communications and Networking 
+  * IEEE Transactions on Dependable and Secure Computing
+  * IEEE Transactions on Network and Service Management
+  * IEEE Transactions on Green Communications and Networking
   * IEEE Networking Letters
+  * Computer Networks 
   * Journal of Information Security and Applications
