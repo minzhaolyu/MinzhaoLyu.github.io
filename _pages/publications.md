@@ -25,7 +25,7 @@ Development, Malware Misuse, and Inference Techniques](https://dl.acm.org/doi/ab
 
 * **[IEEE TNSM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Hierarchical Anomaly-Based Detection of Distributed DNS Attacks on Enterprise Networks](https://ieeexplore.ieee.org/abstract/document/9316919) at **IEEE Transactions on Network and Service Management**, Mar 2021. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/21tnsmDNSAtk.pdf))
 
-* **[IEEE TNSM]** H. Habibi Gharakheili, **M. Lyu**, Y. Wang, H. Kumar and V. Sivaraman. [iTeleScope: Softwarized Network Middle-Box for Real-Time Video Telemetry and Classification](https://ieeexplore.ieee.org/abstract/document/9316919) at **IEEE Transactions on Network and Service Management**, Dec 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/19TNSMtelescope.pdf))
+* **[IEEE TNSM]** H. Habibi Gharakheili, **M. Lyu**, Y. Wang, H. Kumar and V. Sivaraman. [iTeleScope: Softwarized Network Middle-Box for Real-Time Video Telemetry and Classification](https://ieeexplore.ieee.org/document/8765778) at **IEEE Transactions on Network and Service Management**, Dec 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/19TNSMtelescope.pdf))
 
 Conference
 ======
