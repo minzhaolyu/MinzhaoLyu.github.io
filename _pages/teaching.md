@@ -21,10 +21,10 @@ author_profile: true
   * Teaching Assistant and Lab Demonstrator
 
 * (2021 - Now): **Network Operations and Control** TELE9752
-  * Teaching Assistant
+  * Teaching Assistant and Lab Demonstrator
 
 * (2021 - Now): **Network Systems Architecture** GSOE9758
-  * Teaching Assistant
+  * Teaching Assistant and Lab Demonstrator
 
 * (2021 - Now): **Engineering Vertically Integrated Project** ENGG4600
   * Project Lead in CyberShield
