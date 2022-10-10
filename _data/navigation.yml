@@ -12,8 +12,8 @@ main:
   - title: "Service"
     url: /service/
 
-  - title: "Awards"
-    url: /award/
+  # - title: "Awards"
+  #   url: /award/
 
   - title: "Contact"
     url: /contact/
