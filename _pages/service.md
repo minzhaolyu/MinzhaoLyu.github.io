@@ -23,3 +23,6 @@ author_profile: true
   * IEEE Networking Letters
   * (Elsevier) Computer Networks 
   * Journal of Information Security and Applications
+
+* Conference Support
+  * ACM MobiCom 2022, Sydney, Australia
