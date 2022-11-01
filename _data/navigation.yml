@@ -18,5 +18,8 @@ main:
   - title: "Contact"
     url: /contact/
 
+  - title: "Updates"
+    url: /update/
+
   - title: "About Me"
     url: /about/
