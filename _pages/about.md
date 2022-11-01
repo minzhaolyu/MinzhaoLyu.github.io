@@ -21,6 +21,8 @@ I am reachable via email [**minzhao.lyu@unsw.edu.au**] and open to discussions o
 
 Updates
 ======
+* (Nov 2022) Undergraduate thesis student Jun Han will present his paper [**Evaluating Internet Speed Test**](https://minzhaolyu.github.io/publications/) at Asian Internet Enigneering Conference (AINTEC 2022) in Hiroshima, Japan.
+
 * (Sep 2022) [**Enterprise Asset Classification and Tracking**](https://minzhaolyu.github.io/publications/) is accepted at Elsevier Computer Networks.
 
 * (Jul 2022) [**DNS Encryption Survey**](https://minzhaolyu.github.io/publications/) is accepted at ACM Computing Surveys.

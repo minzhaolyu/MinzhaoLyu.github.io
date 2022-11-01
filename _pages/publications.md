@@ -29,6 +29,8 @@ Development, Malware Misuse, and Inference Techniques](https://dl.acm.org/doi/ab
 
 Conference
 ======
+* **[AINTEC]** J. Han, **M. Lyu** and V. Sivaraman. [On the Validity of Internet Speed Test Tools and Broadband Measurement Programs](https://interlab.ait.ac.th/aintec2022/) at **Asian Internet Engineering Conference**, Hiroshima, Japan, December 2022.
+
 * **[PAM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Mapping an Enterprise Network by Analyzing DNS Traffic](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9) at **International Conference on Passive and Active Network Measurement**, Puerto Varas, Chile, March 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/19pam.pdf))
 
 * **[IEEE/IFIP NOMS]** S. C. Madanapalli, **M. Lyu**, H. Kumar, H. Habibi Gharakheili and V. Sivaraman. [Real-time detection, isolation and monitoring of elephant flows using commodity SDN system](https://ieeexplore.ieee.org/abstract/document/8406200) at **IEEE/IFIP Network Operations and Management Symposium**, Taipei, Taiwan, March 2018. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/18noms.pdf))
