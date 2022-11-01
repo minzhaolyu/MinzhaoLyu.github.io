@@ -14,12 +14,11 @@ main:
 
   # - title: "Awards"
   #   url: /award/
+  - title: "Updates"
+    url: /update/
 
   - title: "Contact"
     url: /contact/
-
-  - title: "Updates"
-    url: /update/
 
   - title: "About Me"
     url: /about/
