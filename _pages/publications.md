@@ -13,6 +13,8 @@ author_profile: true
 
 Journal
 ======
+* **[IEEE TNSM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Enterprise DNS Asset Mapping and Cyber-Health Tracking via Passive Traffic Analysis](https://arxiv.org/abs/2201.07352) at **IEEE Transactions on Network and Service Management**, Nov 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22tnsm.pdf))
+
 * **[ComNet]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [Classifying and Tracking Enterprise Assets via
 Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/article/pii/S1389128622004212), at Elsevier **Computer Networks**, Dec 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22ComNet.pdf))
 
@@ -37,8 +39,4 @@ Conference
 
 * **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, July 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 
-Preprint (under peer-review/revision at prestigious journals)
-========
-
-* **[ArXiv]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Analyzing Enterprise DNS Traffic to Classify Assets and Track Cyber-Health](https://arxiv.org/abs/2201.07352) at **ArXiv**, Jan 2022.
 
