@@ -13,7 +13,7 @@ author_profile: true
 
 Journal
 ======
-* **[IEEE TNSM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Enterprise DNS Asset Mapping and Cyber-Health Tracking via Passive Traffic Analysis](https://arxiv.org/abs/2201.07352) at **IEEE Transactions on Network and Service Management**, Nov 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22tnsm.pdf))
+* **[IEEE TNSM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Enterprise DNS Asset Mapping and Cyber-Health Tracking via Passive Traffic Analysis](https://ieeexplore.ieee.org/document/9951392) at **IEEE Transactions on Network and Service Management**, Nov 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22tnsm.pdf))
 
 * **[ComNet]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [Classifying and Tracking Enterprise Assets via
 Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/article/pii/S1389128622004212), at Elsevier **Computer Networks**, Dec 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22ComNet.pdf))
