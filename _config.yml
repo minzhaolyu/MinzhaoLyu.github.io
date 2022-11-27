@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minzhao's Homepage"
+title                    : "Minzhao Lyu"
 title_separator          : "-"
 name                     : &name "Minzhao Lyu"
 description              : &description "Postdoc Research Associate working on the topics of Network Traffic Analytics, Network Security, Machine Learning for Computer Network Problems."
