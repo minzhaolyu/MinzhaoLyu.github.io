@@ -5,6 +5,7 @@ permalink: /update/
 author_profile: true
 ---
 
+* (Jan 2023) A tech blog on [**Current Development of DNS Encryption**](https://minzhaolyu.github.io/talks/) is published by APNIC.
 
 * (Nov 2022) [**DNS Asset Mapping and Health Tracking**](https://minzhaolyu.github.io/publications/) is accepted at IEEE Transactions on Network and Service Management (TNSM).
 
@@ -14,6 +15,6 @@ author_profile: true
 
 * (Jul 2022) [**DNS Encryption Survey**](https://minzhaolyu.github.io/publications/) is accepted at ACM Computing Surveys.
 
-* (Feb 2022) A tech blog on [**DNS Malware Misuse and Contermeasures**](https://minzhaolyu.github.io/talks/) is published by APNIC Blog.
+* (Feb 2022) A tech blog on [**DNS Malware Misuse and Contermeasures**](https://minzhaolyu.github.io/talks/) is published by APNIC.
 
 * (Oct 2021) Start my postdoctoral role as a **Research Associate** at the University of New South Wales, Sydney, Australia (UNSW Sydney).
