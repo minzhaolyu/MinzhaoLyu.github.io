@@ -20,6 +20,7 @@ author_profile: true
   * IEEE Transactions on Network Science and Engineering
   * IEEE Transactions on Dependable and Secure Computing
   * IEEE Transactions on Green Communications and Networking
+  * IEEE Internet of Things Journal
   * IEEE Networking Letters
   * (Elsevier) Computer Networks 
   * Journal of Information Security and Applications
