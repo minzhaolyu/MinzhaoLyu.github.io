@@ -23,7 +23,8 @@ author_profile: true
   * IEEE Internet of Things Journal
   * IEEE Networking Letters
   * (Elsevier) Computer Networks 
-  * Journal of Information Security and Applications
+  * (Elsevier) Computers & Security
+  * (Elsevier) Journal of Information Security and Applications
 
 * Conference Support
   * ACM MobiCom 2022, Sydney, Australia
