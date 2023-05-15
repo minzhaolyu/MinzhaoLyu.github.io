@@ -12,7 +12,7 @@ I am currently working as a **Postdoctoral Research Associate** in the [**Progra
 
 I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the University of New South Wales, Sydney, Australia in 2017 and 2022 respectively. I have worked at CSIRO’s Data61, Sydney, Australia as a student fellow and at National Telemedicine Center of China as a research intern. 
 
-My current research interests fall in a broad range of **computer networks** with focuses on **(Terabit-speed) network traffic analytics**, **network security**, programmable networks, and machine learning for network problems.
+My current research interests encompass **computer networks** with a specific focus on leveraging programmable networks, data-driven analytics, and machine learning for **network security** and **application performance**.
 
 The website also contains a list of my publications, tech blogs, teaching and professional services. You may also find me at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
 
