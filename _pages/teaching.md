@@ -14,7 +14,7 @@ author_profile: true
   * (2023 - Now): Co-instructor
   * (2021 - 2022): Teaching Assistant
 
-*  **Network Systems Architecture** GSOE9758
+* **Network Systems Architecture** GSOE9758
   * (2023 - Now): Co-instructor
   * (2021 - 2022):Teaching Assistant
 
@@ -28,7 +28,7 @@ author_profile: true
   * (2018 - 2019): Lab Demonstrator
 
 * **Network Technologies** TELE3118
-  * （2019 - Now): Course Developer, Teaching Assistant and Lab Demonstrator
+  * （2019 - Now): Teaching Assistant and Lab Demonstrator
 
 
 
