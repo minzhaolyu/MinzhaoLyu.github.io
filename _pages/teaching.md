@@ -10,21 +10,25 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+* **Network Operations and Control** TELE9752
+  * (2023 - Now) Co-instructor
+  * (2021 - 2022) Teaching Assistant
 
-* (2019 - Now): **Network Technologies** TELE3118
-  * Course Developer, Teaching Assistant and Lab Demonstrator
+*  **Network Systems Architecture** GSOE9758
+  * (2023 - Now) Co-instructor
+  * (2021 - 2022):Teaching Assistant
 
-* (2018 - 2019): **Trusted Network** TELE3119
-  * Lab Demonstrator
+* **Engineering Vertically Integrated Project** ENGG4600
+  * (2021 - 2022): Co-lead for CyberShield Project
 
-* (2018 - Now): **Network Performance** TELE4642
-  * Teaching Assistant and Lab Demonstrator
+* **Network Performance** TELE4642
+  * (2018 - Now) Teaching Assistant and Lab Demonstrator
 
-* (2021 - Now): **Network Operations and Control** TELE9752
-  * Teaching Assistant and Lab Demonstrator
+* **Trusted Network** TELE3119
+  * (2018 - 2019) Lab Demonstrator
 
-* (2021 - Now): **Network Systems Architecture** GSOE9758
-  * Teaching Assistant and Lab Demonstrator
+* **Network Technologies** TELE3118
+  * （2019 - Now）Course Developer, Teaching Assistant and Lab Demonstrator
 
-* (2021 - 2022): **Engineering Vertically Integrated Project** ENGG4600
-  * Project Lead in CyberShield
+
+
