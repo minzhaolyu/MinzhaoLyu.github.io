@@ -5,6 +5,8 @@ permalink: /update/
 author_profile: true
 ---
 
+* (Jun 2023) [**Multi-stage Detection of Distributed Attacks**](https://minzhaolyu.github.io/publications/) is accepted at (Elsevier) Computer Networks.
+
 * (Jan 2023) A tech blog on [**Current Development of DNS Encryption**](https://minzhaolyu.github.io/talks/) is published by APNIC.
 
 * (Nov 2022) [**DNS Asset Mapping and Health Tracking**](https://minzhaolyu.github.io/publications/) is accepted at IEEE Transactions on Network and Service Management (TNSM).
