@@ -10,6 +10,7 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
 * **Network Operations and Control** TELE9752
   * (2023 - Now): Co-instructor
   * (2021 - 2022): Teaching Assistant
