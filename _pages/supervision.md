@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PhD Supervision"
+title: ""
 permalink: /supervision/
 author_profile: true
 ---
