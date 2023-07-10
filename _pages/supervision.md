@@ -13,7 +13,9 @@ author_profile: true
 
 Current PhD Students
 ======
-* **[Yifan (Frank) Wang](https://www.linkedin.com)**, recipent of UNSW **University International Postgraduate Award (UIPA)** and Autralian Government **National Industry PhD Program**, Dec 2022 - present, "Network Traffic Analysis and Machine Learning for Multimedia QoE". 
+* **[Yifan (Frank) Wang](https://www.linkedin.com)**, Dec 2022 - present, "Network Traffic Analysis and Machine Learning for Multimedia QoE". 
+  * recipent of UNSW **University International Postgraduate Award (UIPA)**
+  * recipent of Australian Government **National Industry PhD Program**
 
 
 
