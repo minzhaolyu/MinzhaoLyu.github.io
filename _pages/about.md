@@ -21,15 +21,15 @@ I am reachable via email [**minzhao.lyu@unsw.edu.au**] and open to discussions o
 
 Updates
 ======
+* (Jul 2023) An invited blog on [**Enterprise Network Asset Classification**](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/) is published by APNIC.
+
 * (Jun 2023) [**Multi-stage Detection of Distributed Attacks**](https://minzhaolyu.github.io/publications/) is accepted at (Elsevier) Computer Networks.
 
-* (Jan 2023) A tech blog on [**Current Development of DNS Encryption**](https://minzhaolyu.github.io/talks/) is published by APNIC.
+* (Jan 2023) An invited blog on [**Current Development of DNS Encryption**](https://minzhaolyu.github.io/talks/) is published by APNIC.
 
 * (Nov 2022) [**DNS Asset Mapping and Health Tracking**](https://minzhaolyu.github.io/publications/) is accepted at IEEE Transactions on Network and Service Management (TNSM).
 
 * (Nov 2022) Undergraduate thesis student *Jun Han* will present his paper [**Evaluating Internet Speed Test**](https://minzhaolyu.github.io/publications/) at Asian Internet Enigneering Conference (AINTEC 2022) in Hiroshima, Japan.
-
-* (Sep 2022) [**Enterprise Asset Classification and Tracking**](https://minzhaolyu.github.io/publications/) is accepted at (Elsevier) Computer Networks.
 
 
 

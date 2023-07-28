@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
  -->
 
+* **[APNIC Blog]** M.Lyu, [Don’t Leave Network Blind Spots](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/), APNIC Blog, Jul 2023.
+
 * **[APNIC Blog]** M.Lyu, [The Current Development of DNS Encryption](https://blog.apnic.net/2023/01/19/the-current-development-of-dns-encryption/), APNIC Blog, Jan 2023.
 
 * **[APNIC Blog]** M.Lyu, [DNS Malware Misuse and Current Countermeasures](https://blog.apnic.net/2022/02/02/dns-malware-misuse-and-current-countermeasures/), APNIC Blog, Feb 2022.
