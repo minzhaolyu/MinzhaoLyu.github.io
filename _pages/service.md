@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service"
+title: "Service & Membership"
 permalink: /service/
 author_profile: true
 ---
@@ -28,3 +28,7 @@ author_profile: true
 
 * Conference Support
   * ACM MobiCom 2022, Sydney, Australia
+
+* Membership
+  * ACM Member
+  * IEEE Member
