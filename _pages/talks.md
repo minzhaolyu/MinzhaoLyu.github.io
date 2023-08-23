@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /talks/
+permalink: /media/
 author_profile: true
 ---
 <!-- 
@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
  -->
+ 
 Guest Post
 ======
 * **[APNIC Blog]** M.Lyu, [Don’t Leave Network Blind Spots](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/), APNIC Blog, Jul 2023.
