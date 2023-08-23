@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
 
-  - title: "Blog"
+  - title: "Media"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/
 
-  - title: "PhD Supervision"
+  - title: "Supervision"
     url: /supervision/
 
   - title: "Service"
     url: /service/
 
-  - title: "Updates"
+  - title: "Update"
     url: /update/
 
   - title: "Contact"

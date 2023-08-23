@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Blogs"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
  -->
-
+Guest Post
+======
 * **[APNIC Blog]** M.Lyu, [Don’t Leave Network Blind Spots](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/), APNIC Blog, Jul 2023.
 
 * **[APNIC Blog]** M.Lyu, [The Current Development of DNS Encryption](https://blog.apnic.net/2023/01/19/the-current-development-of-dns-encryption/), APNIC Blog, Jan 2023.
