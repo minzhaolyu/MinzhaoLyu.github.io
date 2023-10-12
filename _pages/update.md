@@ -5,6 +5,8 @@ permalink: /update/
 author_profile: true
 ---
 
+* (Oct 2023) [**Metaverse Network Anatomy**](https://minzhaolyu.github.io/publications/) is accepted at ACM SIGMETRICS/IFIP Performance 2024.
+
 * (Jul 2023) An invited blog on [**Enterprise Network Asset Classification**](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/) is published by APNIC.
 
 * (Jun 2023) [**Multi-stage Detection of Distributed Attacks**](https://minzhaolyu.github.io/publications/) is accepted at (Elsevier) Computer Networks.
