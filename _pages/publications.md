@@ -34,6 +34,9 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 Conference
 ======
+* **[ACM Sigmetrics]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://www.sigmetrics.org/sigmetrics2024/) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, June 2024.
+
+
 * **[AINTEC]** J. Han, **M. Lyu** and V. Sivaraman. [On the Validity of Internet Speed Test Tools and Broadband Measurement Programs](https://dl.acm.org/doi/10.1145/3570748.3570749) at **Asian Internet Engineering Conference**, Hiroshima, Japan, December 2022. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/22aintec.pdf))
 
 * **[PAM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Mapping an Enterprise Network by Analyzing DNS Traffic](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9) at **International Conference on Passive and Active Network Measurement**, Puerto Varas, Chile, March 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/19pam.pdf))
