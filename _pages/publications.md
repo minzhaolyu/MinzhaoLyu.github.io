@@ -11,7 +11,7 @@ author_profile: true
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Journal
+Journal Articles
 ======
 * **[ComNet]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [PEDDA: Practical and Effective Detection of Distributed Attacks on Enterprise Networks via Progressive Multi-Stage Inference](https://doi.org/10.1016/j.comnet.2023.109873) at (Elsevier) **Computer Networks**, Sep 2023. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/23Pedda.pdf))
 
@@ -32,7 +32,7 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 * **[IEEE TNSM]** H. Habibi Gharakheili, **M. Lyu**, Y. Wang, H. Kumar and V. Sivaraman. [iTeleScope: Softwarized Network Middle-Box for Real-Time Video Telemetry and Classification](https://ieeexplore.ieee.org/document/8765778) at **IEEE Transactions on Network and Service Management**, Dec 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/19TNSMtelescope.pdf))
 
-Conference
+Conference Papers
 ======
 * **[ACM Sigmetrics]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://www.sigmetrics.org/sigmetrics2024/) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, June 2024.
 
@@ -44,5 +44,12 @@ Conference
 * **[IEEE/IFIP NOMS]** S. C. Madanapalli, **M. Lyu**, H. Kumar, H. Habibi Gharakheili and V. Sivaraman. [Real-time detection, isolation and monitoring of elephant flows using commodity SDN system](https://ieeexplore.ieee.org/abstract/document/8406200) at **IEEE/IFIP Network Operations and Management Symposium**, Taipei, Taiwan, March 2018. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/18noms.pdf))
 
 * **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, July 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
+
+
+Patents
+======
+* "Cloud Gaming Monitoring Apparatus and Process", M. Lyu, S. C. Madanapalli, A. Vishwanath, V. Sivaraman, **AU Provisional Patent Application** No. 2023903009, filed Sep 2023.
+
+* "A Metaverse Monitoring Apparatus and Process", M. Lyu, R. Tripathi, V. Sivaraman, **AU Provisional Patent Application** No. 2023901715, filed May 2023.
 
 
