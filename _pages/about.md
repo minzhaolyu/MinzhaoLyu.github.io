@@ -11,12 +11,12 @@ redirect_from:
 I am currently working as a **Research Associate** in the [**Programmable Networking Lab**](https://www.capabilities.unsw.edu.au/software-defined-networking-cyber-intelligence) at the **University of New South Wales (UNSW)**, Sydney, Australia.
 I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the University of New South Wales, Sydney, Australia in 2017 and 2022 respectively. 
 
-My current research interests encompass **computer networks** with a specific focus on **analysing telecommunications network traffic** for **network security** and **application performance**, leveraging novel tehniques of programmable networks, data-driven analytics, and machine learning.
+My current research interests encompass **computer networks** with a specific focus on **analysing telecommunications network traffic** for on-demand **networked application Quality-of-Experience** and **network security**, leveraging novel tehniques of programmable networks, data-driven analytics, and machine learning.
 
 
-The website also contains a list of my publications, tech blogs, teaching and professional services. You may also find me at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
+The website also contains a list of my publications, blogs, teaching and professional services. You may also find me at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
 
-I am reachable via email [**minzhao.lyu@unsw.edu.au**] and open to discussions on emerging topics and potential collaborations.
+You can also reach me via email [**minzhao.lyu@unsw.edu.au**].
 
 
 Updates
