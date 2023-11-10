@@ -12,11 +12,11 @@ author_profile: true
 {% endfor %} -->
 
 * **Network Operations and Control** TELE9752
-  * (2023 - Now): Co-instructor
+  * (2023 - Now): Co-coordinator
   * (2021 - 2022): Teaching Assistant
 
 * **Network Systems Architecture** GSOE9758
-  * (2023 - Now): Co-instructor
+  * (2023 - Now): Co-coordinator
   * (2021 - 2022):Teaching Assistant
 
 * **Engineering Vertically Integrated Project** ENGG4600
