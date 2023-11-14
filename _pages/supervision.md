@@ -24,31 +24,31 @@ Undergraduate Thesis/Master Project/Internship Students
 
 * **[Praseem Singh Beniwal](https://www.linkedin.com/in/praseem-singh-beniwal-443343254/)**, Feb 2023 - Dec 2023, "Cloud Gaming Network Analysis".
   * mentored with Prof. Vijay Sivaraman
-  * BE in Software Engineering.
-  * now at Superloop (Sydney, Australia) as Engineer.
+  * BE in Software Engineering
+  * now at Superloop (Sydney, Australia) as Engineer
 
 * **[Rahul Tripathi](https://www.linkedin.com/in/rahul-tripathi-238184179/)**, May 2022 - Aug 2023, "Metaverse Network Analysis".
   * mentored with Prof. Vijay Sivaraman
-  * BE in Software Engineering/BSc in Mathematics.
-  * one second-authored research paper published at Sigmetrics 2024.
-  * one first-authored research paper to be submitted.
-  * now at Nullify (San Francisco Bay Area) as Founding Engineer.
+  * BE in Software Engineering/BSc in Mathematics
+  * one second-authored research paper published at Sigmetrics 2024
+  * one first-authored research paper to be submitted
+  * now at Nullify (San Francisco Bay Area) as Founding Engineer
 
-* **Song Guo**, May 2022 - Aug 2023, Sep 2022 - Aug 2023, "Blockchain for IoT MUD data sharing".
+* **Song Guo**, Sep 2022 - Aug 2023, "Blockchain for IoT MUD data sharing".
   * mentored with Dr. Hassan Habibi Gharakheili
   * ME in Telecommunications.
-  * one first-authored research paper to be submitted.
-  * now at China Unicom as Engineer.
+  * one first-authored research paper to be submitted
+  * now at China Unicom as Engineer
 
 * **[Rushil Pardasani](https://www.linkedin.com/in/rushilpardasani/)**, Sep 2022 - Aug 2023, "Cloud Gaming Network Analysis".
   * mentored with Prof. Vijay Sivaraman
   * BE in Software Engineering
-  * now at Superloop (Sydney, Australia) as Engineer.
+  * now at Superloop (Sydney, Australia) as Engineer
 
 * **[Jun Han](https://www.linkedin.com/in/jun-han-968217195/)**, Oct 2021 - Dec 2022, "Analysis of Internet Speed Test Tools and Broadband Measurement Programs".
   * mentored with Prof. Vijay Sivaraman
   * BE/ME in Electrical Engineering
-  * one first-authored research paper published at AINTEC 2022.
-  * now at Amazon AWS (Sydney, Australia) as Cloud Support Associate.
+  * one first-authored research paper published at AINTEC 2022
+  * now at Amazon AWS (Sydney, Australia) as Cloud Support Associate
 
 
