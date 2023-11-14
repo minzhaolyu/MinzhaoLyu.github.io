@@ -22,7 +22,7 @@ PhD Students
 Undergraduate Thesis/Master Project/Internship Students
 ======
 
-* **[Praseem Singh Beniwal](https://www.linkedin.com/in/praseem-singh-beniwal-443343254/)**, Feb 2023 - Dec 2023, "On the Validity of Internet Speed Test Tools and Broadband Measurement Programs".
+* **[Praseem Singh Beniwal](https://www.linkedin.com/in/praseem-singh-beniwal-443343254/)**, Feb 2023 - Dec 2023, "Cloud Gaming Network Analysis".
   * mentored with Prof. Vijay Sivaraman
   * BE in Software Engineering.
   * now at Superloop (Sydney, Australia) as Engineer.
@@ -48,7 +48,7 @@ Undergraduate Thesis/Master Project/Internship Students
 * **[Jun Han](https://www.linkedin.com/in/jun-han-968217195/)**, Oct 2021 - Dec 2022, "Analysis of Internet Speed Test Tools and Broadband Measurement Programs".
   * mentored with Prof. Vijay Sivaraman
   * BE/ME in Electrical Engineering
-  * first-authored research paper published at AINTEC 2022.
+  * one first-authored research paper published at AINTEC 2022.
   * now at Amazon AWS (Sydney, Australia) as Cloud Support Associate.
 
 
