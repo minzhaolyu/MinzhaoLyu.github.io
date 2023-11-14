@@ -16,7 +16,7 @@ PhD Students
 Undergraduate Thesis/Master Project/Internship Students
 ======
 
-* **[Praseem Singh Beniwal](https://www.linkedin.com/in/praseem-singh-beniwal-443343254/)**, Feb 2023 - Dec 2023, "Cloud Gaming Network Analysis".
+* **[Praseem Singh Beniwal](https://www.linkedin.com/in/praseem-singh-beniwal-443343254/)**, Feb 2023 - Dec 2023, "Cloud Gaming Network Analysis for Mobile Devices".
   * mentored with Prof. Vijay Sivaraman
   * BE in Software Engineering
   * now at Superloop (Sydney, Australia) as Engineer
