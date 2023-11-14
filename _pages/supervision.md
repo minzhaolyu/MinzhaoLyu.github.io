@@ -5,12 +5,6 @@ permalink: /supervision/
 author_profile: true
 ---
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
 PhD Students
 ======
 * **[Yifan Wang](https://www.linkedin.com/in/yifan-frank-wang)**, Dec 2022 - present, "Network Traffic Analysis and Machine Learning for Multimedia QoE". 
