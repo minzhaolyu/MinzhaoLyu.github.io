@@ -83,8 +83,8 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 Patents
 ======
-* "Cloud Gaming Monitoring Apparatus and Process", **M. Lyu**, S. C. Madanapalli, A. Vishwanath, V. Sivaraman, **AU Provisional Patent Application** No. 2023903009, filed Sep 2023.
+* "Cloud Gaming Monitoring Apparatus and Process", **M. Lyu**, S. C. Madanapalli, A. Vishwanath, V. Sivaraman, **Australian Provisional Patent** No. 2023903009, filed Sep 2023.
 
-* "A Metaverse Monitoring Apparatus and Process", **M. Lyu**, R. Tripathi, V. Sivaraman, **AU Provisional Patent Application** No. 2023901715, filed May 2023.
+* "A Metaverse Monitoring Apparatus and Process", **M. Lyu**, R. Tripathi, V. Sivaraman, **Australian Provisional Patent** No. 2023901715, filed May 2023.
 
 
