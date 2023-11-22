@@ -31,7 +31,7 @@ Telecommunications & Data Networking
 * **Trusted Network** TELE3119
   * (2018 - 2019): Lab Demonstrator
 
-Fundamentals Engineering Educations
+Fundamental Engineering Education
 ======
 
 * **Electrical Circuit Fundamentals** ELEC1111
