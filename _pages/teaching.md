@@ -11,6 +11,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Telecommunications & Data Networking
+======
+
 * **Network Operations and Control** TELE9752
   * (2023 - Now): Co-coordinator
   * (2021 - 2022): Teaching Assistant
@@ -19,17 +22,24 @@ author_profile: true
   * (2023 - Now): Co-coordinator
   * (2021 - 2022):Teaching Assistant
 
-* **Engineering Vertically Integrated Project** ENGG4600
-  * (2021 - 2022): Co-lead for CyberShield Project
-
 * **Network Performance** TELE4642
   * (2018 - Now): Teaching Assistant and Lab Demonstrator
+
+* **Network Technologies** TELE3118
+  * （2019 - Now): Teaching Assistant and Lab Demonstrator
 
 * **Trusted Network** TELE3119
   * (2018 - 2019): Lab Demonstrator
 
-* **Network Technologies** TELE3118
-  * （2019 - Now): Teaching Assistant and Lab Demonstrator
+Fundamentals Engineering Educations
+======
+
+* **Electrical Circuit Fundamentals** ELEC1111
+  * (2024 Summer term): Coordinator
+
+* **Engineering Vertically Integrated Project** ENGG4600
+  * (2021 - 2022): Co-lead for CyberShield Project
+
 
 
 
