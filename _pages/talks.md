@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
  -->
 
-Guest Post
+Invited Post
 ======
 * **[APNIC Blog]** M.Lyu, [Don’t Leave Network Blind Spots](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/), APNIC Blog, Jul 2023.
 
