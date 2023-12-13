@@ -49,7 +49,7 @@ Conference Papers
 Research Papers
 ======
 
-* **[ACM Sigmetrics]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://www.sigmetrics.org/sigmetrics2024/) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024.
+* **[ACM Sigmetrics]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024.
 
 * **[ComNet]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [PEDDA: Practical and Effective Detection of Distributed Attacks on Enterprise Networks via Progressive Multi-Stage Inference](https://doi.org/10.1016/j.comnet.2023.109873) at (Elsevier) **Computer Networks**, Sep 2023. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/23Pedda.pdf))
 
