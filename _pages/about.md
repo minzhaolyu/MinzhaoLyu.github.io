@@ -21,6 +21,8 @@ You can also reach me via email [**minzhao.lyu@unsw.edu.au**].
 
 Updates
 ======
+* (Dec 2024) [**Cloud Gaming Network Measurement**](https://minzhaolyu.github.io/publications/) is accepted at PAM 2024.
+
 * (Oct 2023) [**Metaverse Network Anatomy**](https://minzhaolyu.github.io/publications/) is accepted at ACM SIGMETRICS/IFIP Performance 2024.
 
 * (Jul 2023) An invited blog on [**Enterprise Network Asset Classification**](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/) is published by APNIC.
@@ -28,9 +30,6 @@ Updates
 * (Jun 2023) [**Multi-stage Detection of Distributed Attacks**](https://minzhaolyu.github.io/publications/) is accepted at (Elsevier) Computer Networks.
 
 * (Jan 2023) An invited blog on [**Current Development of DNS Encryption**](https://minzhaolyu.github.io/talks/) is published by APNIC.
-
-* (Nov 2022) [**DNS Asset Mapping and Health Tracking**](https://minzhaolyu.github.io/publications/) is accepted at IEEE Transactions on Network and Service Management (TNSM).
-
 
 
 * [More](https://minzhaolyu.github.io/update/)

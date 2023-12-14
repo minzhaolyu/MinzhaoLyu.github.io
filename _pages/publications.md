@@ -48,6 +48,8 @@ Conference Papers
 
 Research Papers
 ======
+* **[PAM]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://pam2024.cs.northwestern.edu/) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024.
+
 
 * **[ACM Sigmetrics]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024.
 

@@ -5,6 +5,8 @@ permalink: /update/
 author_profile: true
 ---
 
+* (Dec 2024) [**Cloud Gaming Network Measurement**](https://minzhaolyu.github.io/publications/) is accepted at PAM 2024.
+
 * (Oct 2023) [**Metaverse Network Anatomy**](https://minzhaolyu.github.io/publications/) is accepted at ACM SIGMETRICS/IFIP Performance 2024.
 
 * (Jul 2023) An invited blog on [**Enterprise Network Asset Classification**](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/) is published by APNIC.
