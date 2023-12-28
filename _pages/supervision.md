@@ -13,7 +13,7 @@ PhD Students
   * recipent of Australian Government **National Industry PhD Program**
 
 
-Undergraduate Thesis/Master Project/Internship Students
+Undergraduate Thesis/Masters Project/Internship Students
 ======
 
 * **[Praseem Singh Beniwal](https://www.linkedin.com/in/praseem-singh-beniwal-443343254/)**, Feb 2023 - Dec 2023, "Cloud Gaming Network Analysis for Mobile Devices".
@@ -31,7 +31,7 @@ Undergraduate Thesis/Master Project/Internship Students
 * **Song Guo**, Sep 2022 - Aug 2023, "Blockchain for IoT MUD data sharing".
   * mentored with Dr. Hassan Habibi Gharakheili
   * ME in Telecommunications.
-  * one first-authored research paper to be submitted
+  * one first-authored research paper published at IEEE/IFIP NOMS 2024
   * now at China Unicom as Engineer
 
 * **[Rushil Pardasani](https://www.linkedin.com/in/rushilpardasani/)**, Sep 2022 - Aug 2023, "Cloud Gaming Network Analysis".

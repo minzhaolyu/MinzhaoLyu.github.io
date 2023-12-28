@@ -5,7 +5,9 @@ permalink: /update/
 author_profile: true
 ---
 
-* (Dec 2023) [**Cloud Gaming Network Measurement**](https://minzhaolyu.github.io/publications/) is accepted at PAM 2024.
+* (Jan 2024) [**Cloud Gaming Network Measurement**](https://minzhaolyu.github.io/publications/) is accepted at PAM 2024.
+
+* (Dec 2023) [**Sharing of IoT MUD Data**] (https://minzhaolyu.github.io/publications/) first-authored by Masters Project student Song Guo is accepted at IEEE/IFIP NOMS 2024.
 
 * (Oct 2023) [**Metaverse Network Anatomy**](https://minzhaolyu.github.io/publications/) is accepted at ACM SIGMETRICS/IFIP Performance 2024.
 

@@ -21,15 +21,15 @@ You can also reach me via email [**minzhao.lyu@unsw.edu.au**].
 
 Updates
 ======
-* (Dec 2023) [**Cloud Gaming Network Measurement**](https://minzhaolyu.github.io/publications/) is accepted at PAM 2024.
+* (Jan 2024) [**Cloud Gaming Network Measurement**](https://minzhaolyu.github.io/publications/) is accepted at PAM 2024.
+
+* (Dec 2023) [**Sharing of IoT MUD Data**] (https://minzhaolyu.github.io/publications/) first-authored by Masters Project student Song Guo is accepted at IEEE/IFIP NOMS 2024.
 
 * (Oct 2023) [**Metaverse Network Anatomy**](https://minzhaolyu.github.io/publications/) is accepted at ACM SIGMETRICS/IFIP Performance 2024.
 
 * (Jul 2023) An invited blog on [**Enterprise Network Asset Classification**](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/) is published by APNIC.
 
 * (Jun 2023) [**Multi-stage Detection of Distributed Attacks**](https://minzhaolyu.github.io/publications/) is accepted at (Elsevier) Computer Networks.
-
-* (Jan 2023) An invited blog on [**Current Development of DNS Encryption**](https://minzhaolyu.github.io/talks/) is published by APNIC.
 
 
 * [More](https://minzhaolyu.github.io/update/)
