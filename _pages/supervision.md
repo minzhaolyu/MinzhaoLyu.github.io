@@ -26,6 +26,7 @@ Undergraduate Thesis/Masters Project/Internship Students
   * BE in Software Engineering/BSc in Mathematics
   * one second-authored research paper published at Sigmetrics 2024
   * one first-authored research paper to be submitted
+  * invited to [CSE Outstanding research thesis showcase 2023](https://www.cse.unsw.edu.au/~cs4953/showcase_2023.html)
   * now at Nullify (San Francisco Bay Area) as Founding Engineer
 
 * **Song Guo**, Sep 2022 - Aug 2023, "Blockchain for IoT MUD data sharing".
