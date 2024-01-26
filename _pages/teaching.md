@@ -15,11 +15,11 @@ Telecommunications & Data Networking
 ======
 
 * **Network Operations and Control** TELE9752
-  * (2023 - Now): Co-coordinator and Lecturer
+  * (2023 - Now): Co-convenor and Lecturer
   * (2021 - 2022): Teaching Assistant
 
 * **Network Systems Architecture** GSOE9758
-  * (2023 - Now): Co-coordinator and Lecturer
+  * (2023 - Now): Co-convenor and Lecturer
   * (2021 - 2022):Teaching Assistant
 
 * **Network Performance** TELE4642
@@ -35,7 +35,7 @@ Fundamental Engineering Education
 ======
 
 * **Electrical Circuit Fundamentals** ELEC1111
-  * (2024 Summer Term): Coordinator and Lecturer
+  * (2024 Summer Term): Convenor and Lecturer
 
 * **Engineering Vertically Integrated Project** ENGG4600
   * (2021 - 2022): Co-lead for CyberShield Project
