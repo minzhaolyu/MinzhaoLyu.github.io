@@ -18,16 +18,17 @@ author_profile: true
   * ACM Computing Surveys
   * IEEE Transactions on Network and Service Management
   * IEEE Transactions on Network Science and Engineering
+  * (Elsevier) Computer Networks 
+  * (Elsevier) Computers & Security
   * IEEE Transactions on Dependable and Secure Computing
   * IEEE Transactions on Green Communications and Networking
   * IEEE Internet of Things Journal
   * IEEE Networking Letters
-  * (Elsevier) Computer Networks 
-  * (Elsevier) Computers & Security
   * (Elsevier) Journal of Information Security and Applications
+  * (Elsevier) Journal of High Speed Networking
 
 * Conference Support
-  * ACM MobiCom 2022, Sydney, Australia
+  * Local Volunteer for ACM MobiCom 2022, Sydney, Australia
 
 * Membership
   * ACM Member
