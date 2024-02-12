@@ -19,7 +19,7 @@ Undergraduate Thesis/Masters Project/Internship Students
 
 * **[Marta Zumaquero Gil](hhttps://www.linkedin.com/in/marta-zumaquero-a813581b7/)**, Feb 2023 - Dec 2023, "Cybersecurity Product Mapping & Vulnerabilities Tool".
   * mentored with Dr. Hassan Habibi Gharakheili
-  * BE in Telecommunications Engineering & BCom
+  * BE in Telecommunications & BCom
   * one first-authored research paper to be submitted
 
 * **[Praseem Singh Beniwal](https://www.linkedin.com/in/praseem-singh-beniwal-443343254/)**, Feb 2023 - Dec 2023, "Cloud Gaming Network Analysis for Mobile Devices".
