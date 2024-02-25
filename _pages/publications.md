@@ -87,6 +87,8 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 Patents
 ======
+* "Video Streaming User Platform Identification", Y. Wang, **M. Lyu**, A. Vishwanath, V. Sivaraman, **Australian Provisional Patent** No. -, filed Dec 2023.
+
 * "Cloud Gaming Monitoring Apparatus and Process", **M. Lyu**, S. C. Madanapalli, A. Vishwanath, V. Sivaraman, **Australian Provisional Patent** No. 2023903009, filed Sep 2023.
 
 * "A Metaverse Monitoring Apparatus and Process", **M. Lyu**, R. Tripathi, V. Sivaraman, **Australian Provisional Patent** No. 2023901715, filed May 2023.
