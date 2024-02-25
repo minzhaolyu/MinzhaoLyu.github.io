@@ -48,12 +48,12 @@ Conference Papers
 
 Research Papers
 ======
-* **[PAM]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://pam2024.cs.northwestern.edu/) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024.
+* **[PAM]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://arxiv.org/pdf/2401.06366.pdf) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
 
-* **[IEEE/IFIP NOMS]** S. Guo, **M. Lyu** and H. Habibi Gharakheili. [Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors](https://noms2024.ieee-noms.org/) at **IEEE/IFIP Network Operations and Management Symposium**, Seoul, South Korea, May 2024.
+* **[IEEE/IFIP NOMS]** S. Guo, **M. Lyu** and H. Habibi Gharakheili. [Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors](https://arxiv.org/pdf/2401.00141.pdf) at **IEEE/IFIP Network Operations and Management Symposium**, Seoul, South Korea, May 2024. ([preprint version](https://arxiv.org/pdf/2401.00141.pdf))
 
 
-* **[ACM SIGMETRICS]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024.
+* **[ACM SIGMETRICS]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
 * **[ComNet]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [PEDDA: Practical and Effective Detection of Distributed Attacks on Enterprise Networks via Progressive Multi-Stage Inference](https://doi.org/10.1016/j.comnet.2023.109873) at (Elsevier) **Computer Networks**, Sep 2023. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/23Pedda.pdf))
 
@@ -84,6 +84,9 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 * **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, Jul 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 
+Preprints (not peer-reviewed)
+======
+* **[arXiv]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://arxiv.org/pdf/2306.16675.pdf), **arXiv**, Jun 2023. arXiv:2306.16675
 
 Patents
 ======
