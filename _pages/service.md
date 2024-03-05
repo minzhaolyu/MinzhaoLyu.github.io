@@ -26,6 +26,7 @@ author_profile: true
   * IEEE Networking Letters
   * (Elsevier) Journal of Information Security and Applications
   * (Elsevier) Journal of High Speed Networking
+  * IET Information Security
 
 * Conference Support
   * Local Volunteer for ACM MobiCom 2022, Sydney, Australia
