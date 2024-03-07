@@ -56,6 +56,9 @@ Research Papers
 * **[PAM]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://arxiv.org/pdf/2401.06366.pdf) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
 
 
+* **[JMIR]** X. He, F. Cui, **M. Lyu**, D. Sun, X. Zhang, J. Shi, Y. Zhang, S. Jiang and J. Zhao. [Key Factors Influencing the Operationalization and Effectiveness of Telemedicine Services in Henan Province, China: Cross-Sectional Analysis](https://www.jmir.org/2021/7/e28009/) at **Journal of Medical Internet Research**, Jan 2024.
+
+
 * **[ComNet]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [PEDDA: Practical and Effective Detection of Distributed Attacks on Enterprise Networks via Progressive Multi-Stage Inference](https://doi.org/10.1016/j.comnet.2023.109873) at (Elsevier) **Computer Networks**, Sep 2023. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/23Pedda.pdf))
 
 * **[ACM CSUR]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [A Survey on DNS Encryption: Current
