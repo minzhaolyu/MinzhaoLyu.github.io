@@ -46,12 +46,10 @@ Conference Papers
 * **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, July 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 -->
 
-Research Papers
+Full Papers
 ======
 * **[ACM SIGMETRICS/IFIP Performance]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
-
-* **[IEEE/IFIP NOMS]** S. Guo, **M. Lyu** and H. Habibi Gharakheili. [Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors](https://arxiv.org/pdf/2401.00141.pdf) at **IEEE/IFIP Network Operations and Management Symposium**, Seoul, South Korea, May 2024. ([preprint version](https://arxiv.org/pdf/2401.00141.pdf))
 
 * **[PAM]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://arxiv.org/pdf/2401.06366.pdf) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
 
@@ -84,11 +82,17 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 * **[PAM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Mapping an Enterprise Network by Analyzing DNS Traffic](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9) at **International Conference on Passive and Active Network Measurement**, Puerto Varas, Chile, Mar 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/19pam.pdf))
 
 
+Short Papers
+======
+* **[IEEE/IFIP NOMS]** S. Guo, **M. Lyu** and H. Habibi Gharakheili. [Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors](https://arxiv.org/pdf/2401.00141.pdf) at **IEEE/IFIP Network Operations and Management Symposium**, Seoul, South Korea, May 2024. ([preprint version](https://arxiv.org/pdf/2401.00141.pdf))
+
 * **[IEEE/IFIP NOMS]** S. C. Madanapalli, **M. Lyu**, H. Kumar, H. Habibi Gharakheili and V. Sivaraman. [Real-time detection, isolation and monitoring of elephant flows using commodity SDN system](https://ieeexplore.ieee.org/abstract/document/8406200) at **IEEE/IFIP Network Operations and Management Symposium**, Taipei, Taiwan, Mar 2018. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/18noms.pdf))
 
 * **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, Jul 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 
-Preprints (not peer-reviewed)
+
+
+Preprints
 ======
 * **[arXiv]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://arxiv.org/pdf/2306.16675.pdf), **arXiv**, Jun 2023. arXiv:2306.16675
 
