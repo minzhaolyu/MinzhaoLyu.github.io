@@ -37,6 +37,9 @@ Updates
 
 Featured Research
 ======
+
+* [This link for full list of my publication](https://minzhaolyu.github.io/publications/)
+
 * **[ACM SIGMETRICS/IFIP Performance]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
 
