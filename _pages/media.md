@@ -24,7 +24,7 @@ Invited Post
 
 * **[APNIC Blog]** M.Lyu, [DNS Malware Misuse and Current Countermeasures](https://blog.apnic.net/2022/02/02/dns-malware-misuse-and-current-countermeasures/), APNIC Blog, Feb 2022.
 
-Media Exposure
+News Exposure
 ======
 * **[CommsDay News]** "Research Could Shape Premium Cloud Gaming", [Communications Day](https://www.commsday.com/), 18 Mar 2024.
 

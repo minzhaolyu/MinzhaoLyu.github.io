@@ -3,17 +3,17 @@ main:
   - title: "Publication"
     url: /publications/
 
-  - title: "Blog"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/
 
   - title: "Supervision"
     url: /supervision/
 
-  - title: "Service"
+  - title: "Professional Service"
     url: /service/
+
+  - title: "Media Exposure"
+    url: /talks/    
 
   - title: "Update"
     url: /update/
