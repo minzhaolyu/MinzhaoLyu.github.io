@@ -13,7 +13,7 @@ main:
     url: /service/
 
   - title: "Media Exposure"
-    url: /talks/    
+    url: /media/    
 
   - title: "Update"
     url: /update/
