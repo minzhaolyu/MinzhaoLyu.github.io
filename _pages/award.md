@@ -14,7 +14,7 @@ author_profile: true
  -->
 
 
-* (Mar 2024): Google Cloud **Academic Research Grants** for USD $5000 Credits on Google Cloud Platform
+* (Mar 2024): M. Lyu, "Analysing Network Data for Telecommunications Operational Insights with Google’s Gemini Large Language Model", **Google Cloud Academic Research Grants** USD $5000 Credits on Google Cloud Platform.
 
 <!-- * (Feb 2018 - Aug 2021): CSIRO’s Data61 PhD Scholarship & Top-up Scholarship 
 * (Feb 2018 - Sep 2021): UNSW PhD Tuition Fee Scholarship

@@ -24,8 +24,9 @@ author_profile: true
   * IEEE Transactions on Green Communications and Networking
   * IEEE Internet of Things Journal
   * IEEE Networking Letters
-  * (Elsevier) Journal of Information Security and Applications
-  * (Elsevier) Journal of High Speed Networking
+  * Journal of Network and Systems Management
+  * Journal of Information Security and Applications
+  * Journal of High Speed Networking
   * IET Information Security
 
 * Conference Support
