@@ -21,6 +21,8 @@ You can also reach me via email [**minzhao.lyu@unsw.edu.au**].
 
 Updates
 ======
+* (Apr 2024) [**Analysing Cloud Game Adaptability**](https://minzhaolyu.github.io/publications/) is accepted at IFIP/IEEE Networking Conference 2024.
+
 * (Jan 2024) [**Cloud Gaming Network Measurement**](https://minzhaolyu.github.io/publications/) is accepted at PAM 2024.
 
 * (Dec 2023) [**Sharing of IoT MUD Data**](https://minzhaolyu.github.io/publications/) first-authored by Masters Project student Song Guo is accepted at IEEE/IFIP NOMS 2024.
@@ -28,8 +30,6 @@ Updates
 * (Oct 2023) [**Metaverse Network Anatomy**](https://minzhaolyu.github.io/publications/) is accepted at ACM SIGMETRICS/IFIP Performance 2024.
 
 * (Jul 2023) An invited blog on [**Enterprise Network Asset Classification**](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/) is published by APNIC.
-
-* (Jun 2023) [**Multi-stage Detection of Distributed Attacks**](https://minzhaolyu.github.io/publications/) is accepted at (Elsevier) Computer Networks.
 
 
 * [More](https://minzhaolyu.github.io/update/)
@@ -40,8 +40,10 @@ Featured Research
 
 * [This link for full list of my publication](https://minzhaolyu.github.io/publications/)
 
+
 * **[ACM SIGMETRICS/IFIP Performance]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
+* **[IFIP/IEEE Networking]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP/IEEE Networking**, Thessaloniki, Greece, Jun 2024.
 
 * **[PAM]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://arxiv.org/pdf/2401.06366.pdf) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
 
