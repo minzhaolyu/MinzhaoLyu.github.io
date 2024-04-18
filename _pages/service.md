@@ -30,6 +30,7 @@ author_profile: true
   * IET Information Security
 
 * Conference Support
+  * Local Arrangement Chair for ACM SIGCOMM Workshop on Networks for AI Computing (NAIC) 2024.
   * Local Volunteer for ACM MobiCom 2022, Sydney, Australia
 
 * Membership
