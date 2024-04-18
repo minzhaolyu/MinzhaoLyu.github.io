@@ -21,6 +21,8 @@ You can also reach me via email [**minzhao.lyu@unsw.edu.au**].
 
 Updates
 ======
+* (Apr 2024) I will serve as **Local Arrangement Chair** for ACM SIGCOMM'24 Workshop on [**Networks for AI Computing (NAIC)**](https://conferences.sigcomm.org/sigcomm/2024/workshop/naic/).
+
 * (Apr 2024) [**Analysing Cloud Game Adaptability**](https://minzhaolyu.github.io/publications/) is accepted at IFIP/IEEE Networking Conference 2024.
 
 * (Jan 2024) [**Cloud Gaming Network Measurement**](https://minzhaolyu.github.io/publications/) is accepted at PAM 2024.
@@ -28,8 +30,6 @@ Updates
 * (Dec 2023) [**Sharing of IoT MUD Data**](https://minzhaolyu.github.io/publications/) first-authored by Masters Project student Song Guo is accepted at IEEE/IFIP NOMS 2024.
 
 * (Oct 2023) [**Metaverse Network Anatomy**](https://minzhaolyu.github.io/publications/) is accepted at ACM SIGMETRICS/IFIP Performance 2024.
-
-* (Jul 2023) An invited blog on [**Enterprise Network Asset Classification**](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/) is published by APNIC.
 
 
 * [More](https://minzhaolyu.github.io/update/)
