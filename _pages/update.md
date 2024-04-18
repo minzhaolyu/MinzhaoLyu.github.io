@@ -5,7 +5,7 @@ permalink: /update/
 author_profile: true
 ---
 
-* (Apr 2024) I will serve as Local Arrangement Chair for ACM **SIGCOMM'24** Workshop on [**Networks for AI Computing (NAIC)**](https://conferences.sigcomm.org/sigcomm/2024/workshop/naic/).
+* (Apr 2024) I will serve as **Local Arrangement Chair** for ACM SIGCOMM'24 Workshop on [**Networks for AI Computing (NAIC)**](https://conferences.sigcomm.org/sigcomm/2024/workshop/naic/).
 
 * (Apr 2024) [**Analysing Cloud Game Adaptability**](https://minzhaolyu.github.io/publications/) is accepted at IFIP/IEEE Networking Conference 2024.
 
