@@ -16,7 +16,7 @@ My current research interests encompass **computer networks** with a specific fo
 
 The website also contains a list of my publications, blogs, teaching and professional services. You may also find me at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
 
-You can also reach me via email [**minzhao.lyu@unsw.edu.au**].
+Our group is continously looking for PhD students who are self-motivated and have strong background in computer networks and systems. If you are interested, please do not hestiate contacting me via email [**minzhao.lyu@unsw.edu.au**].
 
 
 Updates
