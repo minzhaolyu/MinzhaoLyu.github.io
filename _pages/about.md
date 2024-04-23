@@ -41,7 +41,7 @@ Selected Publications
 * [This link for full list of my publication](https://minzhaolyu.github.io/publications/)
 
 
-* **[ACM SIGMETRICS/IFIP Performance]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
+* **[ACM SIGMETRICS]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
 * **[IFIP/IEEE Networking]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP/IEEE Networking**, Thessaloniki, Greece, Jun 2024.
 
@@ -68,4 +68,4 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 * **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, Jul 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=56b90rck1lh&amp;s=310&amp;m=8&amp;v=true&amp;r=false&amp;b=000000&amp;n=true&amp;c=00ff6c" async="async"></script>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=56b90rck1lh&amp;s=310&amp;m=8&amp;v=true&amp;r=false&amp;b=000000&amp;n=true&amp;c=00ff6c" async="async"></script> -->
