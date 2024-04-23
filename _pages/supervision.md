@@ -8,7 +8,7 @@ author_profile: true
 PhD Students
 ======
 * **[Yifan Wang](https://www.linkedin.com/in/yifan-frank-wang)**, Dec 2022 - present, "Network Traffic Analysis and Machine Learning for Multimedia QoE". 
-  * co-supervised with Prof. Vijay Sivaraman (UNSW) and Dr. Arun Vishvanath (Canopus Networks)
+  * co-supervised with Prof. Vijay Sivaraman
   * recipent of UNSW **University International Postgraduate Award (UIPA)**
   * recipent of Australian Government **National Industry PhD Program**
 
