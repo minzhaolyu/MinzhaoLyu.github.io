@@ -84,7 +84,7 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 Short Papers
 ======
-* **[IFIP/IEEE Networking]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP/IEEE Networking**, Thessaloniki, Greece, Jun 2024.
+* **[IFIP Networking]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP Networking**, Thessaloniki, Greece, Jun 2024.
 
 * **[IEEE/IFIP NOMS]** S. Guo, **M. Lyu** and H. Habibi Gharakheili. [Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors](https://arxiv.org/pdf/2401.00141.pdf) at **IEEE/IFIP Network Operations and Management Symposium**, Seoul, South Korea, May 2024. ([preprint version](https://arxiv.org/pdf/2401.00141.pdf))
 

@@ -43,7 +43,7 @@ Selected Publications
 
 * **[ACM SIGMETRICS]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
-* **[IFIP/IEEE Networking]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP/IEEE Networking**, Thessaloniki, Greece, Jun 2024.
+* **[IFIP Networking]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP/IEEE Networking**, Thessaloniki, Greece, Jun 2024.
 
 * **[PAM]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://arxiv.org/pdf/2401.06366.pdf) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
 
