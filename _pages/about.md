@@ -35,37 +35,20 @@ Updates
 * [More](https://minzhaolyu.github.io/update/)
 
 
-Selected Publications
+
+Featured Research:
 ======
 
 * [This link for full list of my publication](https://minzhaolyu.github.io/publications/)
 
+* **Network Measurement & AI for Multimedia Application**: [ACM SIGMETRICS 24], [IFIP Networking 24], [PAM 24], [IEEE TNSM 19], [IEEE/IFIP NOMS 18].
 
-* **[ACM SIGMETRICS]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
+* **Network Measurement & AI for Enterprise Cybersecurity**: [ComNet 23], [ACM CSUR 23], [ComNet 22], [IEEE TNSM 22], [IEEE TNSM 21], [PAM 19].
 
-* **[IFIP Networking]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP/IEEE Networking**, Thessaloniki, Greece, Jun 2024.
+* **IoT Systems Network Security**: [IEEE/IFIP NOMS 24], [IEEE IoTJ 21] [ACM WiSec 17].
 
-* **[PAM]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://arxiv.org/pdf/2401.06366.pdf) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
-
-
-* **[ComNet]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [PEDDA: Practical and Effective Detection of Distributed Attacks on Enterprise Networks via Progressive Multi-Stage Inference](https://doi.org/10.1016/j.comnet.2023.109873) at (Elsevier) **Computer Networks**, Sep 2023. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/23Pedda.pdf))
-
-* **[ACM CSUR]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [A Survey on DNS Encryption: Current
-Development, Malware Misuse, and Inference Techniques](https://dl.acm.org/doi/abs/10.1145/3547331) at **ACM Computing Surveys**, Aug 2023. ([preprint version](https://www.researchgate.net/profile/Minzhao-Lyu/publication/357587121_A_Survey_on_DNS_Encryption_Current_Development_Malware_Misuse_and_Inference_Techniques/links/61ee10f0dafcdb25fd48b7a8/A-Survey-on-DNS-Encryption-Current-Development-Malware-Misuse-and-Inference-Techniques.pdf))
-
-* **[AINTEC]** J. Han, **M. Lyu** and V. Sivaraman. [On the Validity of Internet Speed Test Tools and Broadband Measurement Programs](https://dl.acm.org/doi/10.1145/3570748.3570749) at **Asian Internet Engineering Conference**, Hiroshima, Japan, Dec 2022. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/22aintec.pdf))
-
-* **[IEEE TNSM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Enterprise DNS Asset Mapping and Cyber-Health Tracking via Passive Traffic Analysis](https://ieeexplore.ieee.org/document/9951392) at **IEEE Transactions on Network and Service Management**, Nov 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22tnsm.pdf))
+* **Network Analysis of Societal-Impact Services**: [AINTEC 22].
 
 
-* **[ComNet]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [Classifying and Tracking Enterprise Assets via
-Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/article/pii/S1389128622004212) at (Elsevier) **Computer Networks**, Dec 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22ComNet.pdf))
-
-
-* **[IEEE TNSM]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Hierarchical Anomaly-Based Detection of Distributed DNS Attacks on Enterprise Networks](https://ieeexplore.ieee.org/abstract/document/9316919) at **IEEE Transactions on Network and Service Management**, Mar 2021. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/21tnsmDNSAtk.pdf))
-
-* **[IEEE TNSM]** H. Habibi Gharakheili, **M. Lyu**, Y. Wang, H. Kumar and V. Sivaraman. [iTeleScope: Softwarized Network Middle-Box for Real-Time Video Telemetry and Classification](https://ieeexplore.ieee.org/document/8765778) at **IEEE Transactions on Network and Service Management**, Dec 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/19TNSMtelescope.pdf))
-
-* **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, Jul 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=56b90rck1lh&amp;s=310&amp;m=8&amp;v=true&amp;r=false&amp;b=000000&amp;n=true&amp;c=00ff6c" async="async"></script> -->
