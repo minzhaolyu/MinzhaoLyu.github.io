@@ -36,18 +36,18 @@ Updates
 
 
 
-Featured Research:
+Featured Publications:
 ======
 
 * [This link for full list of my publication](https://minzhaolyu.github.io/publications/)
 
-* **Network Measurement & AI for Multimedia Application**: [ACM SIGMETRICS 24], [IFIP Networking 24], [PAM 24], [IEEE TNSM 19], [IEEE/IFIP NOMS 18].
+* **Network Measurement & AI for Multimedia Application**: [ACM SIGMETRICS 24](https://dl.acm.org/doi/10.1145/3626786), [IFIP Networking 24], [PAM 24](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3), [IEEE TNSM 19](https://ieeexplore.ieee.org/document/8765778), [IEEE/IFIP NOMS 18](https://ieeexplore.ieee.org/abstract/document/8406200).
 
-* **Network Measurement & AI for Enterprise Cybersecurity**: [ComNet 23], [ACM CSUR 23], [ComNet 22], [IEEE TNSM 22], [IEEE TNSM 21], [PAM 19].
+* **Network Measurement & AI for Enterprise Cybersecurity**: [ComNet 23](https://doi.org/10.1016/j.comnet.2023.109873), [ACM CSUR 23](https://dl.acm.org/doi/abs/10.1145/3547331), [ComNet 22](https://www.sciencedirect.com/science/article/pii/S1389128622004212), [IEEE TNSM 22](https://ieeexplore.ieee.org/document/9951392), [IEEE TNSM 21](https://ieeexplore.ieee.org/abstract/document/9316919), [PAM 19](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9).
 
-* **IoT Systems Network Security**: [IEEE/IFIP NOMS 24], [IEEE IoTJ 21] [ACM WiSec 17].
+* **IoT Systems Network Security**: [IEEE/IFIP NOMS 24], [IEEE IoTJ 21](https://ieeexplore.ieee.org/abstract/document/9273056), [ACM WiSec 17](https://dl.acm.org/doi/abs/10.1145/3098243.3098264).
 
-* **Network Analysis of Societal-Impact Services**: [AINTEC 22].
+* **Network Analysis of Societal-Impact Services**: [AINTEC 22](https://dl.acm.org/doi/10.1145/3570748.3570749).
 
 
 
