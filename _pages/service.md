@@ -16,6 +16,7 @@ author_profile: true
 
 * Journal Reviewer
   * ACM Computing Surveys
+  * IEEE/ACM Transactions on Networking
   * IEEE Transactions on Network and Service Management
   * IEEE Transactions on Network Science and Engineering
   * (Elsevier) Computer Networks 
