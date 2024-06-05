@@ -29,6 +29,7 @@ author_profile: true
   * Journal of Information Security and Applications
   * Journal of High Speed Networking
   * IET Information Security
+  * (Elsevier) Expert Systems With Applications
 
 * Conference Support
   * Local Arrangement Chair for ACM SIGCOMM Workshop on Networks for AI Computing (NAIC) 2024.
