@@ -5,6 +5,8 @@ permalink: /update/
 author_profile: true
 ---
 
+* (Jun 2024) [**Standarizing Multimedia QoE Telemetry**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM SIGCOMM'24 Workshop on [**Emerging Multimedia Systems (EMS)**].
+
 * (Apr 2024) I will serve as **Local Arrangement Chair** for ACM SIGCOMM'24 Workshop on [**Networks for AI Computing (NAIC)**](https://conferences.sigcomm.org/sigcomm/2024/workshop/naic/).
 
 * (Apr 2024) [**Analysing Cloud Game Adaptability**](https://minzhaolyu.github.io/publications/) is accepted at IFIP Networking Conference 2024.

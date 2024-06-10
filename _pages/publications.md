@@ -82,6 +82,8 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 Short Papers
 ======
+* **[ACM EMS 24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Standardizing Multimedia QoE Telemetry from Telecommunications Networks for Open Analytics](https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/) at **ACM SIGCOMM Workhop on Emerging Multimedia Systems**, Sydney, Australia, Aug 2024.
+
 * **[IFIP Networking 24]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP Networking**, Thessaloniki, Greece, Jun 2024.
 
 * **[IEEE/IFIP NOMS 24]** S. Guo, **M. Lyu** and H. Habibi Gharakheili. [Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors](https://arxiv.org/pdf/2401.00141.pdf) at **IEEE/IFIP Network Operations and Management Symposium**, Seoul, South Korea, May 2024. ([preprint version](https://arxiv.org/pdf/2401.00141.pdf))
