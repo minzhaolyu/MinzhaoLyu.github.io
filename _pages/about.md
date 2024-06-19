@@ -11,7 +11,7 @@ redirect_from:
 I am currently working as a **Research Associate** in the [**Programmable Networking Lab**](https://www.capabilities.unsw.edu.au/software-defined-networking-cyber-intelligence) at the **University of New South Wales (UNSW)**, Sydney, Australia.
 I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the University of New South Wales, Sydney, Australia in 2017 and 2022 respectively. 
 
-My current research interests encompass **computer networks** with a specific focus on **network measurement** for **multimedia Quality-of-Experience** and **cybersecurity**, leveraging novel tehniques of programmable networks, data-driven analytics, and machine learning.
+My current research interests encompass **computer networks** with a specific focus on **network measurement** for **multimedia Quality-of-Experience** and **cybersecurity**, leveraging novel techniques of programmable networks, data-driven analytics, and machine learning.
 
 
 The website also contains a list of my publications, blogs, teaching and professional services. You may also find my profile at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
@@ -23,7 +23,7 @@ Updates
 ======
 * (Jun 2024) [**Mapping Cyber Risk Database**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Marta Zumaquero Gil and [**Measuring GenAI Usage**](https://minzhaolyu.github.io/publications/) are accepted at ACM SIGCOMM'24 Side Event AINTEC.
 
-* (Jun 2024) [**Standarizing Multimedia QoE Telemetry**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM SIGCOMM'24 Workshop on EMS.
+* (Jun 2024) [**Standardizing Multimedia QoE Telemetry**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM SIGCOMM'24 Workshop on EMS.
 
 * (Apr 2024) I will serve as **Local Arrangement Chair** for ACM SIGCOMM'24 Workshop on [**Networks for AI Computing (NAIC)**](https://conferences.sigcomm.org/sigcomm/2024/workshop/naic/).
 
