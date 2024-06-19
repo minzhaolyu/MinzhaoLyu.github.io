@@ -4,6 +4,8 @@ title: "News and Updates"
 permalink: /update/
 author_profile: true
 ---
+* (Jun 2024) [**Mapping Cyber Risk Database**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Marta Zumaquero Gil and [**Measuring GenAI Usage**](https://minzhaolyu.github.io/publications/) are accepted at ACM SIGCOMM'24 Side Event AINTEC.
+
 
 * (Jun 2024) [**Standarizing Multimedia QoE Telemetry**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM SIGCOMM'24 Workshop on [**Emerging Multimedia Systems (EMS)**].
 
@@ -33,4 +35,4 @@ author_profile: true
 
 * (Feb 2022) An invited blog on [**DNS Malware Misuse and Contermeasures**](https://minzhaolyu.github.io/talks/) is published by APNIC.
 
-* (Oct 2021) Start my postdoctoral role as a **Research Associate** at the University of New South Wales, Sydney, Australia (UNSW Sydney).
+* (Oct 2021) Start my Research Associate role as a **Research Associate** at the University of New South Wales, Sydney, Australia (UNSW Sydney).
