@@ -46,15 +46,19 @@ Conference Papers
 * **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, July 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 -->
 
-Full Papers
+Journal Articles and Full Conference Papers
 ======
-* **[ACM SIGMETRICS 24]** **M. Lyu**, R. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
+* **[AINTEC 24-1]** **M. Lyu**, Y. Wang and V. Sivaraman. [Measuring GenAI Usage Patterns in a University Campus via Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3674213.3674214) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
+
+* **[AINTEC 24-2]** M. Zumaquero Gil, Z. Hu, **M. Lyu**, G. Batista and H. Habibi Gharakheili. [Systematic Mapping and Temporal Reasoning of IoT Cyber Risks using Structured Data](https://dl.acm.org/doi/) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
+
+* **[ACM SIGMETRICS 24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
 
 * **[PAM 24]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
 
 
-* **[JMIR 24]** X. He, F. Cui, **M. Lyu**, D. Sun, X. Zhang, J. Shi, Y. Zhang, S. Jiang and J. Zhao. [Key Factors Influencing the Operationalization and Effectiveness of Telemedicine Services in Henan Province, China: Cross-Sectional Analysis](https://www.jmir.org/2024/1/e45020/) at **Journal of Medical Internet Research**, Jan 2024.
+* [JMIR 24] X. He, F. Cui, **M. Lyu**, D. Sun, X. Zhang, J. Shi, Y. Zhang, S. Jiang and J. Zhao. [Key Factors Influencing the Operationalization and Effectiveness of Telemedicine Services in Henan Province, China: Cross-Sectional Analysis](https://www.jmir.org/2024/1/e45020/) at **Journal of Medical Internet Research**, Jan 2024.
 
 
 * **[ComNet 23]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [PEDDA: Practical and Effective Detection of Distributed Attacks on Enterprise Networks via Progressive Multi-Stage Inference](https://doi.org/10.1016/j.comnet.2023.109873) at (Elsevier) **Computer Networks**, Sep 2023. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/23Pedda.pdf))
@@ -69,9 +73,9 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 * **[IEEE TNSM 22]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Enterprise DNS Asset Mapping and Cyber-Health Tracking via Passive Traffic Analysis](https://ieeexplore.ieee.org/document/9951392) at **IEEE Transactions on Network and Service Management**, Nov 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22tnsm.pdf))
 
-* **[JMIR 21]** F. Cui, X. He, Y. Zhai, **M. Lyu**, J. Shi, D. Sun, S. Juang, C. Li, and J. Zhao. [Application of Telemedicine Services Based on a Regional Telemedicine Platform in China from 2014 to 2020: Longitudinal Trend Anaylsis](https://www.jmir.org/2021/7/e28009/) at **Journal of Medical Internet Research**, Jul 2021.
+* [JMIR 21] F. Cui, X. He, Y. Zhai, **M. Lyu**, J. Shi, D. Sun, S. Juang, C. Li, and J. Zhao. [Application of Telemedicine Services Based on a Regional Telemedicine Platform in China from 2014 to 2020: Longitudinal Trend Anaylsis](https://www.jmir.org/2021/7/e28009/) at **Journal of Medical Internet Research**, Jul 2021.
 
-* **[IEEE IoTJ 21]** B. Chen, S. Qiao, J. Zhao, D. Liu, X. Shi, **M. Lyu**, H. Chen, H. Lu, and Y. Zhai. [A Security Awareness & Protection System For 5G Smart Healthcare Based on Zero-Trust Architecture](https://ieeexplore.ieee.org/abstract/document/9273056) at **IEEE Internet of Things Journal**, Jul 2021.
+* [IEEE IoTJ 21] B. Chen, S. Qiao, J. Zhao, D. Liu, X. Shi, **M. Lyu**, H. Chen, H. Lu, and Y. Zhai. [A Security Awareness & Protection System For 5G Smart Healthcare Based on Zero-Trust Architecture](https://ieeexplore.ieee.org/abstract/document/9273056) at **IEEE Internet of Things Journal**, Jul 2021.
 
 * **[IEEE TNSM 21]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Hierarchical Anomaly-Based Detection of Distributed DNS Attacks on Enterprise Networks](https://ieeexplore.ieee.org/abstract/document/9316919) at **IEEE Transactions on Network and Service Management**, Mar 2021. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/21tnsmDNSAtk.pdf))
 
@@ -88,10 +92,15 @@ Short Papers
 
 * **[IEEE/IFIP NOMS 24]** S. Guo, **M. Lyu** and H. Habibi Gharakheili. [Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors](https://arxiv.org/pdf/2401.00141.pdf) at **IEEE/IFIP Network Operations and Management Symposium**, Seoul, South Korea, May 2024. ([preprint version](https://arxiv.org/pdf/2401.00141.pdf))
 
+
 * **[IEEE/IFIP NOMS 18]** S. C. Madanapalli, **M. Lyu**, H. Kumar, H. Habibi Gharakheili and V. Sivaraman. [Real-time detection, isolation and monitoring of elephant flows using commodity SDN system](https://ieeexplore.ieee.org/abstract/document/8406200) at **IEEE/IFIP Network Operations and Management Symposium**, Taipei, Taiwan, Mar 2018. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/18noms.pdf))
 
 * **[ACM WiSec 17]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, Jul 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 
+
+Abstracts
+======
+* **[ACM SIGMETRICS Abstracts 24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3652963.3655065) at **Abstracts of the 2024 ACM SIGMETRICS/IFIP PERFORMANCE Joint International Conference on Measurement and Modeling of Computer Systems**, Venice, Italy, Jun 2024.
 
 
 Preprints
