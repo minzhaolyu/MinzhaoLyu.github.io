@@ -45,13 +45,13 @@ Featured Publications:
 
 * [This link for full list of my publication](https://minzhaolyu.github.io/publications/)
 
-* **Network Measurement for Multimedia Application**: [ACM EMS 24], [ACM SIGMETRICS 24](https://dl.acm.org/doi/10.1145/3626786), [IFIP Networking 24], [PAM 24](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3), [IEEE TNSM 19](https://ieeexplore.ieee.org/document/8765778), [IEEE/IFIP NOMS 18](https://ieeexplore.ieee.org/abstract/document/8406200).
+* **Network Measurement for Multimedia Application**: [EMS24], [SIGMETRICS24](https://dl.acm.org/doi/10.1145/3626786), [Networking24], [PAM24](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3), [TNSM19](https://ieeexplore.ieee.org/document/8765778), [NOMS18](https://ieeexplore.ieee.org/abstract/document/8406200).
 
-* **Network Measurement for Enterprise Cybersecurity**: [ComNet 23](https://doi.org/10.1016/j.comnet.2023.109873), [ACM CSUR 23](https://dl.acm.org/doi/abs/10.1145/3547331), [ComNet 22](https://www.sciencedirect.com/science/article/pii/S1389128622004212), [IEEE TNSM 22](https://ieeexplore.ieee.org/document/9951392), [IEEE TNSM 21](https://ieeexplore.ieee.org/abstract/document/9316919), [PAM 19](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9).
+* **Network Measurement for Enterprise Cybersecurity**: [ComNet23](https://doi.org/10.1016/j.comnet.2023.109873), [CSUR23](https://dl.acm.org/doi/abs/10.1145/3547331), [ComNet22](https://www.sciencedirect.com/science/article/pii/S1389128622004212), [TNSM22](https://ieeexplore.ieee.org/document/9951392), [TNSM21](https://ieeexplore.ieee.org/abstract/document/9316919), [PAM19](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9).
 
-* **IoT Systems Network Security**: [AINTEC 24-2], [IEEE/IFIP NOMS 24], [IEEE IoTJ 21](https://ieeexplore.ieee.org/abstract/document/9273056), [ACM WiSec 17](https://dl.acm.org/doi/abs/10.1145/3098243.3098264).
+* **IoT Systems Network Security**: [AINTEC24-2], [NOMS24], [IoTJ21](https://ieeexplore.ieee.org/abstract/document/9273056), [ACM WiSec 17](https://dl.acm.org/doi/abs/10.1145/3098243.3098264).
 
-* **Network Measurement for Societal-Impact Services**: [AINTEC 24-1], [AINTEC 22](https://dl.acm.org/doi/10.1145/3570748.3570749).
+* **Network Measurement for Societal-Impact Services**: [AINTEC24-1], [AINTEC22](https://dl.acm.org/doi/10.1145/3570748.3570749).
 
 
 
