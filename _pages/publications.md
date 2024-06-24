@@ -48,9 +48,7 @@ Conference Papers
 
 Journal Articles and Full Conference Papers
 ======
-* **[AINTEC 24-1]** **M. Lyu**, Y. Wang and V. Sivaraman. [Measuring GenAI Usage Patterns in a University Campus via Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3674213.3674214) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
-
-* **[AINTEC 24-2]** M. Zumaquero Gil, Z. Hu, **M. Lyu**, G. Batista and H. Habibi Gharakheili. [Systematic Mapping and Temporal Reasoning of IoT Cyber Risks using Structured Data](https://dl.acm.org/doi/) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
+(>=12 pages ACM/IEEE double column or equivalent)
 
 * **[ACM SIGMETRICS 24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
@@ -86,7 +84,13 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 Short Papers
 ======
+(<12 pages ACM/IEEE double column or equivalent)
+
 * **[ACM EMS 24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Standardizing Multimedia QoE Telemetry from Telecommunications Networks for Open Analytics](https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/) at **ACM SIGCOMM Workshop on Emerging Multimedia Systems**, Sydney, Australia, Aug 2024.
+
+* **[AINTEC 24-1]** **M. Lyu**, Y. Wang and V. Sivaraman. [Measuring GenAI Usage Patterns in a University Campus via Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3674213.3674214) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
+
+* **[AINTEC 24-2]** M. Zumaquero Gil, Z. Hu, **M. Lyu**, G. Batista and H. Habibi Gharakheili. [Systematic Mapping and Temporal Reasoning of IoT Cyber Risks using Structured Data](https://dl.acm.org/doi/) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
 
 * **[IFIP Networking 24]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP Networking**, Thessaloniki, Greece, Jun 2024.
 
@@ -98,14 +102,14 @@ Short Papers
 * **[ACM WiSec 17]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, Jul 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 
 
-Abstracts
+Conference Abstracts and Posters
 ======
 * **[ACM SIGMETRICS Abstracts 24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3652963.3655065) at **Abstracts of the 2024 ACM SIGMETRICS/IFIP PERFORMANCE Joint International Conference on Measurement and Modeling of Computer Systems**, Venice, Italy, Jun 2024.
 
 
 Preprints
 ======
-* **[arXiv]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://arxiv.org/pdf/2306.16675.pdf), **arXiv**, Jun 2023. arXiv:2306.16675
+* **[IEEE Access]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://arxiv.org/pdf/2306.16675.pdf), **IEEE Access**, Jun 2024.
 
 Patents
 ======
