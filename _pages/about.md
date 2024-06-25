@@ -21,6 +21,8 @@ The website also contains a list of my publications, blogs, teaching and profess
 
 Updates
 ======
+* (Jun 2024) [**Network QoS Impacting Metaverse QoE**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Rahul Dev Tripathi is accepted at IEEE MetaCom 2024.
+
 * (Jun 2024) [**Mapping Cyber Risk Database**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Marta Zumaquero Gil and [**Measuring GenAI Usage**](https://minzhaolyu.github.io/publications/) are accepted at ACM SIGCOMM'24 Side Event AINTEC.
 
 * (Jun 2024) [**Standardizing Multimedia QoE Telemetry**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM SIGCOMM'24 Workshop on EMS.
@@ -28,12 +30,6 @@ Updates
 * (Apr 2024) I will serve as **Local Arrangement Chair** for ACM SIGCOMM'24 Workshop on [**Networks for AI Computing (NAIC)**](https://conferences.sigcomm.org/sigcomm/2024/workshop/naic/).
 
 * (Apr 2024) [**Analysing Cloud Game Adaptability**](https://minzhaolyu.github.io/publications/) is accepted at IFIP/IEEE Networking Conference 2024.
-
-* (Jan 2024) [**Cloud Gaming Network Measurement**](https://minzhaolyu.github.io/publications/) is accepted at PAM 2024.
-
-* (Dec 2023) [**Sharing of IoT MUD Data**](https://minzhaolyu.github.io/publications/) first-authored by Masters Project student Song Guo is accepted at IEEE/IFIP NOMS 2024.
-
-* (Oct 2023) [**Measuring Metaverse Network Activity**](https://minzhaolyu.github.io/publications/) is accepted at ACM SIGMETRICS/IFIP Performance 2024.
 
 
 * [More](https://minzhaolyu.github.io/update/)
@@ -49,7 +45,7 @@ Featured Publications:
 
 * **Network Measurement for Enterprise Cybersecurity**: [ComNet23](https://doi.org/10.1016/j.comnet.2023.109873), [CSUR23](https://dl.acm.org/doi/abs/10.1145/3547331), [ComNet22](https://www.sciencedirect.com/science/article/pii/S1389128622004212), [TNSM22](https://ieeexplore.ieee.org/document/9951392), [TNSM21](https://ieeexplore.ieee.org/abstract/document/9316919), [PAM19](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9).
 
-* **IoT Systems Network Security**: [AINTEC24-2], [NOMS24], [IoTJ21](https://ieeexplore.ieee.org/abstract/document/9273056), [ACM WiSec 17](https://dl.acm.org/doi/abs/10.1145/3098243.3098264).
+* **IoT Systems Network Security**: [AINTEC24-2], [NOMS24], [IoTJ21](https://ieeexplore.ieee.org/abstract/document/9273056), [WiSec17](https://dl.acm.org/doi/abs/10.1145/3098243.3098264).
 
 * **Network Measurement for Societal-Impact Services**: [AINTEC24-1], [AINTEC22](https://dl.acm.org/doi/10.1145/3570748.3570749).
 

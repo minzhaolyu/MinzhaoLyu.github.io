@@ -78,15 +78,17 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 * **[TNSM19]** H. Habibi Gharakheili, **M. Lyu**, Y. Wang, H. Kumar and V. Sivaraman. [iTeleScope: Softwarized Network Middle-Box for Real-Time Video Telemetry and Classification](https://ieeexplore.ieee.org/document/8765778) at **IEEE Transactions on Network and Service Management**, Dec 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/19TNSMtelescope.pdf))
 
 
-Short ACM and Full IEEE/IFIP Conference Papers
+Short ACM and Full IEEE Conference Papers
 ======
 (<12 pages ACM/IEEE double column or equivalent)
 
-* **[EMS24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Standardizing Multimedia QoE Telemetry from Telecommunications Networks for Open Analytics](https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/) at **ACM SIGCOMM Workshop on Emerging Multimedia Systems**, Sydney, Australia, Aug 2024.
+* **[MetaCom24]** R. D. Tripathi, **M. Lyu** and V. Sivaraman. [Assessing the Impact of Network Quality-of-Service on Metaverse Virtual Reality User Experience](https://ieee-metacom.org/) at **IEEE MetaCom**, Hong Kong, China, Aug 2024.
 
 * **[AINTEC24-1]** **M. Lyu**, Y. Wang and V. Sivaraman. [Measuring GenAI Usage Patterns in a University Campus via Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3674213.3674214) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
 
 * **[AINTEC24-2]** M. Zumaquero Gil, Z. Hu, **M. Lyu**, G. Batista and H. Habibi Gharakheili. [Systematic Mapping and Temporal Reasoning of IoT Cyber Risks using Structured Data](https://dl.acm.org/doi/) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
+
+* **[EMS24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Standardizing Multimedia QoE Telemetry from Telecommunications Networks for Open Analytics](https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/) at **ACM SIGCOMM Workshop on Emerging Multimedia Systems**, Sydney, Australia, Aug 2024.
 
 * **[Networking24]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP Networking**, Thessaloniki, Greece, Jun 2024.
 
