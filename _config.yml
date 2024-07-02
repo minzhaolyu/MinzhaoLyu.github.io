@@ -84,12 +84,12 @@ author:
   avatar           : "BioPhoto.jpg"
   bio              : "Research Associate in Computer Networks"
   location         : "Sydney, NSW, Australia"
-  employer         : "School of EE&T, UNSW Sydney"
+  employer         : "University of New South Wales (UNSW Sydney)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ"
   email            : "minzhao.lyu@unsw.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Minzhao-Lyu"
-  uri              : "https://www.unsw.edu.au/staff/minzhao-lyu"
+ # uri              : "https://www.unsw.edu.au/staff/minzhao-lyu"
   uriresearch      : "https://research.unsw.edu.au/people/dr-minzhao-lyu"
   bitbucket        :
   codepen          :
