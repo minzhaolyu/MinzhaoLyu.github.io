@@ -45,7 +45,7 @@ Featured Publications:
 
 * **Network Measurement for Enterprise Cybersecurity**: [ComNet23](https://doi.org/10.1016/j.comnet.2023.109873), [CSUR23](https://dl.acm.org/doi/abs/10.1145/3547331), [ComNet22](https://www.sciencedirect.com/science/article/pii/S1389128622004212), [TNSM22](https://ieeexplore.ieee.org/document/9951392), [TNSM21](https://ieeexplore.ieee.org/abstract/document/9316919), [PAM19](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9).
 
-* **IoT Systems Network Security**: [AINTEC24-2], [NOMS24], [IoTJ21](https://ieeexplore.ieee.org/abstract/document/9273056), [WiSec17](https://dl.acm.org/doi/abs/10.1145/3098243.3098264).
+* **IoT Systems Network Security**: [AINTEC24-2], [NOMS24](https://ieeexplore.ieee.org/document/10575272), [IoTJ21](https://ieeexplore.ieee.org/abstract/document/9273056), [WiSec17](https://dl.acm.org/doi/abs/10.1145/3098243.3098264).
 
 * **Network Measurement for Societal-Impact Services**: [AINTEC24-1], [AINTEC22](https://dl.acm.org/doi/10.1145/3570748.3570749).
 

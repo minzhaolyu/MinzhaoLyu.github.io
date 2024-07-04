@@ -84,15 +84,15 @@ Short ACM and Full IEEE Conference Papers
 
 * **[MetaCom24]** R. D. Tripathi, **M. Lyu** and V. Sivaraman. [Assessing the Impact of Network Quality-of-Service on Metaverse Virtual Reality User Experience](https://ieee-metacom.org/) at **IEEE MetaCom**, Hong Kong, China, Aug 2024.
 
-* **[AINTEC24-1]** **M. Lyu**, Y. Wang and V. Sivaraman. [Measuring GenAI Usage Patterns in a University Campus via Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3674213.3674214) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
+* **[AINTEC24-1]** **M. Lyu**, Y. Wang and V. Sivaraman. [Measuring GenAI Usage Patterns in a University Campus via Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3674213.3674214) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024. ([preprint version](https://www2.ee.unsw.edu.au/~vijay/pubs/conf/24genAI.pdf))
 
 * **[AINTEC24-2]** M. Zumaquero Gil, Z. Hu, **M. Lyu**, G. Batista and H. Habibi Gharakheili. [Systematic Mapping and Temporal Reasoning of IoT Cyber Risks using Structured Data](https://dl.acm.org/doi/) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
 
-* **[EMS24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Standardizing Multimedia QoE Telemetry from Telecommunications Networks for Open Analytics](https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/) at **ACM SIGCOMM Workshop on Emerging Multimedia Systems**, Sydney, Australia, Aug 2024.
+* **[EMS24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Standardizing Multimedia QoE Telemetry from Telecommunications Networks for Open Analytics](https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/) at **ACM SIGCOMM Workshop on Emerging Multimedia Systems**, Sydney, Australia, Aug 2024. ([preprint version](https://www2.ee.unsw.edu.au/~vijay/pubs/conf/24ems.pdf))
 
-* **[Networking24]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP Networking**, Thessaloniki, Greece, Jun 2024.
+* **[Networking24]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP Networking**, Thessaloniki, Greece, Jun 2024. ([preprint version](https://www2.ee.unsw.edu.au/~vijay/pubs/conf/24IfipNetworking.pdf))
 
-* **[NOMS24]** S. Guo, **M. Lyu** and H. Habibi Gharakheili. [Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors](https://arxiv.org/pdf/2401.00141.pdf) at **IEEE/IFIP Network Operations and Management Symposium**, Seoul, South Korea, May 2024. ([preprint version](https://arxiv.org/pdf/2401.00141.pdf))
+* **[NOMS24]** S. Guo, **M. Lyu** and H. Habibi Gharakheili. [Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors](https://ieeexplore.ieee.org/document/10575272) at **IEEE/IFIP Network Operations and Management Symposium**, Seoul, South Korea, May 2024. ([preprint version](https://arxiv.org/pdf/2401.00141.pdf))
 
 * **[AINTEC22]** J. Han, **M. Lyu** and V. Sivaraman. [On the Validity of Internet Speed Test Tools and Broadband Measurement Programs](https://dl.acm.org/doi/10.1145/3570748.3570749) at **Asian Internet Engineering Conference**, Hiroshima, Japan, Dec 2022. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/22aintec.pdf))
 
