@@ -24,8 +24,14 @@ Invited Post
 
 * **[APNIC Blog]** M.Lyu, [DNS Malware Misuse and Current Countermeasures](https://blog.apnic.net/2022/02/02/dns-malware-misuse-and-current-countermeasures/), APNIC Blog, Feb 2022.
 
+Featured Video Presentation
+======
+* **[ACM]** M.Lyu, [SIGMETRICS'24 - MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://www.youtube.com/watch?v=wXUWo-9BGM0), Association for Computing Machinery (ACM), Jun 2024.
+
 News Exposure
 ======
 * **[CommsDay News]** "Research Could Shape Premium Cloud Gaming", [Communications Day](https://www.commsday.com/), 18 Mar 2024.
 
 * **[CommsDay News]** "ACCC Broadband Speed Program Criticised for Sampling Bias, Methodology Errors", [Communications Day](https://www.commsday.com/), 7 Feb 2023.
+
+
