@@ -88,7 +88,7 @@ Short ACM and Full IEEE Conference Papers
 
 * **[AINTEC24-2]** M. Zumaquero Gil, Z. Hu, **M. Lyu**, G. Batista and H. Habibi Gharakheili. [Systematic Mapping and Temporal Reasoning of IoT Cyber Risks using Structured Data](https://dl.acm.org/doi/) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024.
 
-* **[EMS24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Standardizing Multimedia QoE Telemetry from Telecommunications Networks for Open Analytics](https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/) at **ACM SIGCOMM Workshop on Emerging Multimedia Systems**, Sydney, Australia, Aug 2024. ([preprint version](https://www2.ee.unsw.edu.au/~vijay/pubs/conf/24ems.pdf))
+* **[EMS24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Standardizing Multimedia QoE Telemetry from Telecommunications Networks for Open Analytics](https://dl.acm.org/doi/10.1145/3672196.3673400) at **ACM SIGCOMM Workshop on Emerging Multimedia Systems**, Sydney, Australia, Aug 2024. ([preprint version](https://www2.ee.unsw.edu.au/~vijay/pubs/conf/24ems.pdf))
 
 * **[Networking24]** **M. Lyu**, Y. Wang and V. Sivaraman. [Do Cloud Games Adapt to Client Settings and Network Conditions?](https://networking.ifip.org/2024/index.php) at **IFIP Networking**, Thessaloniki, Greece, Jun 2024. ([preprint version](https://www2.ee.unsw.edu.au/~vijay/pubs/conf/24IfipNetworking.pdf))
 

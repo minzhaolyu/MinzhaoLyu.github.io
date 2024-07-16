@@ -41,7 +41,7 @@ Featured Publications:
 
 * [This link for full list of my publication](https://minzhaolyu.github.io/publications/)
 
-* **Network Measurement for Multimedia Application**: [EMS24], [SIGMETRICS24](https://dl.acm.org/doi/10.1145/3626786), [Networking24], [PAM24](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3), [TNSM19](https://ieeexplore.ieee.org/document/8765778), [NOMS18](https://ieeexplore.ieee.org/abstract/document/8406200).
+* **Network Measurement for Multimedia Application**: [EMS24](https://dl.acm.org/doi/10.1145/3672196.3673400), [SIGMETRICS24](https://dl.acm.org/doi/10.1145/3626786), [Networking24], [PAM24](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3), [TNSM19](https://ieeexplore.ieee.org/document/8765778), [NOMS18](https://ieeexplore.ieee.org/abstract/document/8406200).
 
 * **Network Measurement for Enterprise Cybersecurity**: [ComNet23](https://doi.org/10.1016/j.comnet.2023.109873), [CSUR23](https://dl.acm.org/doi/abs/10.1145/3547331), [ComNet22](https://www.sciencedirect.com/science/article/pii/S1389128622004212), [TNSM22](https://ieeexplore.ieee.org/document/9951392), [TNSM21](https://ieeexplore.ieee.org/abstract/document/9316919), [PAM19](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9).
 
