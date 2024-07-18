@@ -46,9 +46,8 @@ Conference Papers
 * **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, July 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 -->
 
-Journal Articles and Full ACM Conference Papers
+Journal Articles and Full Conference Papers
 ======
-(>=12 pages ACM/IEEE double column or equivalent)
 
 * **[SIGMETRICS24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
@@ -64,6 +63,8 @@ Journal Articles and Full ACM Conference Papers
 * **[CSUR23]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [A Survey on DNS Encryption: Current
 Development, Malware Misuse, and Inference Techniques](https://dl.acm.org/doi/abs/10.1145/3547331) at **ACM Computing Surveys**, Aug 2023. ([preprint version](https://www.researchgate.net/profile/Minzhao-Lyu/publication/357587121_A_Survey_on_DNS_Encryption_Current_Development_Malware_Misuse_and_Inference_Techniques/links/61ee10f0dafcdb25fd48b7a8/A-Survey-on-DNS-Encryption-Current-Development-Malware-Misuse-and-Inference-Techniques.pdf))
 
+* **[Access23]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://arxiv.org/pdf/2306.16675.pdf), **IEEE Access**, Jun 2023.
+
 * **[ComNet22]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [Classifying and Tracking Enterprise Assets via
 Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/article/pii/S1389128622004212) at (Elsevier) **Computer Networks**, Dec 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22ComNet.pdf))
 
@@ -78,9 +79,8 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 * **[TNSM19]** H. Habibi Gharakheili, **M. Lyu**, Y. Wang, H. Kumar and V. Sivaraman. [iTeleScope: Softwarized Network Middle-Box for Real-Time Video Telemetry and Classification](https://ieeexplore.ieee.org/document/8765778) at **IEEE Transactions on Network and Service Management**, Dec 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/19TNSMtelescope.pdf))
 
 
-Short ACM and Full IEEE Conference Papers
+Regular and Short Conference Papers
 ======
-(<12 pages ACM/IEEE double column or equivalent)
 
 * **[MetaCom24]** R. D. Tripathi, **M. Lyu** and V. Sivaraman. [Assessing the Impact of Network Quality-of-Service on Metaverse Virtual Reality User Experience](https://ieee-metacom.org/) at **IEEE MetaCom**, Hong Kong, China, Aug 2024.
 
@@ -107,10 +107,6 @@ Conference Abstracts and Posters
 ======
 * **[SIGMETRICS Abstracts 24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3652963.3655065) at **Abstracts of the 2024 ACM SIGMETRICS/IFIP PERFORMANCE Joint International Conference on Measurement and Modeling of Computer Systems**, Venice, Italy, Jun 2024.
 
-
-Preprints
-======
-* **[Access]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://arxiv.org/pdf/2306.16675.pdf), **IEEE Access**, Jun 2024.
 
 Patents
 ======
