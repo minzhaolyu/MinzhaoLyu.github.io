@@ -5,12 +5,15 @@ permalink: /supervision/
 author_profile: true
 ---
 
-PhD Students
+Research Students
 ======
-* **[Yifan Wang](https://www.linkedin.com/in/yifan-frank-wang)**, Dec 2022 - present, "Network Traffic Analysis and Machine Learning for Multimedia QoE". 
+* **[Yifan Wang](https://www.linkedin.com/in/yifan-frank-wang)**, PhD student, Dec 2022 - present, "Network Traffic Analysis and Machine Learning for Multimedia QoE". 
   * co-supervised with Prof. Vijay Sivaraman
   * recipent of UNSW's **University International Postgraduate Award (UIPA)**
   * recipent of Australian Government's **National Industry PhD Program**
+
+* **[Rushi Babaria](https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&originalSubdomain=in)**, MPhil student, Feb 2024 - present, "Fast Network Traffic Classification". 
+  * co-supervised with Prof. Vijay Sivaraman and A/Prof. Gustavo Batista
 
 
 Undergraduate Thesis/Masters Project Students
