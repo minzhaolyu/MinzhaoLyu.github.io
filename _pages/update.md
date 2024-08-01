@@ -4,6 +4,8 @@ title: "News and Updates"
 permalink: /update/
 author_profile: true
 ---
+* (Aug 2024) [**Characterizing Video Streaming User Platforms**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM IMC 2024.
+
 * (Jun 2024) [**Network QoS Impacting Metaverse QoE**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Rahul Dev Tripathi is accepted at IEEE MetaCom 2024.
 
 * (Jun 2024) [**Mapping Cyber Risk Database**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Marta Zumaquero Gil and [**Measuring GenAI Usage**](https://minzhaolyu.github.io/publications/) are accepted at ACM SIGCOMM'24 Side Event AINTEC.

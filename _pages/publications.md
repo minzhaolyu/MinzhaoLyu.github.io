@@ -48,6 +48,7 @@ Conference Papers
 
 Journal Articles and Full Conference Papers
 ======
+* **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://conferences.sigcomm.org/imc/2024/) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. 
 
 * **[SIGMETRICS24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
