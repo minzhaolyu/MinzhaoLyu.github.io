@@ -39,4 +39,4 @@ author_profile: true
 
 * (Feb 2022) An invited blog on [**DNS Malware Misuse and Contermeasures**](https://minzhaolyu.github.io/talks/) is published by APNIC.
 
-* (Oct 2021) Start my Research Associate role as a **Research Associate** at the University of New South Wales, Sydney, Australia (UNSW Sydney).
+* (Oct 2021) Start my **Research Associate** role at the University of New South Wales, Sydney, Australia (UNSW Sydney).
