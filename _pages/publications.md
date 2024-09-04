@@ -48,7 +48,7 @@ Conference Papers
 
 Journal Articles and Full Conference Papers
 ======
-* **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://conferences.sigcomm.org/imc/2024/) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. 
+* **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://conferences.sigcomm.org/imc/2024/accepted-papers/) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. ([preprint version](https://arxiv.org/pdf/2408.16995))
 
 * **[SIGMETRICS24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
@@ -64,7 +64,7 @@ Journal Articles and Full Conference Papers
 * **[CSUR23]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [A Survey on DNS Encryption: Current
 Development, Malware Misuse, and Inference Techniques](https://dl.acm.org/doi/abs/10.1145/3547331) at **ACM Computing Surveys**, Aug 2023. ([preprint version](https://www.researchgate.net/profile/Minzhao-Lyu/publication/357587121_A_Survey_on_DNS_Encryption_Current_Development_Malware_Misuse_and_Inference_Techniques/links/61ee10f0dafcdb25fd48b7a8/A-Survey-on-DNS-Encryption-Current-Development-Malware-Misuse-and-Inference-Techniques.pdf))
 
-* **[Access23]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://arxiv.org/pdf/2306.16675.pdf), **IEEE Access**, Jun 2023.
+* **[Access23]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://ieeexplore.ieee.org/document/10571950), **IEEE Access**, Jun 2023.
 
 * **[ComNet22]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [Classifying and Tracking Enterprise Assets via
 Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/article/pii/S1389128622004212) at (Elsevier) **Computer Networks**, Dec 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22ComNet.pdf))
