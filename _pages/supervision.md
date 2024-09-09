@@ -5,9 +5,13 @@ permalink: /supervision/
 author_profile: true
 ---
 
-Research Students
+PhD/MPhil Students
 ======
-* **[Yifan Wang](https://www.linkedin.com/in/yifan-frank-wang)**, PhD student, Dec 2022 - present, "Network Traffic Analysis and Machine Learning for Multimedia QoE". 
+* **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Cybersecurity for Enterprise Networks using Network Behavioral Analysis". 
+  * co-supervised with Prof. Vijay Sivaraman
+  * recipent of Indonesian Government's **Indonesia Endowment Fund for Education (LPDP) Scholarship**
+
+* **[Yifan Wang](https://wangyi.fan/)**, PhD student, Dec 2022 - present, "Network Traffic Analysis and Machine Learning for Multimedia QoE". 
   * co-supervised with Prof. Vijay Sivaraman
   * recipent of UNSW's **University International Postgraduate Award (UIPA)**
   * recipent of Australian Government's **National Industry PhD Program**
@@ -16,7 +20,7 @@ Research Students
   * co-supervised with Prof. Vijay Sivaraman and A/Prof. Gustavo Batista
 
 
-Undergraduate Thesis/Masters Project Students
+Representative Undergraduate/Masters Thesis Students
 ======
 
 
@@ -26,12 +30,12 @@ Undergraduate Thesis/Masters Project Students
   * one first-authored research paper published at AINTEC 2024
   * first job at UNSW IT as Network and Security Engineer
 
-* **[Praseem Singh Beniwal](https://www.linkedin.com/in/praseem-singh-beniwal-443343254/)**, UG Thesis, Feb 2023 - Dec 2023, "Cloud Gaming Network Analysis for Mobile Devices".
+<!-- * **[Praseem Singh Beniwal](https://www.linkedin.com/in/praseem-singh-beniwal-443343254/)**, UG Thesis, Feb 2023 - Dec 2023, "Cloud Gaming Network Analysis for Mobile Devices".
   * mentored with Prof. Vijay Sivaraman
   * BE in Software Engineering
-  * first job at Superloop (Sydney, Australia) as Engineer
+  * first job at Superloop (Sydney, Australia) as Engineer -->
 
-* **[Rahul Tripathi](https://www.linkedin.com/in/rahul-tripathi-238184179/)**, Taste-of-Research Intern & UG Thesis, May 2022 - Aug 2023, "Metaverse Network Analysis".
+* **[Rahul Dev Tripathi](https://www.linkedin.com/in/rahul-tripathi-238184179/)**, Taste-of-Research Intern & UG Thesis, May 2022 - Aug 2023, "Metaverse Network Analysis".
   * mentored with Prof. Vijay Sivaraman
   * BE in Software Engineering/BSc in Mathematics
   * one second-authored research paper published at ACM SIGMETRICS 2024
@@ -45,10 +49,10 @@ Undergraduate Thesis/Masters Project Students
   * one first-authored research paper published at IEEE/IFIP NOMS 2024
   * first job at China Unicom as Engineer
 
-* **[Rushil Pardasani](https://www.linkedin.com/in/rushilpardasani/)**, UG Thesis, Sep 2022 - Aug 2023, "Cloud Gaming Network Analysis".
+<!-- * **[Rushil Pardasani](https://www.linkedin.com/in/rushilpardasani/)**, UG Thesis, Sep 2022 - Aug 2023, "Cloud Gaming Network Analysis".
   * mentored with Prof. Vijay Sivaraman
   * BE in Software Engineering
-  * first job at Superloop (Sydney, Australia) as Engineer
+  * first job at Superloop (Sydney, Australia) as Engineer -->
 
 * **[Jun Han](https://www.linkedin.com/in/jun-han-968217195/)**, UG Thesis, Oct 2021 - Dec 2022, "Analysis of Internet Speed Test Tools and Broadband Measurement Programs".
   * mentored with Prof. Vijay Sivaraman
