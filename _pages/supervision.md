@@ -7,7 +7,7 @@ author_profile: true
 
 PhD/MPhil Students
 ======
-* **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Cybersecurity for Enterprise Networks using Network Behavioral Analysis". 
+* **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Enterprise Cybersecurity using Network Behavioral Analysis". 
   * co-supervised with Prof. Vijay Sivaraman
   * recipent of Indonesian Government's **Indonesia Endowment Fund for Education (LPDP) Scholarship**
 
