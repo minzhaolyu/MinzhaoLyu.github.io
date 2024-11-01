@@ -46,6 +46,10 @@ Conference Papers
 * **[ACM WiSec]** **M. Lyu**, D. Sherratt, A. Sivanathan, H. Habibi Gharakheili, A. Radford and V. Sivaraman. [Quantifying the Reflective DDoS Attack Capability of Household IoT Devices](https://dl.acm.org/doi/abs/10.1145/3098243.3098264) at **ACM Conference on Security and Privacy in Wireless and Mobile Networks**, Boston, MA, USA, July 2017. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/17wisec.pdf))
 -->
 
+<!-- The Top Conference is [CS Rankings](https://csrankings.org/) is annotated as TC.
+Tier-A and Tier-B CS conferences and Journals listed by Tsinghua's TH-CPL (https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf) are annotated as A and and B, respectively.
+ -->
+
 Journal Articles and Full Conference Papers
 ======
 * **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://conferences.sigcomm.org/imc/2024/accepted-papers/) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. ([preprint version](https://arxiv.org/pdf/2408.16995))
