@@ -52,7 +52,7 @@ Tier-A and Tier-B CS conferences and Journals listed by Tsinghua's TH-CPL (https
 
 Journal Articles and Full Conference Papers
 ======
-* **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://conferences.sigcomm.org/imc/2024/accepted-papers/) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. ([preprint version](https://arxiv.org/pdf/2408.16995))
+* **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://dl.acm.org/doi/10.1145/3646547.3688435) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. ([preprint version](https://arxiv.org/pdf/2408.16995))
 
 * **[SIGMETRICS24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
@@ -117,7 +117,7 @@ Patents
 ======
 * "Video Streaming User Platform Identification", Y. Wang, **M. Lyu**, A. Vishwanath, V. Sivaraman, **Australian Provisional Patent Application** No. 2023903896, filed Dec 2023.
 
-* "Cloud Gaming Monitoring Apparatus and Process", **M. Lyu**, S. C. Madanapalli, A. Vishwanath, V. Sivaraman, **Australian Provisional Patent Application** No. 2023903009, filed Sep 2023.
+* "Cloud Gaming Monitoring Apparatus and Process", **M. Lyu**, S. C. Madanapalli, A. Vishwanath, V. Sivaraman, **International PCT Patent Application** No. PCT/AU2024/050996, filed Sep 2024.
 
 * "A Metaverse Monitoring Apparatus and Process", **M. Lyu**, R. Tripathi, V. Sivaraman, **Australian Provisional Patent Application** No. 2023901715, filed May 2023.
 
