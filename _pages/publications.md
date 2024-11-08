@@ -87,7 +87,7 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 Regular and Short Conference Papers
 ======
 
-* **[MetaCom24]** R. D. Tripathi, **M. Lyu** and V. Sivaraman. [Assessing the Impact of Network Quality-of-Service on Metaverse Virtual Reality User Experience](https://ieee-metacom.org/) at **IEEE MetaCom**, Hong Kong, China, Aug 2024. ([preprint version](https://arxiv.org/pdf/2407.10423))
+* **[MetaCom24]** R. D. Tripathi, **M. Lyu** and V. Sivaraman. [Assessing the Impact of Network Quality-of-Service on Metaverse Virtual Reality User Experience](https://ieeexplore.ieee.org/document/10740019) at **IEEE MetaCom**, Hong Kong, China, Aug 2024. ([preprint version](https://arxiv.org/pdf/2407.10423))
 
 * **[AINTEC24-1]** **M. Lyu**, Y. Wang and V. Sivaraman. [Measuring GenAI Usage Patterns in a University Campus via Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3674213.3674214) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024. ([preprint version](https://www2.ee.unsw.edu.au/~vijay/pubs/conf/24genAI.pdf))
 
