@@ -115,10 +115,10 @@ Conference Abstracts and Posters
 
 Patents
 ======
-* "Video Streaming User Platform Identification", Y. Wang, **M. Lyu**, A. Vishwanath, V. Sivaraman, **Australian Provisional Patent Application** No. 2023903896, filed Dec 2023.
+* "Video Streaming User Platform Identification", Y. Wang, **M. Lyu**, A. Vishwanath, V. Sivaraman, **Australian Provisional Patent Application** [No. 2023903896](https://ipsearch.ipaustralia.gov.au/patents/2023903896), filed Dec 2023.
 
-* "Cloud Gaming Monitoring Apparatus and Process", **M. Lyu**, S. C. Madanapalli, A. Vishwanath, V. Sivaraman, **International PCT Patent Application** No. PCT/AU2024/050996, filed Sep 2024.
+* "Cloud Gaming Monitoring Apparatus and Process", **M. Lyu**, S. C. Madanapalli, A. Vishwanath, V. Sivaraman, **International PCT Patent Application** [No. PCT/AU2024/050996](https://patentscope.wipo.int/search/en/detail.jsf?docId=AU409907855&_cid=P22-M3E3AX-61403-1), filed Sep 2024. (from Australian Provisional Patent Application [No.2023903009](https://ipsearch.ipaustralia.gov.au/patents/2023903009))
 
-* "A Metaverse Monitoring Apparatus and Process", **M. Lyu**, R. Tripathi, V. Sivaraman, **Australian Provisional Patent Application** No. 2023901715, filed May 2023.
+* "A Metaverse Monitoring Apparatus and Process", **M. Lyu**, R. Tripathi, V. Sivaraman, **International PCT Patent Application** [No. PCT/AU2024/050548](https://patentscope.wipo.int/search/en/detail.jsf?docId=AU399861875&_cid=P22-M3E38N-59266-1), filed May 2024. (from Australian Provisional Patent Application [No.2023901715](https://ipsearch.ipaustralia.gov.au/patents/2023901715))
 
 
