@@ -87,7 +87,7 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 Regular and Short Conference Papers
 ======
 
-* **[MetaCom24]** R. D. Tripathi, **M. Lyu** and V. Sivaraman. [Assessing the Impact of Network Quality-of-Service on Metaverse Virtual Reality User Experience](https://ieeexplore.ieee.org/document/10740019) at **IEEE MetaCom**, Hong Kong, China, Aug 2024. ([preprint version](https://arxiv.org/pdf/2407.10423))
+* **[MetaCom24]** R. D. Tripathi, **M. Lyu** and V. Sivaraman. [Assessing the Impact of Network Quality-of-Service on Metaverse Virtual Reality User Experience](https://ieeexplore.ieee.org/document/10740019) at **IEEE MetaCom**, Hong Kong, China, Aug 2024. ([preprint version](https://arxiv.org/pdf/2407.10423)) (Main conference acceptance rate: 30%)
 
 * **[AINTEC24-1]** **M. Lyu**, Y. Wang and V. Sivaraman. [Measuring GenAI Usage Patterns in a University Campus via Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3674213.3674214) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024. ([preprint version](https://www2.ee.unsw.edu.au/~vijay/pubs/conf/24genAI.pdf))
 
@@ -101,7 +101,7 @@ Regular and Short Conference Papers
 
 * **[AINTEC22]** J. Han, **M. Lyu** and V. Sivaraman. [On the Validity of Internet Speed Test Tools and Broadband Measurement Programs](https://dl.acm.org/doi/10.1145/3570748.3570749) at **Asian Internet Engineering Conference**, Hiroshima, Japan, Dec 2022. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/22aintec.pdf))
 
-* **[PAM19]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Mapping an Enterprise Network by Analyzing DNS Traffic](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9) at **International Conference on Passive and Active Network Measurement**, Puerto Varas, Chile, Mar 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/19pam.pdf))
+* **[PAM19]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Mapping an Enterprise Network by Analyzing DNS Traffic](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9) at **International Conference on Passive and Active Network Measurement**, Puerto Varas, Chile, Mar 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/19pam.pdf)) (Acceptance Rate: 26%)
 
 * **[NOMS18]** S. C. Madanapalli, **M. Lyu**, H. Kumar, H. Habibi Gharakheili and V. Sivaraman. [Real-time detection, isolation and monitoring of elephant flows using commodity SDN system](https://ieeexplore.ieee.org/abstract/document/8406200) at **IEEE/IFIP Network Operations and Management Symposium**, Taipei, Taiwan, Mar 2018. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/18noms.pdf))
 
@@ -115,10 +115,10 @@ Conference Abstracts and Posters
 
 Patents
 ======
-* "Video Streaming User Platform Identification", Y. Wang, **M. Lyu**, V. Sivaraman, **Australian Provisional Patent Application** [No. 2023903896](https://ipsearch.ipaustralia.gov.au/patents/2023903896), filed Dec 2023.
+* "Video Streaming User Platform Identification", Y. Wang, **M. Lyu**, V. Sivaraman, **International PCT Patent Application** No. PCT/AU2024/051267, filed Nov 2024. (from Australian Provisional Patent Application [No. 2023903896](https://ipsearch.ipaustralia.gov.au/patents/2023903896) filed Dec 2023)
 
-* "Cloud Gaming Monitoring Apparatus and Process", **M. Lyu**, S. C. Madanapalli, A. Vishwanath, V. Sivaraman, **International PCT Patent Application** [No. PCT/AU2024/050996](https://patentscope.wipo.int/search/en/detail.jsf?docId=AU409907855&_cid=P22-M3E3AX-61403-1), filed Sep 2024. (from Australian Provisional Patent Application [No.2023903009](https://ipsearch.ipaustralia.gov.au/patents/2023903009))
+* "Cloud Gaming Monitoring Apparatus and Process", **M. Lyu**, S. C. Madanapalli, A. Vishwanath, V. Sivaraman, **International PCT Patent Application** [No. PCT/AU2024/050996](https://patentscope.wipo.int/search/en/detail.jsf?docId=AU409907855&_cid=P22-M3E3AX-61403-1), filed Sep 2024. (from Australian Provisional Patent Application [No.2023903009](https://ipsearch.ipaustralia.gov.au/patents/2023903009) filed Sep 2023)
 
-* "A Metaverse Monitoring Apparatus and Process", **M. Lyu**, R. Tripathi, V. Sivaraman, **International PCT Patent Application** [No. PCT/AU2024/050548](https://patentscope.wipo.int/search/en/detail.jsf?docId=AU399861875&_cid=P22-M3E38N-59266-1), filed May 2024. (from Australian Provisional Patent Application [No.2023901715](https://ipsearch.ipaustralia.gov.au/patents/2023901715))
+* "A Metaverse Monitoring Apparatus and Process", **M. Lyu**, R. Tripathi, V. Sivaraman, **International PCT Patent Application** [No. PCT/AU2024/050548](https://patentscope.wipo.int/search/en/detail.jsf?docId=AU399861875&_cid=P22-M3E38N-59266-1), filed May 2024. (from Australian Provisional Patent Application [No.2023901715](https://ipsearch.ipaustralia.gov.au/patents/2023901715) filed May 2023)
 
 
