@@ -56,10 +56,10 @@ Journal Articles and Long Conference Papers
 
 * **[SIGMETRICS24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Dec 2023. (Accpetance Rate: 15% = 52/331) ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
-* **[Access24]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://ieeexplore.ieee.org/document/10571950), **IEEE Access**, Jun 2024.
 
 * **[PAM24]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
 
+* **[Access24]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://ieeexplore.ieee.org/document/10571950), **IEEE Access**, Jan 2024.
 
 * [JMIR24] X. He, F. Cui, **M. Lyu**, D. Sun, X. Zhang, J. Shi, Y. Zhang, S. Jiang and J. Zhao. [Key Factors Influencing the Operationalization and Effectiveness of Telemedicine Services in Henan Province, China: Cross-Sectional Analysis](https://www.jmir.org/2024/1/e45020/) at **Journal of Medical Internet Research**, Jan 2024.
 
