@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a **Research Associate** in the [**Programmable Networking Lab**](https://www.capabilities.unsw.edu.au/software-defined-networking-cyber-intelligence) at the **University of New South Wales (UNSW)**, Sydney, Australia.
+I am currently working as a **Lecturer** (Assistant Professor) in the [**Programmable Networking Lab**](https://www.capabilities.unsw.edu.au/software-defined-networking-cyber-intelligence) at the **University of New South Wales (UNSW)**, Sydney, Australia.
 I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the University of New South Wales, Sydney, Australia in 2017 and 2022 respectively. 
 
 My current research interests encompass **computer networks** with a specific focus on **network measurement** for **multimedia Quality-of-Experience** and **cybersecurity**, leveraging novel techniques of programmable networks, data-driven analytics, and machine learning.
@@ -21,6 +21,8 @@ The website also contains a list of my publications, blogs, teaching and profess
 
 Updates
 ======
+* (Jan 2025) Successfully promoted to **Lecturer** (Assistant Professor) at UNSW Sydney!
+
 * (Aug 2024) [**Characterizing Video Streaming User Platforms**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM IMC 2024.
 
 * (Jun 2024) [**Network QoS Impacting Metaverse QoE**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Rahul Dev Tripathi is accepted at IEEE MetaCom 2024.
@@ -28,9 +30,6 @@ Updates
 * (Jun 2024) [**Mapping Cyber Risk Database**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Marta Zumaquero Gil and [**Measuring GenAI Usage**](https://minzhaolyu.github.io/publications/) are accepted at ACM SIGCOMM'24 Side Event AINTEC.
 
 * (Jun 2024) [**Standardizing Multimedia QoE Telemetry**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM SIGCOMM'24 Workshop on EMS.
-
-* (Apr 2024) I will serve as **Local Arrangement Chair** for ACM SIGCOMM'24 Workshop on [**Networks for AI Computing (NAIC)**](https://conferences.sigcomm.org/sigcomm/2024/workshop/naic/).
-
 
 * [More](https://minzhaolyu.github.io/update/)
 
