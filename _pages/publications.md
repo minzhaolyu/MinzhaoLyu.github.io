@@ -50,7 +50,7 @@ Conference Papers
 Tier-A and Tier-B CS conferences and Journals listed by Tsinghua's TH-CPL (https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf) are annotated as A and and B, respectively.
  -->
 
-Journal Articles and Long Conference Papers
+Full Conference Papers and Journal Articles
 ======
 * **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://dl.acm.org/doi/10.1145/3646547.3688435) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. (Long Paper Acceptance Rate: 19% = 30/160) ([preprint version](https://arxiv.org/pdf/2408.16995)) 
 
