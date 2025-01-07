@@ -35,7 +35,7 @@ Fundamental Engineering Education
 ======
 
 * **Electrical Circuit Fundamentals** ELEC1111
-  * (2024 Summer Term): Convenor and Lecturer
+  * (2024 - Now Summer Term): Convenor and Lecturer
 
 * **Engineering Vertically Integrated Project** ENGG4600
   * (2021 - 2022): Co-lead for CyberShield Project
