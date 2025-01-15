@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a **Lecturer** (Assistant Professor) in the [**Programmable Networking Lab**](https://www.capabilities.unsw.edu.au/software-defined-networking-cyber-intelligence) at the **University of New South Wales (UNSW)**, Sydney, Australia.
+I am currently working as a **Lecturer** in the [**Programmable Networking Lab**](https://www.capabilities.unsw.edu.au/software-defined-networking-cyber-intelligence) at the **University of New South Wales (UNSW)**, Sydney, Australia.
 I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the University of New South Wales, Sydney, Australia in 2017 and 2022 respectively. 
 
 My current research interests encompass **computer networks** with a specific focus on **network measurement** for **multimedia Quality-of-Experience** and **cybersecurity**, leveraging novel techniques of programmable networks, data-driven analytics, and machine learning.
