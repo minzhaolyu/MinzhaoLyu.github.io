@@ -21,7 +21,7 @@ The website also contains a list of my publications, blogs, teaching and profess
 
 Updates
 ======
-* (Jan 2025) Successfully promoted to **Lecturer** (Assistant Professor) at UNSW Sydney!
+* (Jan 2025) Successfully promoted to **Lecturer** at UNSW Sydney!
 
 * (Aug 2024) [**Characterizing Video Streaming User Platforms**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM IMC 2024.
 
