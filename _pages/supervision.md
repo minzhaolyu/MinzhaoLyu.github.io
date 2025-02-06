@@ -5,19 +5,19 @@ permalink: /supervision/
 author_profile: true
 ---
 
-PhD/MPhil Students
+Higher Degree Research (PhD/MPhil) Students
 ======
-* **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Enterprise Cybersecurity using Network Behavioral Analysis". 
-  * co-supervised with Prof. Vijay Sivaraman
+* **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Resilience Analysis of Internet Infrastructure". 
+  * supervised with Prof. Vijay Sivaraman and A/Prof. Hassan Habibi Gharakheili
   * recipent of Indonesian Government's **Indonesia Endowment Fund for Education (LPDP) Scholarship**
 
+* **[Rushi Babaria](https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&originalSubdomain=in)**, MPhil student, Feb 2024 - present, "Fast Network Traffic Classification". 
+  * upervised with Prof. Vijay Sivaraman and A/Prof. Gustavo Batista
+
 * **[Yifan Wang](https://wangyi.fan/)**, PhD student, Dec 2022 - present, "Network Traffic Analysis and Machine Learning for Multimedia QoE". 
-  * co-supervised with Prof. Vijay Sivaraman
+  * supervised with Prof. Vijay Sivaraman
   * recipent of UNSW's **University International Postgraduate Award (UIPA)**
   * recipent of Australian Government's **National Industry PhD Program**
-
-* **[Rushi Babaria](https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&originalSubdomain=in)**, MPhil student, Feb 2024 - present, "Fast Network Traffic Classification". 
-  * co-supervised with Prof. Vijay Sivaraman and A/Prof. Gustavo Batista
 
 
 Representative Undergraduate/Masters Thesis Students
