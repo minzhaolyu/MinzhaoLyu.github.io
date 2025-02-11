@@ -19,17 +19,18 @@ author_profile: true
   * IEEE/ACM Transactions on Networking
   * IEEE Transactions on Network and Service Management
   * IEEE Transactions on Network Science and Engineering
-  * (Elsevier) Computer Networks 
-  * (Elsevier) Computers & Security
   * IEEE Transactions on Dependable and Secure Computing
   * IEEE Transactions on Green Communications and Networking
   * IEEE Internet of Things Journal
   * IEEE Networking Letters
+  * IEEE Open Journal of the Computer Society
+  * (Elsevier) Computer Networks 
+  * (Elsevier) Computers & Security
+  * (Elsevier) Expert Systems With Applications
   * Journal of Network and Systems Management
   * Journal of Information Security and Applications
   * Journal of High Speed Networking
   * IET Information Security
-  * (Elsevier) Expert Systems With Applications
 
 * Conference Support
   * Local Arrangement Chair for ACM SIGCOMM Workshop on Networks for AI Computing (NAIC) 2024.
