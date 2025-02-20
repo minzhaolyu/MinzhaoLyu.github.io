@@ -12,7 +12,7 @@ Higher Degree Research (PhD/MPhil) Students
   * recipent of Indonesian Government's **Indonesia Endowment Fund for Education (LPDP) Scholarship**
 
 * **[Rushi Babaria](https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&originalSubdomain=in)**, MPhil student, Feb 2024 - present, "Fast Network Traffic Classification". 
-  * upervised with Prof. Vijay Sivaraman and A/Prof. Gustavo Batista
+  * supervised with Prof. Vijay Sivaraman and A/Prof. Gustavo Batista
 
 * **[Yifan Wang](https://wangyi.fan/)**, PhD student, Dec 2022 - present, "Network Traffic Analysis and Machine Learning for Multimedia QoE". 
   * supervised with Prof. Vijay Sivaraman
