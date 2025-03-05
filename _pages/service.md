@@ -16,6 +16,7 @@ author_profile: true
 
 * Journal Reviewer
   * ACM Computing Surveys
+  * ACM Transactions on Modeling and Performance Evaluation of Computing Systems
   * IEEE/ACM Transactions on Networking
   * IEEE Transactions on Network and Service Management
   * IEEE Transactions on Network Science and Engineering
@@ -28,6 +29,7 @@ author_profile: true
   * (Elsevier) Computers & Security
   * (Elsevier) Expert Systems With Applications
   * Journal of Network and Systems Management
+  * Journal of Network and Computer Applications
   * Journal of Information Security and Applications
   * Journal of High Speed Networking
   * IET Information Security
