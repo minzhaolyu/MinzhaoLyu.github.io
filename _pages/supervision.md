@@ -7,7 +7,7 @@ author_profile: true
 
 Higher Degree Research (PhD/MPhil) Students
 ======
-* **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Resilience Analysis of Internet Infrastructure". 
+* **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Security of Internet Infrastructure". 
   * supervised with Prof. Vijay Sivaraman and A/Prof. Hassan Habibi Gharakheili
   * recipent of Indonesian Government's **Indonesia Endowment Fund for Education (LPDP) Scholarship**
 
@@ -30,10 +30,6 @@ Representative Undergraduate/Masters Thesis Students
   * one **first-authored** research paper published at **AINTEC 2024**
   * first job at UNSW IT as Network and Security Engineer
 
-<!-- * **[Praseem Singh Beniwal](https://www.linkedin.com/in/praseem-singh-beniwal-443343254/)**, UG Thesis, Feb 2023 - Dec 2023, "Cloud Gaming Network Analysis for Mobile Devices".
-  * mentored with Prof. Vijay Sivaraman
-  * BE in Software Engineering
-  * first job at Superloop (Sydney, Australia) as Engineer -->
 
 * **[Rahul Dev Tripathi](https://www.linkedin.com/in/rahul-tripathi-238184179/)**, Taste-of-Research Intern & UG Thesis, May 2022 - Aug 2023, "Metaverse Network Analysis".
   * mentored with Prof. Vijay Sivaraman
@@ -49,15 +45,9 @@ Representative Undergraduate/Masters Thesis Students
   * one **first-authored** research paper published at **IEEE/IFIP NOMS 2024**
   * first job at China Unicom as Engineer
 
-<!-- * **[Rushil Pardasani](https://www.linkedin.com/in/rushilpardasani/)**, UG Thesis, Sep 2022 - Aug 2023, "Cloud Gaming Network Analysis".
-  * mentored with Prof. Vijay Sivaraman
-  * BE in Software Engineering
-  * first job at Superloop (Sydney, Australia) as Engineer -->
 
 * **[Jun Han](https://www.linkedin.com/in/jun-han-968217195/)**, UG Thesis, Oct 2021 - Dec 2022, "Analysis of Internet Speed Test Tools and Broadband Measurement Programs".
   * mentored with Prof. Vijay Sivaraman
   * BE/ME in Electrical Engineering
   * one **first-authored** research paper published at **AINTEC 2022**
   * first job at Amazon AWS (Sydney, Australia) as Cloud Engineer
-
-
