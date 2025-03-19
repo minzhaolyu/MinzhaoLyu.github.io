@@ -52,6 +52,9 @@ Tier-A and Tier-B CS conferences and Journals listed by Tsinghua's TH-CPL (https
 
 Full Conference Papers and Journal Articles
 ======
+* **[SIGMETRICS25]** R. J. Babaria**M. Lyu**, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Optimally Least Number of Time-Series Packets](https://www.sigmetrics.org/sigmetrics2025/accepted_papers.html) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, New York, USA, June 2025. (Accpetance Rate: 17% = 66/381)
+
+
 * **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://dl.acm.org/doi/10.1145/3646547.3688435) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. (Long Paper Acceptance Rate: 19% = 30/160) ([preprint version](https://arxiv.org/pdf/2408.16995)) 
 
 * **[SIGMETRICS24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Dec 2023. (Accpetance Rate: 15% = 52/331) ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
