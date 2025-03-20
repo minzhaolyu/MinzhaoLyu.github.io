@@ -21,7 +21,7 @@ The website also contains a list of my publications, blogs, teaching and profess
 
 Updates
 ======
-* (Mar 2025) [**FastFlow**](https://minzhaolyu.github.io/publications/) first-authored by MPhil student Rushi Babaria is accepted at ACM SIGMETRICS 2025.
+* (Mar 2025) [**Early and Robust Flow Classification**](https://minzhaolyu.github.io/publications/) first-authored by MPhil student Rushi Babaria is accepted at ACM SIGMETRICS 2025.
 
 * (Jan 2025) Successfully promoted to **Lecturer** at UNSW Sydney!
 
@@ -31,7 +31,6 @@ Updates
 
 * (Jun 2024) [**Mapping Cyber Risk Database**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Marta Zumaquero Gil and [**Measuring GenAI Usage**](https://minzhaolyu.github.io/publications/) are accepted at ACM SIGCOMM'24 Side Event AINTEC.
 
-* (Jun 2024) [**Standardizing Multimedia QoE Telemetry**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM SIGCOMM'24 Workshop on EMS.
 
 * [More](https://minzhaolyu.github.io/update/)
 
