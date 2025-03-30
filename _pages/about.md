@@ -11,7 +11,8 @@ redirect_from:
 I am currently working as a **Lecturer** in the [**Programmable Networking Lab**](https://www.capabilities.unsw.edu.au/software-defined-networking-cyber-intelligence) at the **University of New South Wales (UNSW)**, Sydney, Australia.
 I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the University of New South Wales, Sydney, Australia in 2017 and 2022 respectively. 
 
-My current research interests encompass **Internet and Computer Networks** with a specific focus on **Network Measurement** for **multimedia Quality-of-Experience** and **Cybersecurity**, leveraging novel techniques of programmable networks, data-driven analytics, and AI/machine learning.
+My current research interests encompass **Internet and Computer Networks** with a specific focus on **Network Measurement** for **multimedia Quality-of-Experience** and **Cybersecurity**, leveraging novel techniques of programmable networks, data-driven analytics, and AI/machine learning. 
+I actively publish at the two top conferences (ACM SIGMETRICS and ACM IMC) of the Measurement & Performance Analysis System Discipline ranked by [CSRankings](https://csrankings.org/) and [JCR Q1 journals](https://www.scimagojr.com/index.php) in the Computer Networks and Communications discipline.
 
 
 The website also contains a list of my publications, blogs, teaching and professional services. You may also find my profile at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
