@@ -36,7 +36,7 @@ author_profile: true
 
 * Conference Technical Program Committee (TPC) Member
   * IEEE Conference on Local Computer Networks (LCN) 2025
-  * ACM SIGCOMM Asian Internet Engineering Conference 2025
+  * ACM SIGCOMM Asian Internet Engineering Conference (AINTEC) 2025
 
 * Conference Support
   * Local Arrangement Chair for ACM SIGCOMM Workshop on Networks for AI Computing (NAIC) 2024.
