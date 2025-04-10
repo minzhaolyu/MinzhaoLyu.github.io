@@ -4,7 +4,7 @@ title: "News and Updates"
 permalink: /update/
 author_profile: true
 ---
-* (Mar 2025) [**Early and Robust Flow Classification**](https://minzhaolyu.github.io/publications/) first-authored by MPhil student Rushi Babaria is accepted at ACM SIGMETRICS 2025.
+* (Mar 2025) [**Early yet Robust Flow Classification**](https://minzhaolyu.github.io/publications/) first-authored by MPhil student Rushi Babaria is accepted at ACM SIGMETRICS 2025.
 
 * (Jan 2025) Successfully promoted to **Lecturer** at UNSW Sydney!
 
