@@ -25,6 +25,7 @@ author_profile: true
   * IEEE Internet of Things Journal
   * IEEE Networking Letters
   * IEEE Open Journal of the Computer Society
+  * IEEE Access
   * (Elsevier) Computer Networks 
   * (Elsevier) Computers & Security
   * (Elsevier) Expert Systems With Applications
