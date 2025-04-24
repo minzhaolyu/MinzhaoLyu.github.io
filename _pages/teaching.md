@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Telecommunications & Data Networking
+Computer Networks, Telecommunications & Data Networking
 ======
 
 * **Network Operations and Control** TELE9752
@@ -31,14 +31,15 @@ Telecommunications & Data Networking
 * **Trusted Network** TELE3119
   * (2018 - 2019): Lab Demonstrator
 
-Fundamental Engineering Education
+* **Engineering Vertically Integrated Project** ENGG4600
+  * (2021 - 2022): Co-lead for CyberShield Project
+
+
+Engineering Fundamentals
 ======
 
 * **Electrical Circuit Fundamentals** ELEC1111
-  * (2024 - Now Summer Term): Convenor and Lecturer
-
-* **Engineering Vertically Integrated Project** ENGG4600
-  * (2021 - 2022): Co-lead for CyberShield Project
+  * (2024 Summer - Now): Convenor and Lecturer
 
 
 
