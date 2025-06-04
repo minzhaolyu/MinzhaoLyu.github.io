@@ -7,7 +7,7 @@ author_profile: true
 
 Higher Degree Research (PhD/MPhil) Students
 ======
-* **[Shuai Zhang]()**, PhD student, Jun 2025 - present, "Modelling Software Supply Chain Dependence". 
+* **[Shuai Zhang](www.linkedin.com/in/shuai-zhang-a56163269)**, PhD student, Jun 2025 - present, "Modelling Software Supply Chain Dependence". 
   * supervised with A/Prof. Hassan Habibi Gharakheili
 
 * **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Security Analysis of Internet Infrastructure". 
