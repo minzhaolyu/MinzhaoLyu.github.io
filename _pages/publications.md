@@ -52,7 +52,7 @@ Tier-A and Tier-B CS conferences and Journals listed by Tsinghua's TH-CPL (https
 
 Full Conference Papers and Journal Articles
 ======
-* **[SIGMETRICS25]** R. J. Babaria, **M. Lyu**, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](https://www.sigmetrics.org/sigmetrics2025/accepted_papers.html) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, New York, USA, June 2025. (Accpetance Rate: 17% = 66/381) ([preprint version](https://arxiv.org/pdf/2504.02174))
+* **[SIGMETRICS25]** R. J. Babaria, **M. Lyu**, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](https://dl.acm.org/doi/10.1145/3727115) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, New York, USA, June 2025. (Accpetance Rate: 17% = 66/381) ([preprint version](https://arxiv.org/pdf/2504.02174))
 
 
 * **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://dl.acm.org/doi/10.1145/3646547.3688435) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. (Long Paper Acceptance Rate: 19% = 30/160) ([preprint version](https://arxiv.org/pdf/2408.16995)) 
@@ -112,7 +112,7 @@ Regular and Short Conference Papers
 
 Conference Abstracts and Posters
 ======
-* **[SIGMETRICS Abstracts 25]** R. J. Babaria, **M. Lyu**, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](https://www.sigmetrics.org/sigmetrics2025/accepted_papers.html) at **Abstracts of the 2025 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems**, New York, USA, June 2025.
+* **[SIGMETRICS Abstracts 25]** R. J. Babaria, **M. Lyu**, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](https://dl.acm.org/doi/10.1145/3726854.3727286) at **Abstracts of the 2025 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems**, New York, USA, June 2025.
 
 * **[SIGMETRICS Abstracts 24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3652963.3655065) at **Abstracts of the 2024 ACM SIGMETRICS/IFIP PERFORMANCE Joint International Conference on Measurement and Modeling of Computer Systems**, Venice, Italy, Jun 2024.
 
