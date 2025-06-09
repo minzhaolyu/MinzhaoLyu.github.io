@@ -15,7 +15,7 @@ Computer Networks, Telecommunications & Data Networking
 ======
 
 * **Network Operations and Control** TELE9752
-  * (2023 - Now): Co-convenor and Lecturer
+  * (2023 - Now): Convenor and Lecturer
   * (2021 - 2022): Teaching Assistant
 
 * **Network Systems Architecture** GSOE9758
