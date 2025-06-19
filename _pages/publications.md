@@ -52,12 +52,12 @@ Tier-A and Tier-B CS conferences and Journals listed by Tsinghua's TH-CPL (https
 
 Full Conference Papers and Journal Articles
 ======
-* **[SIGMETRICS25]** R. J. Babaria, **M. Lyu**, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](https://dl.acm.org/doi/10.1145/3727115) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, New York, USA, June 2025. (Accpetance Rate: 17% = 66/381) ([preprint version](https://arxiv.org/pdf/2504.02174))
+* **[SIGMETRICS25]** R. J. Babaria, **M. Lyu**, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](https://dl.acm.org/doi/10.1145/3727115) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, New York, USA, Jun 2025. (Accpetance Rate: 17% = 66/381) ([preprint version](https://arxiv.org/pdf/2504.02174))
 
 
 * **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://dl.acm.org/doi/10.1145/3646547.3688435) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. (Long Paper Acceptance Rate: 19% = 30/160) ([preprint version](https://arxiv.org/pdf/2408.16995)) 
 
-* **[SIGMETRICS24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Dec 2023. (Accpetance Rate: 15% = 52/331) ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
+* **[SIGMETRICS24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. (Accpetance Rate: 15% = 52/331) ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
 
 
 * **[PAM24]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
@@ -91,7 +91,7 @@ Regular and Short Conference Papers
 
 * **[MetaCom24]** R. D. Tripathi, **M. Lyu** and V. Sivaraman. [Assessing the Impact of Network Quality-of-Service on Metaverse Virtual Reality User Experience](https://ieeexplore.ieee.org/document/10740019) at **IEEE MetaCom**, Hong Kong, China, Aug 2024. ([preprint version](https://arxiv.org/pdf/2407.10423)) (Main conference acceptance rate: 30%)
 
-* **[AINTEC24-1]** **M. Lyu**, Y. Wang and V. Sivaraman. [Measuring GenAI Usage Patterns in a University Campus via Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3674213.3674214) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024. ([preprint version](https://www2.ee.unsw.edu.au/~vijay/pubs/conf/24genAI.pdf))
+* **[AINTEC24-1]** **M. Lyu**, Y. Wang and V. Sivaraman. [Measuring GenAI Usage Patterns in a University Campus via Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3674213.3674214) at **ACM SIGCOMM Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024. ([preprint version](https://www2.ee.unsw.edu.au/~vijay/pubs/conf/24genAI.pdf))
 
 * **[AINTEC24-2]** M. Zumaquero Gil, Z. Hu, **M. Lyu**, G. Batista and H. Habibi Gharakheili. [Systematic Mapping and Temporal Reasoning of IoT Cyber Risks using Structured Data](https://dl.acm.org/doi/10.1145/3674213.3674216) at **Asian Internet Engineering Conference**, Sydney, Australia, Aug 2024. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/conf/24aintec.pdf))
 
@@ -101,7 +101,7 @@ Regular and Short Conference Papers
 
 * **[NOMS24]** S. Guo, **M. Lyu** and H. Habibi Gharakheili. [Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors](https://ieeexplore.ieee.org/document/10575272) at **IEEE/IFIP Network Operations and Management Symposium**, Seoul, South Korea, May 2024. ([preprint version](https://arxiv.org/pdf/2401.00141.pdf))
 
-* **[AINTEC22]** J. Han, **M. Lyu** and V. Sivaraman. [On the Validity of Internet Speed Test Tools and Broadband Measurement Programs](https://dl.acm.org/doi/10.1145/3570748.3570749) at **Asian Internet Engineering Conference**, Hiroshima, Japan, Dec 2022. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/22aintec.pdf))
+* **[AINTEC22]** J. Han, **M. Lyu** and V. Sivaraman. [On the Validity of Internet Speed Test Tools and Broadband Measurement Programs](https://dl.acm.org/doi/10.1145/3570748.3570749) at **ACM SIGCOMM Asian Internet Engineering Conference**, Hiroshima, Japan, Dec 2022. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/22aintec.pdf))
 
 * **[PAM19]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Mapping an Enterprise Network by Analyzing DNS Traffic](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9) at **International Conference on Passive and Active Network Measurement**, Puerto Varas, Chile, Mar 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/conf/19pam.pdf)) (Acceptance Rate: 26%)
 

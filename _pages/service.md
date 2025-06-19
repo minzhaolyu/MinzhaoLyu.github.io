@@ -36,6 +36,7 @@ author_profile: true
   * IET Information Security
 
 * Conference Technical Program Committee (TPC) Member
+  * ACM SIGMETRICS 2026
   * IEEE Conference on Local Computer Networks (LCN) 2025
   * IEEE LCN Special Track - LLMNet 2025
   * ACM SIGCOMM Asian Internet Engineering Conference (AINTEC) 2025
