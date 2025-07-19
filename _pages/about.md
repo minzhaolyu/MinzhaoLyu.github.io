@@ -11,7 +11,7 @@ redirect_from:
 I am currently working as a **Lecturer (Teaching & Research)** in **Network Communications** at the **University of New South Wales (UNSW)**, Sydney, Australia.
 I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the University of New South Wales, Sydney, Australia in 2017 and 2022 respectively. 
 
-My current research interests encompass **Internet and Computer Networks** with a specific focus on **Network Measurement** for **multimedia Quality-of-Experience** and **Cybersecurity**, leveraging novel techniques of programmable networks, data-driven analytics, and AI/machine learning. 
+My current research interests focus on **AI for Network Observability** problems including **AI-Native Network Data**, **AI Models for Network Traffic Analysis**, and **AI Systems for Network Measurement**.
 
 I actively publish at the two top conferences (ACM SIGMETRICS and ACM IMC) of the Measurement & Performance Analysis System Discipline ranked by [CSRankings](https://csrankings.org/); and [JCR Q1 journals](https://www.scimagojr.com/index.php) in the Computer Networks and Communications discipline.
 
@@ -38,14 +38,14 @@ Updates
 
 
 
-Publications by featured topics:
+<!-- Publications by featured topics:
 ======
 
 * [This link for full list of my publication](https://minzhaolyu.github.io/publications/)
 
 * **Network Measurement for Internet Services**: [SIGMETRICS25](https://arxiv.org/pdf/2504.02174), [IMC24](https://dl.acm.org/doi/10.1145/3646547.3688435), [MetaCom24](https://ieeexplore.ieee.org/document/10740019), [EMS24](https://dl.acm.org/doi/10.1145/3672196.3673400), [SIGMETRICS24](https://dl.acm.org/doi/10.1145/3626786), [Networking24](https://ieeexplore.ieee.org/abstract/document/10619817), [PAM24](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3), [AINTEC24-1](https://dl.acm.org/doi/10.1145/3674213.3674214), [AINTEC22](https://dl.acm.org/doi/10.1145/3570748.3570749), [TNSM19](https://ieeexplore.ieee.org/document/8765778), [NOMS18](https://ieeexplore.ieee.org/abstract/document/8406200).
 
-* **Network Measurement for Cybersecurity**: [AINTEC24-2](https://dl.acm.org/doi/10.1145/3674213.3674216), [NOMS24](https://ieeexplore.ieee.org/document/10575272), [ComNet23](https://doi.org/10.1016/j.comnet.2023.109873), [CSUR23](https://dl.acm.org/doi/abs/10.1145/3547331), [Access24](https://ieeexplore.ieee.org/document/10571950), [ComNet22](https://www.sciencedirect.com/science/article/pii/S1389128622004212), [TNSM22](https://ieeexplore.ieee.org/document/9951392), [TNSM21](https://ieeexplore.ieee.org/abstract/document/9316919), [IoTJ21](https://ieeexplore.ieee.org/abstract/document/9273056), [PAM19](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9), [WiSec17](https://dl.acm.org/doi/abs/10.1145/3098243.3098264).
+* **Network Measurement for Cybersecurity**: [AINTEC24-2](https://dl.acm.org/doi/10.1145/3674213.3674216), [NOMS24](https://ieeexplore.ieee.org/document/10575272), [ComNet23](https://doi.org/10.1016/j.comnet.2023.109873), [CSUR23](https://dl.acm.org/doi/abs/10.1145/3547331), [Access24](https://ieeexplore.ieee.org/document/10571950), [ComNet22](https://www.sciencedirect.com/science/article/pii/S1389128622004212), [TNSM22](https://ieeexplore.ieee.org/document/9951392), [TNSM21](https://ieeexplore.ieee.org/abstract/document/9316919), [IoTJ21](https://ieeexplore.ieee.org/abstract/document/9273056), [PAM19](https://link.springer.com/chapter/10.1007/978-3-030-15986-3_9), [WiSec17](https://dl.acm.org/doi/abs/10.1145/3098243.3098264). -->
 
 
 
