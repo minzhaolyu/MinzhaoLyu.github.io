@@ -23,7 +23,7 @@ The website also contains a list of my publications, blogs, teaching and profess
 
 Updates
 ======
-* (Jul 2025) Joined the TPC for [ACM SIGMETRICS 2026](https://www.sigmetrics.org/sigmetrics2026/program_committee.html).
+* (Jul 2025) Joined the TPC for [**ACM SIGMETRICS 2026**](https://www.sigmetrics.org/sigmetrics2026/program_committee.html).
 
 * (Mar 2025) [**Early yet Robust Flow Classification**](https://minzhaolyu.github.io/publications/) first-authored by MPhil student Rushi Babaria is accepted at ACM SIGMETRICS 2025.
 
