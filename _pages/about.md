@@ -13,7 +13,7 @@ I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the Unive
 
 My current research interests focus on **AI for Network Observability** problems including **AI-Native Network Data**, **AI Models for Network Traffic Analysis**, and **AI Systems for Network Measurement**.
 
-I actively publish at the two top conferences (ACM SIGMETRICS and ACM IMC) of the Measurement & Performance Analysis System Discipline ranked by [CSRankings](https://csrankings.org/); and [JCR Q1 journals](https://www.scimagojr.com/index.php) in the Computer Networks and Communications discipline.
+I actively publish at the two top conferences (ACM SIGMETRICS and ACM IMC) of the Measurement & Performance Analysis System Discipline ranked by [**CSRankings**](https://csrankings.org/#/fromyear/2022/toyear/2025/index?metrics&au); and [**JCR Q1** journals](https://www.scimagojr.com/index.php) in the Computer Networks and Communications discipline.
 
 
 The website also contains a list of my publications, blogs, teaching and professional services. You may also find my profile at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
