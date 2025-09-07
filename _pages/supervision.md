@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Supervision"
 permalink: /supervision/
 author_profile: true
 ---

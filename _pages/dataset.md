@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: ""
-permalink: /publications/dataset/
+title: "Dataset"
+permalink: /dataset/
 author_profile: true
 ---
 
