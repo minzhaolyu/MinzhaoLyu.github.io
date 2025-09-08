@@ -15,7 +15,7 @@ author_profile: true
 	* [Sample Preprocessing Script](http://github.com/WYF99/IMC25-CloudGamingContext)
 	* [Dataset Folder](https://unsw-my.sharepoint.com/:f:/g/personal/z5025089_ad_unsw_edu_au/EqaMbRpsxKBGlzSvV16uNvcBj6FnYZCQOIAJkjOMMNxsNw?e=AVUJ6E)
 	* **Citing us:** 
-		* Y. Wang, M. Lyu and V. Sivaraman.
+		* Y. Wang, M. Lyu and V. Sivaraman. [Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement]() at **ACM Internet Measurement Conference**, Madison, USA, Nov 2025.
 		* M. Lyu, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024.
 
 <!-- * **Metaverse Virtual Reality** 
