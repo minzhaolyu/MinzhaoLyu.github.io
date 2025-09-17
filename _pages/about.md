@@ -23,6 +23,8 @@ The website also contains a list of my publications, blogs, teaching and profess
 
 Updates
 ======
+* (Sep 2025) Joined the TPC for [**PAM 2026**](https://pam2026.at/committees/).
+
 * (Jul 2025) Joined the TPC for [**ACM SIGMETRICS 2026**](https://www.sigmetrics.org/sigmetrics2026/program_committee.html).
 
 * (Mar 2025) [**Early yet Robust Flow Classification**](https://minzhaolyu.github.io/publications/) first-authored by MPhil student Rushi Babaria is accepted at ACM SIGMETRICS 2025.
@@ -31,7 +33,6 @@ Updates
 
 * (Aug 2024) [**Characterizing Video Streaming User Platforms**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM IMC 2024.
 
-* (Jun 2024) [**Network QoS Impacting Metaverse QoE**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Rahul Dev Tripathi is accepted at IEEE MetaCom 2024.
 
 
 * [More](https://minzhaolyu.github.io/update/)
