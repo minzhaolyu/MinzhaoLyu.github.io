@@ -12,7 +12,7 @@ author_profile: true
 		* ```
 			@inproceedings{wang_games_2025,
 			  author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
-			  title = {{Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement}},
+			  title = {Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement},
 			  booktitle = {Proc. ACM Internet Measurement Conference (IMC)},
 			  year = {2025},
 			  month = {Oct},
@@ -29,7 +29,7 @@ author_profile: true
 			@inproceedings{wang_characterizing_2024,
 			  author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
 			  booktitle = {Proc. ACM Internet Measurement Conference (IMC)},
-			  title = {{Characterizing User Platforms for Video Streaming in Broadband Networks}},
+			  title = {Characterizing User Platforms for Video Streaming in Broadband Networks},
 			  year = {2024},
 			  month = {NoV},
 			  location = {Madrid, Spain},
