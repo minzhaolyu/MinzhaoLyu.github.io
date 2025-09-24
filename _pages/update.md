@@ -4,6 +4,8 @@ title: "Updates"
 permalink: /update/
 author_profile: true
 ---
+* (Sep 2025) [**Measuring Cloud Gaming Contexts for Effective QoE**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM IMC 2025.
+
 * (Sep 2025) Joined the TPC for [**PAM 2026**](https://pam2026.at/committees/).
 
 * (Jul 2025) Joined the TPC for [**ACM SIGMETRICS 2026**](https://www.sigmetrics.org/sigmetrics2026/program_committee.html).
