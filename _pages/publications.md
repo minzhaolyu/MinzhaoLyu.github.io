@@ -52,6 +52,8 @@ Tier-A and Tier-B CS conferences and Journals listed by Tsinghua's TH-CPL (https
 
 Full Conference Papers and Journal Articles
 ======
+* **[IMC25]** Y. Wang, **M. Lyu** and V. Sivaraman. [Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement](https://conferences.sigcomm.org/imc/2025/accepted-papers/) at **ACM Internet Measurement Conference**, Madison, WI, USA, Oct 2025. ([preprint version](https://arxiv.org/)) 
+
 * **[SIGMETRICS25]** R. J. Babaria, **M. Lyu**, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](https://dl.acm.org/doi/10.1145/3727115) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, New York, USA, Jun 2025. (Accpetance Rate: 17% = 66/381) ([preprint version](https://arxiv.org/pdf/2504.02174))
 
 
