@@ -121,7 +121,7 @@ Conference Abstracts and Posters
 
 Patents
 ======
-* "APPARATUS AND PROCESS FOR CLASSIFYING NETWORK FLOWS OF AN ISP IN REAL-TIME", R. J. Babaria, **M. Lyu**, G. Batista, V. Sivaraman, **Australian Provisional Patent Application** [No. 2025900984](https://ipsearch.ipaustralia.gov.au/patents/2025900984) filed Mar 2025.
+* "Apparatus And Process For Classifying Network Flows Of an ISP In Real-Time", R. J. Babaria, **M. Lyu**, G. Batista, V. Sivaraman, **Australian Provisional Patent Application** [No. 2025900984](https://ipsearch.ipaustralia.gov.au/patents/2025900984) filed Mar 2025.
 
 * "Video Streaming User Platform Identification", Y. Wang, **M. Lyu**, V. Sivaraman, **International PCT Patent Application** [No. PCT/AU2024/051267](https://patentscope.wipo.int/search/en/detail.jsf?docId=AU416621082&_cid=P11-M8V12O-79465-1), filed Nov 2024. (from Australian Provisional Patent Application [No. 2023903896](https://ipsearch.ipaustralia.gov.au/patents/2023903896) filed Dec 2023)
 

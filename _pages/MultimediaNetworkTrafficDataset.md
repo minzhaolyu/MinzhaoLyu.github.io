@@ -19,6 +19,15 @@ author_profile: true
 			  address = {Madison, WI, USA},
 			}
 		  ```
+		* ```
+			@INPROCEEDINGS{10619817,
+			  author={Lyu, Minzhao and Wang, Yifan and Sivaraman, Vijay},
+			  booktitle={Proc. IFIP Networking}, 
+			  title={Do Cloud Games Adapt to Client Settings and Network Conditions?}, 
+			  year={2024},
+			  month={Jun},
+			}
+		  ```
 		<!-- * M. Lyu, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. -->
 
 * **Video Streaming** 
