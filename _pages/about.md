@@ -23,6 +23,8 @@ The website also contains a list of my publications, blogs, teaching and profess
 
 Updates
 ======
+* (Oct 2025) [**Measuring Cloud Gaming at Scale**](https://minzhaolyu.github.io/publications/) is accepted at IEEE/ACM Transactions on Networking journal.
+
 * (Sep 2025) [**Measuring Cloud Gaming Contexts for Effective QoE**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM IMC 2025.
 
 * (Sep 2025) Joined the TPC for [**PAM 2026**](https://pam2026.at/committees/).
@@ -32,7 +34,6 @@ Updates
 * (Mar 2025) [**Early yet Robust Flow Classification**](https://minzhaolyu.github.io/publications/) first-authored by MPhil student Rushi Babaria is accepted at ACM SIGMETRICS 2025.
 
 * (Jan 2025) Successfully promoted to **Lecturer** at UNSW Sydney!
-
 
 
 * [More](https://minzhaolyu.github.io/update/)
