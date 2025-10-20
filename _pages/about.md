@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a **Lecturer (Teaching & Research)** in Network Communications at the **University of New South Wales (UNSW)**, Sydney, Australia.
+I am currently working as a **Lecturer (Teaching & Research)** in Network Systems and Internet at the **University of New South Wales (UNSW)**, Sydney, Australia.
 I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the University of New South Wales, Sydney, Australia in 2017 and 2022 respectively. 
 
 My current research interests focus on **AI for Network Observability** problems including **AI-Native Network Data**, **AI Models for Network Traffic Analysis**, and **AI Systems for Network Measurement**.
