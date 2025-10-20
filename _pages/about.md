@@ -11,7 +11,7 @@ redirect_from:
 I am currently working as a **Lecturer (Teaching & Research)** in Network Systems and Internet at the **University of New South Wales (UNSW)**, Sydney, Australia.
 I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degree from the University of New South Wales, Sydney, Australia in 2017 and 2022 respectively. 
 
-My current research interests focus on **AI for Network Observability** problems including **AI-Native Network Data**, **AI Models for Network Traffic Analysis**, and **AI Systems for Network Measurement**.
+My current research interests focus on **AI for Network Observability** including **AI-Native Network Data**, **AI Models for Network Traffic Analysis**, and **AI Systems for Network Measurement**.
 
 I actively publish at the two top conferences (ACM SIGMETRICS and ACM IMC) of the Measurement & Performance Analysis System Discipline ranked by [**CSRankings**](https://csrankings.org/#/fromyear/2022/toyear/2025/index?metrics&au); and [**JCR Q1** journals](https://www.scimagojr.com/index.php) in the Computer Networks and Communications discipline.
 
