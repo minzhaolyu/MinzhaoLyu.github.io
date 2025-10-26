@@ -45,8 +45,8 @@ author_profile: true
 			}
 		  ```
 
-<!-- * **Metaverse Virtual Reality** 
-	* [Dataset Folder](https://unsw-my.sharepoint.com/:f:/g/personal/z5025089_ad_unsw_edu_au/Eu9xtPBb6dpDvjFL0qEiIu0BKJtb-_SR0PHQznaBXyJxIQ?e=Ye7jur)
+* **Metaverse Virtual Reality** 
+	* Dataset Folder (dataset is under renewing with a group of my Masters Project students now, the updated version will be made available soon.)
 	* [Sample Preprocessing Script](https://github.com/RahulTripathi0401/MetaVRadar)
 	* **Citing us:**
 		* ```
@@ -60,7 +60,7 @@ author_profile: true
 		  year={2023},
 		  publisher={ACM New York, NY, USA}
 		}
-		``` -->
+		```
 
 
 
