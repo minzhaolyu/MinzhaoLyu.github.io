@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publication"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -50,7 +50,7 @@ Conference Papers
 Tier-A and Tier-B CS conferences and Journals listed by Tsinghua's TH-CPL (https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf) are annotated as A and and B, respectively.
  -->
 
-Full Conference Papers and Journal Articles
+Long Conference Papers and Journal Articles
 ======
 * **[TON25]** **M. Lyu** and V. Sivaraman. [A Large-Scale Network Measurement Study of NVIDIA GeForce NOW Cloud Gaming in the Wild](https://ieeexplore.ieee.org/document/11219363) at **IEEE Transactions on Networking**, Early Access, 2025. ([preprint version](https://www.researchgate.net/publication/396998466_A_Large-Scale_Network_Measurement_Study_of_NVIDIA_GeForce_NOW_Cloud_Gaming_in_the_Wild))
 

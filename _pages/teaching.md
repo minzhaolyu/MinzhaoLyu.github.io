@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Computer Networks, Telecommunications & Data Networking
+Computer Networks & Data Networking
 ======
 
 * **Network Operations and Control** TELE9752
@@ -35,7 +35,7 @@ Computer Networks, Telecommunications & Data Networking
   * (2021 - 2022): Co-lead for CyberShield Project
 
 
-Engineering Fundamentals
+Electrical Engineering
 ======
 
 * **Electrical Circuit Fundamentals** ELEC1111

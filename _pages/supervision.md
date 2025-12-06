@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Supervision"
+title: ""
 permalink: /supervision/
 author_profile: true
 ---
 
-Higher Degree Research (PhD/MPhil) Students
+PhD Students
 ======
 * **[Shuai Zhang](https://shuai-zhang16.github.io/)**, PhD student, Jun 2025 - present, "Modelling Software Supply Chain Dependence". 
   * supervised with A/Prof. Hassan Habibi Gharakheili
@@ -14,7 +14,7 @@ Higher Degree Research (PhD/MPhil) Students
   * supervised with Prof. Vijay Sivaraman and A/Prof. Hassan Habibi Gharakheili
   * recipent of Indonesian Government's **Indonesia Endowment Fund for Education (LPDP) Scholarship**
 
-* **[Rushi Babaria](https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&originalSubdomain=in)**, MPhil student, Feb 2024 - present, "Fast Network Traffic Classification". 
+* **[Rushi Babaria](https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&originalSubdomain=in)**, PhD student, Feb 2024 - present, "Fast Network Traffic Classification". 
   * supervised with Prof. Vijay Sivaraman and A/Prof. Gustavo Batista
 
 * **[Yifan Wang](https://wangyi.fan/)**, PhD student, Dec 2022 - present, "Network Measurement for Multimedia Streaming Applications". 
@@ -23,7 +23,7 @@ Higher Degree Research (PhD/MPhil) Students
   * recipent of Australian Government's **National Industry PhD Program**
 
 
-Representative Undergraduate Thesis & Intern Students
+Representative Thesis & Intern Students
 ======
 
 
