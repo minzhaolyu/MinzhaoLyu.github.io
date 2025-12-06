@@ -9,7 +9,7 @@ author_profile: true
 	* [Dataset Folder](https://unsw-my.sharepoint.com/:f:/g/personal/z5025089_ad_unsw_edu_au/EqaMbRpsxKBGlzSvV16uNvcBj6FnYZCQOIAJkjOMMNxsNw?e=AVUJ6E)
 	* [Sample Preprocessing Script](http://github.com/WYF99/IMC25-CloudGamingContext)
 	* **Citing us:** 
-		* ```
+		```
 		@inproceedings{wang_games_2025,
 			author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
 			title = {Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement},
