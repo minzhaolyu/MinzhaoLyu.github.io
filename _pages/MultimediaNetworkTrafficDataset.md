@@ -9,20 +9,7 @@ author_profile: true
 	* [Dataset Folder](https://unsw-my.sharepoint.com/:f:/g/personal/z5025089_ad_unsw_edu_au/EqaMbRpsxKBGlzSvV16uNvcBj6FnYZCQOIAJkjOMMNxsNw?e=AVUJ6E)
 	* [Sample Preprocessing Script](http://github.com/WYF99/IMC25-CloudGamingContext)
 	* **Citing us:** 
-
-
-```bibtex
-@inproceedings{wang_games_2025,
-  author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
-  title = {Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement},
-  booktitle = {Proc. ACM Internet Measurement Conference (IMC)},
-  year = {2025},
-  month = {Oct},
-  address = {Madison, WI, USA},
-}
-```
-
-		* ```
+		* ```bibtex
 		@inproceedings{wang_games_2025,
 			author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
 			title = {Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement},
@@ -32,7 +19,7 @@ author_profile: true
 			address = {Madison, WI, USA},
 		}
 		```
-		* ```
+		* ```bibtex
 		@INPROCEEDINGS{10619817,
 			author={Lyu, Minzhao and Wang, Yifan and Sivaraman, Vijay},
 			booktitle={Proc. IFIP Networking}, 
@@ -41,7 +28,7 @@ author_profile: true
 			month={Jun},
 		}
 		```
-		* ```
+		* ```bibtex
 		@ARTICLE{11219363,
   			author={Lyu, Minzhao and Sivaraman, Vijay},
   			journal={IEEE Transactions on Networking}, 
@@ -54,7 +41,7 @@ author_profile: true
 	* [Dataset Folder](https://unsw-my.sharepoint.com/:f:/g/personal/z5025089_ad_unsw_edu_au/EkrbbFOFcxdEoPD4usvie5YB0pXw15t93r0xF4JyM-M3bg?e=3n8lBA)
 	* [Sample Preprocessing Script](https://github.com/WYF99/IMC24-VideoUserPlatform)
 	* **Citing us:** 
-		* ```
+		* ```bibtex
 		@inproceedings{wang_characterizing_2024,
 			author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
 			booktitle = {Proc. ACM Internet Measurement Conference (IMC)},
@@ -69,7 +56,7 @@ author_profile: true
 	* Dataset Folder (dataset is under renewing with a group of my Masters Project students now, the updated version will be made available soon.)
 	* [Sample Preprocessing Script](https://github.com/RahulTripathi0401/MetaVRadar)
 	* **Citing us:**
-		* ```
+		* ```bibtex
 		@article{lyu2023metavradar,
 			title={MetaVRadar: Measuring Metaverse Virtual Reality Network Activity},
 			author={Lyu, Minzhao and Tripathi, Rahul Dev and Sivaraman, Vijay},
