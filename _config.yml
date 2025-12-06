@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-enable_copy_code         : false
 locale                   : "en-US"
 title                    : "Minzhao Lyu"
 title_separator          : "-"

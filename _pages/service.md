@@ -5,14 +5,6 @@ permalink: /service/
 author_profile: true
 ---
 
-<!-- {% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
- -->
 Technical Program Committee (TPC) Member
 ======
   * [ACM SIGMETRICS 2026](https://www.sigmetrics.org/sigmetrics2026/program_committee.html)
