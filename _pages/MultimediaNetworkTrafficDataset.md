@@ -9,18 +9,30 @@ author_profile: true
 	* [Dataset Folder](https://unsw-my.sharepoint.com/:f:/g/personal/z5025089_ad_unsw_edu_au/EqaMbRpsxKBGlzSvV16uNvcBj6FnYZCQOIAJkjOMMNxsNw?e=AVUJ6E)
 	* [Sample Preprocessing Script](http://github.com/WYF99/IMC25-CloudGamingContext)
 	* **Citing us:** 
-```
+
+
+```bibtex
 @inproceedings{wang_games_2025,
-	author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
-	title = {Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement},
-	booktitle = {Proc. ACM Internet Measurement Conference (IMC)},
-	year = {2025},
-	month = {Oct},
-	address = {Madison, WI, USA},
+  author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
+  title = {Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement},
+  booktitle = {Proc. ACM Internet Measurement Conference (IMC)},
+  year = {2025},
+  month = {Oct},
+  address = {Madison, WI, USA},
 }
 ```
 
-```
+		* ```
+		@inproceedings{wang_games_2025,
+			author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
+			title = {Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement},
+			booktitle = {Proc. ACM Internet Measurement Conference (IMC)},
+			year = {2025},
+			month = {Oct},
+			address = {Madison, WI, USA},
+		}
+		```
+		* ```
 		@INPROCEEDINGS{10619817,
 			author={Lyu, Minzhao and Wang, Yifan and Sivaraman, Vijay},
 			booktitle={Proc. IFIP Networking}, 
@@ -28,16 +40,15 @@ author_profile: true
 			year={2024},
 			month={Jun},
 		}
-```
-```
+		```
+		* ```
 		@ARTICLE{11219363,
   			author={Lyu, Minzhao and Sivaraman, Vijay},
   			journal={IEEE Transactions on Networking}, 
   			title={A Large-Scale Network Measurement Study of NVIDIA GeForce NOW Cloud Gaming in the Wild}, 
   			year={2025},
   		}
-```
-
+		```
 
 * **Video Streaming** 
 	* [Dataset Folder](https://unsw-my.sharepoint.com/:f:/g/personal/z5025089_ad_unsw_edu_au/EkrbbFOFcxdEoPD4usvie5YB0pXw15t93r0xF4JyM-M3bg?e=3n8lBA)
