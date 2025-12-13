@@ -7,17 +7,19 @@ author_profile: true
 
 PhD Students
 ======
-* **[Shuai Zhang](https://shuai-zhang16.github.io/)**, PhD student, Jun 2025 - present, "Modelling Software Supply Chain Dependence". 
+* **[Shuai Zhang](https://shuai-zhang16.github.io/)**, PhD student, Jun 2025 - present, "IoT Network Behavioural Analysis for Security". 
   * supervised with A/Prof. Hassan Habibi Gharakheili
+  * supported by UNSW's Tuition Fee Scholarship (TFS) with stipend
 
-* **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Measuring Internet Infrastructure Resillience". 
+* **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Measuring Network Resilience of Government Digital Infrastructure". 
   * supervised with Prof. Vijay Sivaraman and A/Prof. Hassan Habibi Gharakheili
   * recipent of Indonesian Government's **Indonesia Endowment Fund for Education (LPDP) Scholarship**
 
-* **[Rushi Babaria](https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&originalSubdomain=in)**, PhD student, Feb 2024 - present, "Fast Network Traffic Classification". 
+* **[Rushi Babaria](https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&originalSubdomain=in)**, PhD student, Feb 2024 - present, "Network Traffic Classification at ISP Scale". 
   * supervised with Prof. Vijay Sivaraman and A/Prof. Gustavo Batista
+  * supported by UNSW's Tuition Fee Scholarship (TFS) with stipend.
 
-* **[Yifan Wang](https://wangyi.fan/)**, PhD student, Dec 2022 - present, "Network Measurement for Multimedia Streaming Applications". 
+* **[Yifan Wang](https://wangyi.fan/)**, PhD student, Dec 2022 - present, "AI-based Network Traffic Analysis for Multimedia User Experience". 
   * supervised with Prof. Vijay Sivaraman
   * recipent of UNSW's **University International Postgraduate Award (UIPA)**
   * recipent of Australian Government's **National Industry PhD Program**
