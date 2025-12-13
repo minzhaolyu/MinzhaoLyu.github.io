@@ -17,7 +17,7 @@ PhD Students
 
 * **[Rushi Babaria](https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&originalSubdomain=in)**, PhD student, Feb 2024 - present, "Network Traffic Classification at ISP Scale". 
   * supervised with Prof. Vijay Sivaraman and A/Prof. Gustavo Batista
-  * supported by UNSW's Tuition Fee Scholarship (TFS) with stipend.
+  * supported by UNSW's Tuition Fee Scholarship (TFS) with stipend
 
 * **[Yifan Wang](https://wangyi.fan/)**, PhD student, Dec 2022 - present, "AI-based Network Traffic Analysis for Multimedia User Experience". 
   * supervised with Prof. Vijay Sivaraman
