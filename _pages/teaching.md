@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Computer Networking & Network Systems
+Computer Networking & Systems
 ======
 
 * **Network Operations and Control** TELE9752
