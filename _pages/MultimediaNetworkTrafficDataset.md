@@ -53,7 +53,7 @@ author_profile: true
 		```
 
 * **Metaverse Virtual Reality** 
-	* Dataset Folder (dataset is under renewing with a group of my Masters Project students now, the updated version will be made available soon.)
+	* [Dataset Folder](https://unsw-my.sharepoint.com/:f:/g/personal/z5025089_ad_unsw_edu_au/IgDvcbTwW-naQ74xS9KhIiLtASibW_v0kdDx0M52gV8icSE?e=jieb1q)
 	* [Sample Preprocessing Script](https://github.com/RahulTripathi0401/MetaVRadar)
 	* **Citing us:**
 		* ```bibtex
