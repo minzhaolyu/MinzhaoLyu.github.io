@@ -4,6 +4,8 @@ title: "Updates"
 permalink: /update/
 author_profile: true
 ---
+* (Mar 2026) [**Assessing Cloud Gaming Adaptability**](https://minzhaolyu.github.io/publications/) is accepted at Computer Networks.
+
 * (Oct 2025) [**Measuring Cloud Gaming at Scale**](https://minzhaolyu.github.io/publications/) is accepted at IEEE Transactions on Networking.
 
 * (Sep 2025) [**Measuring Cloud Gaming Contexts for Effective QoE**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM IMC 2025.
@@ -37,7 +39,7 @@ author_profile: true
 
 * (Jul 2023) An invited blog on [**Enterprise Network Asset Classification**](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/) is published by APNIC.
 
-* (Jun 2023) [**Multi-stage Detection of Distributed Attacks**](https://minzhaolyu.github.io/publications/) is accepted at (Elsevier) Computer Networks.
+* (Jun 2023) [**Multi-stage Detection of Distributed Attacks**](https://minzhaolyu.github.io/publications/) is accepted at Computer Networks.
 
 * (Jan 2023) An invited blog on [**Current Development of DNS Encryption**](https://minzhaolyu.github.io/talks/) is published by APNIC.
 
@@ -45,7 +47,7 @@ author_profile: true
 
 * (Nov 2022) Undergraduate thesis student *Jun Han* will present his paper [**Evaluating Internet Speed Test**](https://minzhaolyu.github.io/publications/) at Asian Internet Enigneering Conference (AINTEC 2022) in Hiroshima, Japan.
 
-* (Sep 2022) [**Enterprise Asset Classification and Tracking**](https://minzhaolyu.github.io/publications/) is accepted at Elsevier Computer Networks.
+* (Sep 2022) [**Enterprise Asset Classification and Tracking**](https://minzhaolyu.github.io/publications/) is accepted at Computer Networks.
 
 * (Jul 2022) [**DNS Encryption Survey**](https://minzhaolyu.github.io/publications/) is accepted at ACM Computing Surveys.
 

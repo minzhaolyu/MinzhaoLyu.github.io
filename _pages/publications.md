@@ -7,7 +7,9 @@ author_profile: true
 
 Long Conference Papers and Journal Articles
 ======
-* **[TON25]** **M. Lyu** and V. Sivaraman. [A Large-Scale Network Measurement Study of NVIDIA GeForce NOW Cloud Gaming in the Wild](https://ieeexplore.ieee.org/document/11219363) at **IEEE Transactions on Networking**, Early Access, 2025. ([preprint version](https://www.researchgate.net/publication/396998466_A_Large-Scale_Network_Measurement_Study_of_NVIDIA_GeForce_NOW_Cloud_Gaming_in_the_Wild))
+* **[ComNet26]** **M. Lyu**, Y. Wang, and V. Sivaraman. [Systematic Assessment of Cloud Game Adaptability for Network Conditions and User Experience](https://minzhaolyu.github.io/publications/) at (Elsevier) **Computer Networks**, Early Access, 2026.
+
+* **[TON25]** **M. Lyu** and V. Sivaraman. [A Large-Scale Network Measurement Study of NVIDIA GeForce NOW Cloud Gaming in the Wild](https://ieeexplore.ieee.org/document/11219363) at **IEEE Transactions on Networking**, Oct 2025. ([preprint version](https://www.researchgate.net/publication/396998466_A_Large-Scale_Network_Measurement_Study_of_NVIDIA_GeForce_NOW_Cloud_Gaming_in_the_Wild))
 
 
 * **[IMC25]** Y. Wang, **M. Lyu** and V. Sivaraman. [Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement](https://dl.acm.org/doi/10.1145/3730567.3764455) at **ACM Internet Measurement Conference**, Madison, WI, USA, Oct 2025. ([preprint version](https://arxiv.org/pdf/2509.19669)) 
