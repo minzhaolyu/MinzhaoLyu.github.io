@@ -7,7 +7,9 @@ author_profile: true
 
 Long Conference Papers and Journal Articles
 ======
-* **[ComNet26]** **M. Lyu**, Y. Wang, and V. Sivaraman. [Systematic Assessment of Cloud Game Adaptability for Network Conditions and User Experience](https://minzhaolyu.github.io/publications/) at (Elsevier) **Computer Networks**, Early Access, 2026.
+* **[SIGMETRICS26]** A. Septiadi, **M. Lyu**, H. Habibi Gharakheili and V. Sivaraman. [Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services](https://arxiv.org/abs/2512.13946) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Ann Arbor, Michigan, USA, Jun 2026. (Accpetance Rate: 15% = 32/211) ([preprint version](https://arxiv.org/abs/2512.13946))
+
+* **[ComNet26]** **M. Lyu**, Y. Wang, and V. Sivaraman. [Systematic Assessment of Cloud Game Adaptability for Network Conditions and User Experience](https://www.sciencedirect.com/science/article/pii/S1389128626002264) at (Elsevier) **Computer Networks**, Early Access, 2026.
 
 * **[TON25]** **M. Lyu** and V. Sivaraman. [A Large-Scale Network Measurement Study of NVIDIA GeForce NOW Cloud Gaming in the Wild](https://ieeexplore.ieee.org/document/11219363) at **IEEE Transactions on Networking**, Oct 2025. ([preprint version](https://www.researchgate.net/publication/396998466_A_Large-Scale_Network_Measurement_Study_of_NVIDIA_GeForce_NOW_Cloud_Gaming_in_the_Wild))
 

@@ -4,6 +4,8 @@ title: "Updates"
 permalink: /update/
 author_profile: true
 ---
+* (Mar 2026) [**Assessing Authoritative DNS Resilience**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Agung Septiadi is accepted at ACM SIGMETRICS 2026.
+
 * (Mar 2026) [**Assessing Cloud Gaming Adaptability**](https://minzhaolyu.github.io/publications/) is accepted at Computer Networks.
 
 * (Oct 2025) [**Measuring Cloud Gaming at Scale**](https://minzhaolyu.github.io/publications/) is accepted at IEEE Transactions on Networking.
