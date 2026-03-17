@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Internet Infrastructure Data"
+title: "Critical Infrastructure Measurement Dataset"
 permalink: /dataset/InternetInfrastructureDataset
 author_profile: true
 ---
