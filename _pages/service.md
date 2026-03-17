@@ -29,6 +29,7 @@ Journal Reviewer
   * IEEE Access
   * (Elsevier) Computer Networks 
   * (Elsevier) Computers & Security
+  * (Elsevier) Computer Science Review
   * (Elsevier) Expert Systems With Applications
   * Journal of Network and Systems Management
   * Journal of Network and Computer Applications
@@ -45,4 +46,5 @@ Conference Organising Team
 Membership
 ======
   * ACM Member
+  * ACM SIGMETRICS Member
   * IEEE Member
