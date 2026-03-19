@@ -9,9 +9,9 @@ Technical Program Committee (TPC) Member
 ======
   * [ACM SIGMETRICS 2026](https://www.sigmetrics.org/sigmetrics2026/program_committee.html)
   * [PAM 2026](https://pam2026.at/committees/)
-  * [IEEE Conference on Local Computer Networks (LCN) 2025](https://www.ieeelcn.org/prior/LCN50/Committees_TPC.html)
+  * IEEE Conference on Local Computer Networks (LCN) [2025](https://www.ieeelcn.org/prior/LCN50/Committees_TPC.html), 2026
   * [IEEE LCN Special Track - LLMNet 2025](https://llmnet.nss-research.io/)
-  * [ACM SIGCOMM Asian Internet Engineering Conference (AINTEC) 2025](https://interlab.ait.ac.th/aintec2025/committees)
+  * ACM SIGCOMM Asian Internet Engineering Conference (AINTEC) [2025](https://interlab.ait.ac.th/aintec2025/committees), 2026
 
 
 Journal Reviewer
