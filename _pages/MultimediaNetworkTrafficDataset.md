@@ -20,12 +20,11 @@ author_profile: true
 		}
 		```
 		* ```bibtex
-		@INPROCEEDINGS{10619817,
-			author={Lyu, Minzhao and Wang, Yifan and Sivaraman, Vijay},
-			booktitle={Proc. IFIP Networking}, 
-			title={Do Cloud Games Adapt to Client Settings and Network Conditions?}, 
-			year={2024},
-			month={Jun},
+		@article{LYU2026112214,
+		title = {Systematic Assessment of Cloud Game Adaptability for Network Conditions and User Experience},
+		journal = {Computer Networks},
+		year = {2026},
+		author = {Minzhao Lyu and Yifan Wang and Vijay Sivaraman},
 		}
 		```
 		* ```bibtex
@@ -65,7 +64,6 @@ author_profile: true
 			number={3},
 			pages={1--29},
 			year={2023},
-			publisher={ACM New York, NY, USA}
 		}
 		```
 
