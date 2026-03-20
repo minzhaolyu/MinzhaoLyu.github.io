@@ -7,45 +7,47 @@ author_profile: true
 
 Long Conference Papers and Journal Articles
 ======
-* **[SIGMETRICS26]** A. Septiadi, **M. Lyu^\***, H. Habibi Gharakheili and V. Sivaraman. [Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services](https://arxiv.org/abs/2512.13946) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Ann Arbor, Michigan, USA, Jun 2026. (Accpetance Rate: 15% = 32/211) ([preprint version](https://arxiv.org/abs/2512.13946))
+\* indicates the papers where I am the corresponding author.
 
-* **[ComNet26]** **M. Lyu**, Y. Wang, and V. Sivaraman. [Systematic Assessment of Cloud Game Adaptability for Network Conditions and User Experience](https://www.sciencedirect.com/science/article/pii/S1389128626002264) at (Elsevier) **Computer Networks**, Early Access, 2026.
+* **[SIGMETRICS26]** A. Septiadi, **M. Lyu\***, H. Habibi Gharakheili and V. Sivaraman. [Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services](https://arxiv.org/abs/2512.13946) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Ann Arbor, Michigan, USA, Jun 2026. (Accpetance Rate: 15% = 32/211) ([preprint version](https://arxiv.org/abs/2512.13946))
 
-* **[TON25]** **M. Lyu** and V. Sivaraman. [A Large-Scale Network Measurement Study of NVIDIA GeForce NOW Cloud Gaming in the Wild](https://ieeexplore.ieee.org/document/11219363) at **IEEE Transactions on Networking**, Oct 2025. ([preprint version](https://www.researchgate.net/publication/396998466_A_Large-Scale_Network_Measurement_Study_of_NVIDIA_GeForce_NOW_Cloud_Gaming_in_the_Wild))
+* **[ComNet26]** **M. Lyu\***, Y. Wang, and V. Sivaraman. [Systematic Assessment of Cloud Game Adaptability for Network Conditions and User Experience](https://www.sciencedirect.com/science/article/pii/S1389128626002264) at (Elsevier) **Computer Networks**, Early Access, 2026.
 
-
-* **[IMC25]** Y. Wang, **M. Lyu** and V. Sivaraman. [Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement](https://dl.acm.org/doi/10.1145/3730567.3764455) at **ACM Internet Measurement Conference**, Madison, WI, USA, Oct 2025. ([preprint version](https://arxiv.org/pdf/2509.19669)) 
-
-* **[SIGMETRICS25]** R. J. Babaria, **M. Lyu**, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](https://dl.acm.org/doi/10.1145/3727115) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, New York, USA, Jun 2025. (Accpetance Rate: 17% = 66/381) ([preprint version](https://arxiv.org/pdf/2504.02174))
+* **[TON25]** **M. Lyu\*** and V. Sivaraman. [A Large-Scale Network Measurement Study of NVIDIA GeForce NOW Cloud Gaming in the Wild](https://ieeexplore.ieee.org/document/11219363) at **IEEE Transactions on Networking**, Oct 2025. ([preprint version](https://www.researchgate.net/publication/396998466_A_Large-Scale_Network_Measurement_Study_of_NVIDIA_GeForce_NOW_Cloud_Gaming_in_the_Wild))
 
 
-* **[IMC24]** Y. Wang, **M. Lyu** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://dl.acm.org/doi/10.1145/3646547.3688435) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. (Long Paper Acceptance Rate: 19% = 30/160) ([preprint version](https://arxiv.org/pdf/2408.16995)) 
+* **[IMC25]** Y. Wang, **M. Lyu\*** and V. Sivaraman. [Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement](https://dl.acm.org/doi/10.1145/3730567.3764455) at **ACM Internet Measurement Conference**, Madison, WI, USA, Oct 2025. ([preprint version](https://arxiv.org/pdf/2509.19669)) 
 
-* **[SIGMETRICS24]** **M. Lyu**, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. (Accpetance Rate: 15% = 52/331) ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
+* **[SIGMETRICS25]** R. J. Babaria, **M. Lyu\***, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](https://dl.acm.org/doi/10.1145/3727115) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, New York, USA, Jun 2025. (Accpetance Rate: 17% = 66/381) ([preprint version](https://arxiv.org/pdf/2504.02174))
 
 
-* **[PAM24]** **M. Lyu**, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
+* **[IMC24]** Y. Wang, **M. Lyu\*** and V. Sivaraman. [Characterizing User Platforms for Video Streaming in Broadband Networks](https://dl.acm.org/doi/10.1145/3646547.3688435) at **ACM Internet Measurement Conference**, Madrid, Spain, Nov 2024. (Long Paper Acceptance Rate: 19% = 30/160) ([preprint version](https://arxiv.org/pdf/2408.16995)) 
 
-* **[Access24]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://ieeexplore.ieee.org/document/10571950), **IEEE Access**, Jan 2024.
+* **[SIGMETRICS24]** **M. Lyu\***, R. D. Tripathi and V. Sivaraman. [MetaVRadar: Measuring Metaverse Virtual Reality Network Activity](https://dl.acm.org/doi/10.1145/3626786) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Venice, Italy, Jun 2024. (Accpetance Rate: 15% = 52/331) ([preprint version](https://arxiv.org/pdf/2402.08286.pdf))
+
+
+* **[PAM24]** **M. Lyu\***, S. C. Madanapalli, A. Vishwanath and V. Sivaraman. [Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming](https://link.springer.com/chapter/10.1007/978-3-031-56249-5_3) at **International Conference on Passive and Active Network Measurement**, Virtual Event, USA, Mar 2024. ([preprint version](https://arxiv.org/pdf/2401.06366.pdf))
+
+* **[Access24]** **M. Lyu\***, H. Habibi Gharakheili, and V. Sivaraman, [A Survey on Enterprise Network Security: Asset Behavioral Monitoring and Distributed Attack Detection](https://ieeexplore.ieee.org/document/10571950), **IEEE Access**, Jan 2024.
 
 * [JMIR24] X. He, F. Cui, **M. Lyu**, D. Sun, X. Zhang, J. Shi, Y. Zhang, S. Jiang and J. Zhao. [Key Factors Influencing the Operationalization and Effectiveness of Telemedicine Services in Henan Province, China: Cross-Sectional Analysis](https://www.jmir.org/2024/1/e45020/) at **Journal of Medical Internet Research**, Jan 2024.
 
 
-* **[ComNet23]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [PEDDA: Practical and Effective Detection of Distributed Attacks on Enterprise Networks via Progressive Multi-Stage Inference](https://doi.org/10.1016/j.comnet.2023.109873) at (Elsevier) **Computer Networks**, Sep 2023. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/23Pedda.pdf))
+* **[ComNet23]** **M. Lyu\***, H. Habibi Gharakheili, and V. Sivaraman. [PEDDA: Practical and Effective Detection of Distributed Attacks on Enterprise Networks via Progressive Multi-Stage Inference](https://doi.org/10.1016/j.comnet.2023.109873) at (Elsevier) **Computer Networks**, Sep 2023. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/23Pedda.pdf))
 
-* **[CSUR23]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [A Survey on DNS Encryption: Current
+* **[CSUR23]** **M. Lyu\***, H. Habibi Gharakheili, and V. Sivaraman. [A Survey on DNS Encryption: Current
 Development, Malware Misuse, and Inference Techniques](https://dl.acm.org/doi/abs/10.1145/3547331) at **ACM Computing Surveys**, Aug 2023. ([preprint version](https://www.researchgate.net/profile/Minzhao-Lyu/publication/357587121_A_Survey_on_DNS_Encryption_Current_Development_Malware_Misuse_and_Inference_Techniques/links/61ee10f0dafcdb25fd48b7a8/A-Survey-on-DNS-Encryption-Current-Development-Malware-Misuse-and-Inference-Techniques.pdf))
 
-* **[ComNet22]** **M. Lyu**, H. Habibi Gharakheili, and V. Sivaraman. [Classifying and Tracking Enterprise Assets via
+* **[ComNet22]** **M. Lyu\***, H. Habibi Gharakheili, and V. Sivaraman. [Classifying and Tracking Enterprise Assets via
 Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/article/pii/S1389128622004212) at (Elsevier) **Computer Networks**, Dec 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22ComNet.pdf))
 
-* **[TNSM22]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Enterprise DNS Asset Mapping and Cyber-Health Tracking via Passive Traffic Analysis](https://ieeexplore.ieee.org/document/9951392) at **IEEE Transactions on Network and Service Management**, Nov 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22tnsm.pdf))
+* **[TNSM22]** **M. Lyu\***, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Enterprise DNS Asset Mapping and Cyber-Health Tracking via Passive Traffic Analysis](https://ieeexplore.ieee.org/document/9951392) at **IEEE Transactions on Network and Service Management**, Nov 2022. ([preprint version](https://www2.ee.unsw.edu.au/~hhabibi/pubs/jrnl/22tnsm.pdf))
 
 * [JMIR21] F. Cui, X. He, Y. Zhai, **M. Lyu**, J. Shi, D. Sun, S. Juang, C. Li, and J. Zhao. [Application of Telemedicine Services Based on a Regional Telemedicine Platform in China from 2014 to 2020: Longitudinal Trend Anaylsis](https://www.jmir.org/2021/7/e28009/) at **Journal of Medical Internet Research**, Jul 2021.
 
 * [IoTJ21] B. Chen, S. Qiao, J. Zhao, D. Liu, X. Shi, **M. Lyu**, H. Chen, H. Lu, and Y. Zhai. [A Security Awareness & Protection System For 5G Smart Healthcare Based on Zero-Trust Architecture](https://ieeexplore.ieee.org/abstract/document/9273056) at **IEEE Internet of Things Journal**, Jul 2021.
 
-* **[TNSM21]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Hierarchical Anomaly-Based Detection of Distributed DNS Attacks on Enterprise Networks](https://ieeexplore.ieee.org/abstract/document/9316919) at **IEEE Transactions on Network and Service Management**, Mar 2021. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/21tnsmDNSAtk.pdf))
+* **[TNSM21]** **M. Lyu\***, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Hierarchical Anomaly-Based Detection of Distributed DNS Attacks on Enterprise Networks](https://ieeexplore.ieee.org/abstract/document/9316919) at **IEEE Transactions on Network and Service Management**, Mar 2021. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/21tnsmDNSAtk.pdf))
 
 * **[TNSM19]** H. Habibi Gharakheili, **M. Lyu**, Y. Wang, H. Kumar and V. Sivaraman. [iTeleScope: Softwarized Network Middle-Box for Real-Time Video Telemetry and Classification](https://ieeexplore.ieee.org/document/8765778) at **IEEE Transactions on Network and Service Management**, Dec 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/19TNSMtelescope.pdf))
 
