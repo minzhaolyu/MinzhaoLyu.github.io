@@ -7,7 +7,7 @@ author_profile: true
 
 Long Conference Papers and Journal Articles
 ======
-* **[SIGMETRICS26]** A. Septiadi, **M. Lyu**, H. Habibi Gharakheili and V. Sivaraman. [Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services](https://arxiv.org/abs/2512.13946) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Ann Arbor, Michigan, USA, Jun 2026. (Accpetance Rate: 15% = 32/211) ([preprint version](https://arxiv.org/abs/2512.13946))
+* **[SIGMETRICS26]** A. Septiadi, **M. Lyu^\***, H. Habibi Gharakheili and V. Sivaraman. [Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services](https://arxiv.org/abs/2512.13946) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Ann Arbor, Michigan, USA, Jun 2026. (Accpetance Rate: 15% = 32/211) ([preprint version](https://arxiv.org/abs/2512.13946))
 
 * **[ComNet26]** **M. Lyu**, Y. Wang, and V. Sivaraman. [Systematic Assessment of Cloud Game Adaptability for Network Conditions and User Experience](https://www.sciencedirect.com/science/article/pii/S1389128626002264) at (Elsevier) **Computer Networks**, Early Access, 2026.
 
