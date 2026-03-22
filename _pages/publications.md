@@ -7,7 +7,7 @@ author_profile: true
 
 Long Conference Papers and Journal Articles
 ======
-\* indicates the papers where I am the corresponding author.
+``\*'' indicates that I am the corresponding author.
 
 * **[SIGMETRICS26]** A. Septiadi, **M. Lyu\***, H. Habibi Gharakheili and V. Sivaraman. [Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services](https://arxiv.org/abs/2512.13946) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Ann Arbor, Michigan, USA, Jun 2026. (Accpetance Rate: 15% = 32/211) ([preprint version](https://arxiv.org/abs/2512.13946))
 
@@ -47,7 +47,7 @@ Dual-Grained Network Behavioral Analysis](https://www.sciencedirect.com/science/
 
 * [IoTJ21] B. Chen, S. Qiao, J. Zhao, D. Liu, X. Shi, **M. Lyu**, H. Chen, H. Lu, and Y. Zhai. [A Security Awareness & Protection System For 5G Smart Healthcare Based on Zero-Trust Architecture](https://ieeexplore.ieee.org/abstract/document/9273056) at **IEEE Internet of Things Journal**, Jul 2021.
 
-* **[TNSM21]** **M. Lyu\***, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Hierarchical Anomaly-Based Detection of Distributed DNS Attacks on Enterprise Networks](https://ieeexplore.ieee.org/abstract/document/9316919) at **IEEE Transactions on Network and Service Management**, Mar 2021. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/21tnsmDNSAtk.pdf))
+* **[TNSM21]** **M. Lyu**, H. Habibi Gharakheili, C. Russell and V. Sivaraman. [Hierarchical Anomaly-Based Detection of Distributed DNS Attacks on Enterprise Networks](https://ieeexplore.ieee.org/abstract/document/9316919) at **IEEE Transactions on Network and Service Management**, Mar 2021. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/21tnsmDNSAtk.pdf))
 
 * **[TNSM19]** H. Habibi Gharakheili, **M. Lyu**, Y. Wang, H. Kumar and V. Sivaraman. [iTeleScope: Softwarized Network Middle-Box for Real-Time Video Telemetry and Classification](https://ieeexplore.ieee.org/document/8765778) at **IEEE Transactions on Network and Service Management**, Dec 2019. ([preprint version](http://www2.ee.unsw.edu.au/~vijay/pubs/jrnl/19TNSMtelescope.pdf))
 
