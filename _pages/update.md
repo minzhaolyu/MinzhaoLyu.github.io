@@ -4,6 +4,8 @@ title: "Updates"
 permalink: /update/
 author_profile: true
 ---
+* (Apr 2026) Joined the TPC for [IEEE IC2E](https://conferences.computer.org/IC2E/2026/pc-research.html), [IEEE LCN](https://www.ieeelcn.org/Committees_TPC.html), and AINTEC 2026.
+
 * (Mar 2026) [**Assessing Authoritative DNS Resilience**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Agung Septiadi is accepted at ACM SIGMETRICS 2026.
 
 * (Mar 2026) [**Assessing Cloud Gaming Adaptability**](https://minzhaolyu.github.io/publications/) is accepted at Computer Networks.
