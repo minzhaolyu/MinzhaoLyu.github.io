@@ -19,7 +19,8 @@ Journal Reviewer
 ======
   * ACM Computing Surveys
   * ACM Transactions on Modeling and Performance Evaluation of Computing Systems
-  * IEEE/ACM Transactions on Networking
+  * ACM Transactions on Multimedia Computing, Communications, and Applications
+  * IEEE Transactions on Networking
   * IEEE Transactions on Network and Service Management
   * IEEE Transactions on Network Science and Engineering
   * IEEE Transactions on Dependable and Secure Computing
