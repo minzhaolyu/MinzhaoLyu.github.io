@@ -7,13 +7,13 @@ author_profile: true
 
 Technical Program Committee (TPC) Member
 ======
-  * [ACM SIGMETRICS 2026](https://www.sigmetrics.org/sigmetrics2026/program_committee.html)
+  * ACM SIGMETRICS [2026](https://www.sigmetrics.org/sigmetrics2026/program_committee.html)
   * [PAM 2026](https://pam2026.at/committees/)
-  * IEEE International Conference on Cloud Engineering (IC2E) [2026](https://conferences.computer.org/IC2E/2026/pc-research.html)
-  * IEEE Conference on Local Computer Networks (LCN) [2025](https://www.ieeelcn.org/prior/LCN50/Committees_TPC.html), 2026
+  <!-- * IEEE International Conference on Cloud Engineering (IC2E) [2026](https://conferences.computer.org/IC2E/2026/pc-research.html) -->
+  * IEEE LCN [2025](https://www.ieeelcn.org/prior/LCN50/Committees_TPC.html), 2026
   * [IEEE LCN Special Track - LLMNet 2025](https://llmnet.nss-research.io/)
   * ACM SIGCOMM Asian Internet Engineering Conference (AINTEC) [2025](https://interlab.ait.ac.th/aintec2025/committees), 2026
-  * [ACM ImmerCom] ACM Workshop on Mobile Immersive Computing, Networking, and Systems (ImmerCom) [2026](https://immercom.github.io/committees.html)
+  * ACM ImmerCom [2026](https://immercom.github.io/committees.html)
 
 
 Journal Reviewer
