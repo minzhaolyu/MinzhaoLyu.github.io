@@ -23,7 +23,7 @@ The website also contains a list of my publications, blogs, teaching and profess
 
 Updates
 ======
-* (May 2026) Joined the TPC for [**ACM SIGMETRICS 2027**](https://www.sigmetrics.org/sigmetrics2027/program_committee.html).
+<!-- * (May 2026) Joined the TPC for [**ACM SIGMETRICS 2027**](https://www.sigmetrics.org/sigmetrics2027/program_committee.html). -->
 
 * (Apr 2026) Joined the TPC for IEEE LCN, IEEE IC2E, ACM ImmerCom, and AINTEC 2026.
 
@@ -34,6 +34,10 @@ Updates
 * (Oct 2025) [**Measuring Cloud Gaming at Scale**](https://minzhaolyu.github.io/publications/) is accepted at IEEE Transactions on Networking.
 
 * (Sep 2025) [**Measuring Cloud Gaming Contexts for Effective QoE**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM IMC 2025.
+
+* (Sep 2025) Joined the TPC for [**PAM 2026**](https://pam2026.at/committees/).
+
+* (Jul 2025) Joined the TPC for [**ACM SIGMETRICS 2026**](https://www.sigmetrics.org/sigmetrics2026/program_committee.html).
 
 
 * [More updates](https://minzhaolyu.github.io/update/)
