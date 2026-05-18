@@ -35,6 +35,7 @@ Journal Reviewer
   * (Elsevier) Computers & Security
   * (Elsevier) Computer Science Review
   * (Elsevier) Expert Systems With Applications
+  * (Elsevier) Signal Processing: Image Communication
   * Journal of Network and Systems Management
   * Journal of Network and Computer Applications
   * Journal of Information Security and Applications
