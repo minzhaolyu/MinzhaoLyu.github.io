@@ -4,59 +4,115 @@ title: "Updates"
 permalink: /update/
 author_profile: true
 ---
-<!-- * (May 2026) Joined the TPC for [**ACM SIGMETRICS 2027**](https://www.sigmetrics.org/sigmetrics2027/program_committee.html). -->
 
-* (Apr 2026) Joined the TPC for IEEE LCN, IEEE IC2E, ACM ImmerCom, and AINTEC 2026.
-
-* (Mar 2026) [**Assessing Authoritative DNS Resilience**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Agung Septiadi is accepted at ACM SIGMETRICS 2026.
-
-* (Mar 2026) [**Assessing Cloud Gaming Adaptability**](https://minzhaolyu.github.io/publications/) is accepted at Computer Networks.
-
-* (Oct 2025) [**Measuring Cloud Gaming at Scale**](https://minzhaolyu.github.io/publications/) is accepted at IEEE Transactions on Networking.
-
-* (Sep 2025) [**Measuring Cloud Gaming Contexts for Effective QoE**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM IMC 2025.
-
-* (Sep 2025) Joined the TPC for [**PAM 2026**](https://pam2026.at/committees/).
-
-* (Jul 2025) Joined the TPC for [**ACM SIGMETRICS 2026**](https://www.sigmetrics.org/sigmetrics2026/program_committee.html).
-
-* (Mar 2025) [**Early yet Robust Flow Classification**](https://minzhaolyu.github.io/publications/) first-authored by MPhil student Rushi Babaria is accepted at ACM SIGMETRICS 2025.
-
-* (Jan 2025) Successfully promoted to **Lecturer** at UNSW Sydney!
-
-* (Aug 2024) [**Characterizing Video Streaming User Platforms**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM IMC 2024.
-
-* (Jun 2024) [**Network QoS Impacting Metaverse QoE**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Rahul Dev Tripathi is accepted at IEEE MetaCom 2024.
-
-* (Jun 2024) [**Mapping Cyber Risk Database**](https://minzhaolyu.github.io/publications/) first-authored by Undergraduate thesis student Marta Zumaquero Gil and [**Measuring GenAI Usage**](https://minzhaolyu.github.io/publications/) are accepted at ACM SIGCOMM'24 Side Event AINTEC.
-
-* (Jun 2024) [**Standarizing Multimedia QoE Telemetry**](https://minzhaolyu.github.io/publications/) first-authored by PhD student Yifan Wang is accepted at ACM SIGCOMM'24 Workshop on EMS.
-
-
-* (Apr 2024) I will serve as **Local Arrangement Chair** for ACM SIGCOMM'24 Workshop on [**Networks for AI Computing (NAIC)**](https://conferences.sigcomm.org/sigcomm/2024/workshop/naic/).
-
-* (Apr 2024) [**Analysing Cloud Game Adaptability**](https://minzhaolyu.github.io/publications/) is accepted at IFIP Networking Conference 2024.
-
-* (Jan 2024) [**Cloud Gaming Network Measurement**](https://minzhaolyu.github.io/publications/) is accepted at PAM 2024.
-
-* (Dec 2023) [**Sharing of IoT MUD Data**](https://minzhaolyu.github.io/publications/) first-authored by Masters Project student Song Guo is accepted at IEEE/IFIP NOMS 2024.
-
-* (Oct 2023) [**Measuring Metaverse Network Activity**](https://minzhaolyu.github.io/publications/) is accepted at ACM SIGMETRICS/IFIP Performance 2024.
-
-* (Jul 2023) An invited blog on [**Enterprise Network Asset Classification**](https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/) is published by APNIC.
-
-* (Jun 2023) [**Multi-stage Detection of Distributed Attacks**](https://minzhaolyu.github.io/publications/) is accepted at Computer Networks.
-
-* (Jan 2023) An invited blog on [**Current Development of DNS Encryption**](https://minzhaolyu.github.io/talks/) is published by APNIC.
-
-* (Nov 2022) [**DNS Asset Mapping and Health Tracking**](https://minzhaolyu.github.io/publications/) is accepted at IEEE Transactions on Network and Service Management (TNSM).
-
-* (Nov 2022) Undergraduate thesis student *Jun Han* will present his paper [**Evaluating Internet Speed Test**](https://minzhaolyu.github.io/publications/) at Asian Internet Enigneering Conference (AINTEC 2022) in Hiroshima, Japan.
-
-* (Sep 2022) [**Enterprise Asset Classification and Tracking**](https://minzhaolyu.github.io/publications/) is accepted at Computer Networks.
-
-* (Jul 2022) [**DNS Encryption Survey**](https://minzhaolyu.github.io/publications/) is accepted at ACM Computing Surveys.
-
-* (Feb 2022) An invited blog on [**DNS Malware Misuse and Contermeasures**](https://minzhaolyu.github.io/talks/) is published by APNIC.
-
-* (Oct 2021) Start my **Research Associate** role at the University of New South Wales, Sydney, Australia (UNSW Sydney).
+<section class="update-timeline" aria-label="Updates timeline">
+  <!-- <div class="update-timeline-item"><time>May 2026</time><p>Joined the TPC for <a href="https://www.sigmetrics.org/sigmetrics2027/program_committee.html"><strong>ACM SIGMETRICS 2027</strong></a>.</p></div> -->
+  <div class="update-timeline-item">
+    <time>Apr 2026</time>
+    <p>Joined the TPC for IEEE LCN, IEEE IC2E, ACM ImmerCom, and AINTEC 2026.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Mar 2026</time>
+    <p><a href="/publications/"><strong>Assessing Authoritative DNS Resilience</strong></a>, first-authored by PhD student Agung Septiadi, is accepted at ACM SIGMETRICS 2026.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Mar 2026</time>
+    <p><a href="/publications/"><strong>Assessing Cloud Gaming Adaptability</strong></a> is accepted at Computer Networks.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Oct 2025</time>
+    <p><a href="/publications/"><strong>Measuring Cloud Gaming at Scale</strong></a> is accepted at IEEE Transactions on Networking.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Sep 2025</time>
+    <p><a href="/publications/"><strong>Measuring Cloud Gaming Contexts for Effective QoE</strong></a>, first-authored by PhD student Yifan Wang, is accepted at ACM IMC 2025.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Sep 2025</time>
+    <p>Joined the TPC for <a href="https://pam2026.at/committees/"><strong>PAM 2026</strong></a>.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Jul 2025</time>
+    <p>Joined the TPC for <a href="https://www.sigmetrics.org/sigmetrics2026/program_committee.html"><strong>ACM SIGMETRICS 2026</strong></a>.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Mar 2025</time>
+    <p><a href="/publications/"><strong>Early yet Robust Flow Classification</strong></a>, first-authored by MPhil student Rushi Babaria, is accepted at ACM SIGMETRICS 2025.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Jan 2025</time>
+    <p>Successfully promoted to <strong>Lecturer</strong> at UNSW Sydney!</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Aug 2024</time>
+    <p><a href="/publications/"><strong>Characterizing Video Streaming User Platforms</strong></a>, first-authored by PhD student Yifan Wang, is accepted at ACM IMC 2024.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Jun 2024</time>
+    <p><a href="/publications/"><strong>Network QoS Impacting Metaverse QoE</strong></a>, first-authored by undergraduate thesis student Rahul Dev Tripathi, is accepted at IEEE MetaCom 2024.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Jun 2024</time>
+    <p><a href="/publications/"><strong>Mapping Cyber Risk Database</strong></a>, first-authored by undergraduate thesis student Marta Zumaquero Gil, and <a href="/publications/"><strong>Measuring GenAI Usage</strong></a> are accepted at ACM SIGCOMM'24 Side Event AINTEC.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Jun 2024</time>
+    <p><a href="/publications/"><strong>Standardizing Multimedia QoE Telemetry</strong></a>, first-authored by PhD student Yifan Wang, is accepted at ACM SIGCOMM'24 Workshop on EMS.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Apr 2024</time>
+    <p>I will serve as <strong>Local Arrangement Chair</strong> for ACM SIGCOMM'24 Workshop on <a href="https://conferences.sigcomm.org/sigcomm/2024/workshop/naic/"><strong>Networks for AI Computing (NAIC)</strong></a>.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Apr 2024</time>
+    <p><a href="/publications/"><strong>Analysing Cloud Game Adaptability</strong></a> is accepted at IFIP Networking Conference 2024.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Jan 2024</time>
+    <p><a href="/publications/"><strong>Cloud Gaming Network Measurement</strong></a> is accepted at PAM 2024.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Dec 2023</time>
+    <p><a href="/publications/"><strong>Sharing of IoT MUD Data</strong></a>, first-authored by Masters Project student Song Guo, is accepted at IEEE/IFIP NOMS 2024.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Oct 2023</time>
+    <p><a href="/publications/"><strong>Measuring Metaverse Network Activity</strong></a> is accepted at ACM SIGMETRICS/IFIP Performance 2024.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Jul 2023</time>
+    <p>An invited blog on <a href="https://blog.apnic.net/2023/07/28/dont-leave-network-blind-spots/"><strong>Enterprise Network Asset Classification</strong></a> is published by APNIC.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Jun 2023</time>
+    <p><a href="/publications/"><strong>Multi-stage Detection of Distributed Attacks</strong></a> is accepted at Computer Networks.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Jan 2023</time>
+    <p>An invited blog on <a href="/talks/"><strong>Current Development of DNS Encryption</strong></a> is published by APNIC.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Nov 2022</time>
+    <p><a href="/publications/"><strong>DNS Asset Mapping and Health Tracking</strong></a> is accepted at IEEE Transactions on Network and Service Management (TNSM).</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Nov 2022</time>
+    <p>Undergraduate thesis student <em>Jun Han</em> will present his paper <a href="/publications/"><strong>Evaluating Internet Speed Test</strong></a> at Asian Internet Engineering Conference (AINTEC 2022) in Hiroshima, Japan.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Sep 2022</time>
+    <p><a href="/publications/"><strong>Enterprise Asset Classification and Tracking</strong></a> is accepted at Computer Networks.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Jul 2022</time>
+    <p><a href="/publications/"><strong>DNS Encryption Survey</strong></a> is accepted at ACM Computing Surveys.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Feb 2022</time>
+    <p>An invited blog on <a href="/talks/"><strong>DNS Malware Misuse and Countermeasures</strong></a> is published by APNIC.</p>
+  </div>
+  <div class="update-timeline-item">
+    <time>Oct 2021</time>
+    <p>Start my <strong>Research Associate</strong> role at the University of New South Wales, Sydney, Australia (UNSW Sydney).</p>
+  </div>
+</section>
