@@ -476,6 +476,10 @@
 
 .media-exposure-list > li,
 .media-exposure-card {
+  display: grid;
+  grid-template-columns: 2.15rem minmax(0, 1fr);
+  column-gap: 0.75rem;
+  align-items: start;
   margin: 0;
   padding: 0.85rem 1rem;
   border: 1px solid $border-color;
@@ -485,6 +489,22 @@
   box-shadow: 0 2px 10px rgba(#000, 0.04);
   color: $dark-gray;
   line-height: 1.55;
+}
+
+.media-card-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  grid-row: 1 / span 2;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--media-accent);
+  color: #fff;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: bold;
+  line-height: 1;
 }
 
 .media-exposure-list {
@@ -565,6 +585,11 @@
   }
 
   .media-action {
+    width: 1.85rem;
+    height: 1.85rem;
+  }
+
+  .media-card-number {
     width: 1.85rem;
     height: 1.85rem;
   }
