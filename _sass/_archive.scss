@@ -86,6 +86,143 @@
 
 
 /*
+   Dataset pages
+   ========================================================================== */
+
+.dataset-list {
+  margin-top: 1.5em;
+}
+
+.dataset-card {
+  margin-bottom: 1.5em;
+  padding: 1.1em;
+  border: 1px solid $border-color;
+  border-left: 4px solid $info-color;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(#000, 0.04);
+
+  h2 {
+    margin: 0 0 0.75em;
+    padding-bottom: 0;
+    border-bottom: 0;
+    color: $darker-gray;
+    font-family: $sans-serif;
+    font-size: $type-size-4;
+    line-height: 1.25;
+  }
+
+  h3 {
+    margin: 1.2em 0 0.7em;
+    color: $dark-gray;
+    font-family: $sans-serif;
+    font-size: $type-size-5;
+    line-height: 1.3;
+  }
+}
+
+.dataset-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 0.2em;
+}
+
+.archive .dataset-link,
+.page__content .dataset-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 0.7rem;
+  border: 1px solid mix(#000, $border-color, 5%);
+  border-radius: 4px;
+  background: mix(#fff, $info-color, 94%);
+  color: $dark-gray;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: bold;
+  line-height: 1.2;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    border-color: mix(#000, $info-color, 8%);
+    background: mix(#fff, $info-color, 88%);
+    color: $darker-gray;
+    text-decoration: none;
+  }
+}
+
+.dataset-citations {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.bib-reference {
+  border: 1px solid $border-color;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(#000, 0.04);
+  overflow: hidden;
+
+  pre {
+    margin: 0;
+    padding: 0.9rem 1rem;
+    background: $code-background-color;
+    overflow-x: auto;
+  }
+
+  code {
+    display: block;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+    color: $dark-gray;
+    font-family: $monospace;
+    font-size: $type-size-6;
+    line-height: 1.55;
+    white-space: pre;
+
+    &:before,
+    &:after {
+      content: none;
+    }
+  }
+}
+
+.bib-reference__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  min-height: 2.75rem;
+  padding: 0.55rem 0.7rem 0.55rem 0.9rem;
+  border-bottom: 1px solid $border-color;
+  background: mix(#fff, $info-color, 95%);
+  color: $dark-gray;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: bold;
+  line-height: 1.3;
+
+  .code-copy-button {
+    flex: 0 0 auto;
+  }
+}
+
+@include breakpoint(max-width $small) {
+  .dataset-card {
+    padding: 0.85em;
+  }
+
+  .bib-reference__header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+
+
+/*
    List view
    ========================================================================== */
 

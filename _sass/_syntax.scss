@@ -5,36 +5,77 @@
 div.highlighter-rouge, figure.highlight {
   position: relative;
   margin-bottom: 1em;
-  padding: 1em;
+  padding: 0;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background-color: $code-background-color;
   box-shadow: $box-shadow;
+  overflow: hidden;
 
-  &:before {
+  &.code-block--copyable {
+    padding-top: 2.75em;
+  }
+
+  > .code-copy-button {
     position: absolute;
-    top: 0;
-    right: 0;
-    padding: 0.5em;
-    background-color: $lighter-gray;
-    content: "\f121";
-    font-family: "fontawesome" !important;
-    font-size: $type-size-6;
-    line-height: 1;
-    text-transform: none;
-    speak: none;
+    top: 0.55em;
+    right: 0.55em;
   }
 
   .highlight {
     margin: 0;
+    padding: 1em;
     font-family: $monospace;
     font-size: $type-size-7;
     line-height: 1.8;
+    overflow-x: auto;
   }
 }
 
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
+
+.code-copy-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  min-height: 2rem;
+  padding: 0.35rem 0.6rem;
+  border: 1px solid mix(#000, $border-color, 8%);
+  border-radius: 4px;
+  background: #fff;
+  color: $dark-gray;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: bold;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 1px 2px rgba(#000, 0.06);
+
+  &:before {
+    content: "\f0c5";
+    font-family: "Font Awesome 5 Free" !important;
+    font-weight: 900;
+    speak: none;
+  }
+
+  &:hover,
+  &:focus {
+    border-color: mix(#000, $info-color, 12%);
+    color: mix(#000, $info-color, 25%);
+    outline: none;
+  }
+
+  &.is-copied {
+    border-color: mix(#000, $success-color, 10%);
+    color: mix(#000, $success-color, 25%);
+  }
+
+  &.is-copied:before {
+    content: "\f00c";
+  }
+}
 
 
 /*
