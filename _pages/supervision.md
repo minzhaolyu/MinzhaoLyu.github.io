@@ -5,54 +5,141 @@ permalink: /supervision/
 author_profile: true
 ---
 
-PhD Students
-======
-* **[Shuai Zhang](https://shuai-zhang16.github.io/)**, PhD student, Jun 2025 - present, "IoT Network Behavioural Analysis for Security". 
-  * supervised with A/Prof. Hassan Habibi Gharakheili
-  * supported by UNSW's Tuition Fee Scholarship (TFS) with stipend
+<h2 class="supervision-category-heading supervision-category-heading--phd">PhD Students</h2>
 
-* **[Agung Septiadi](https://www.linkedin.com/in/agungsep/)**, PhD student, Sep 2024 - present, "Measuring Network Resilience of Government Digital Infrastructure". 
-  * supervised with Prof. Vijay Sivaraman and A/Prof. Hassan Habibi Gharakheili
-  * recipent of Indonesian Government's **Indonesia Endowment Fund for Education (LPDP) Scholarship**
+<section class="supervision-card-list supervision-card-list--phd" aria-label="PhD students">
+  <article class="supervision-card">
+    <div class="supervision-card__header">
+      <h3><a href="https://shuai-zhang16.github.io/">Shuai Zhang</a></h3>
+      <div class="supervision-meta">
+        <span>PhD student</span>
+        <span>Jun 2025 - present</span>
+      </div>
+    </div>
+    <p class="supervision-topic">IoT Network Behavioural Analysis for Security</p>
+    <ul class="supervision-detail-list">
+      <li><strong>Supervised with:</strong> A/Prof. Hassan Habibi Gharakheili</li>
+      <li><strong>Scholarship support:</strong> UNSW Tuition Fee Scholarship (TFS) with stipend</li>
+    </ul>
+  </article>
 
-* **[Rushi Babaria](https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&originalSubdomain=in)**, PhD student, Feb 2024 - present, "Network Traffic Classification at ISP Scale". 
-  * supervised with Prof. Vijay Sivaraman and A/Prof. Gustavo Batista
-  * supported by UNSW's Tuition Fee Scholarship (TFS) with stipend
+  <article class="supervision-card">
+    <div class="supervision-card__header">
+      <h3><a href="https://www.linkedin.com/in/agungsep/">Agung Septiadi</a></h3>
+      <div class="supervision-meta">
+        <span>PhD student</span>
+        <span>Sep 2024 - present</span>
+      </div>
+    </div>
+    <p class="supervision-topic">Measuring Network Resilience of Government Digital Infrastructure</p>
+    <ul class="supervision-detail-list">
+      <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman and A/Prof. Hassan Habibi Gharakheili</li>
+      <li><strong>Scholarship support:</strong> Indonesian Government's <strong>Indonesia Endowment Fund for Education (LPDP) Scholarship</strong></li>
+    </ul>
+  </article>
 
-* **[Yifan Wang](https://wangyi.fan/)**, PhD student, Dec 2022 - present, "AI-based Network Traffic Analysis for Multimedia User Experience". 
-  * supervised with Prof. Vijay Sivaraman
-  * recipent of UNSW's **University International Postgraduate Award (UIPA)**
-  * recipent of Australian Government's **National Industry PhD Program**
+  <article class="supervision-card">
+    <div class="supervision-card__header">
+      <h3><a href="https://www.linkedin.com/in/rushi-babaria/?trk=public_profile_browsemap&amp;originalSubdomain=in">Rushi Babaria</a></h3>
+      <div class="supervision-meta">
+        <span>PhD student</span>
+        <span>Feb 2024 - present</span>
+      </div>
+    </div>
+    <p class="supervision-topic">Network Traffic Classification at ISP Scale</p>
+    <ul class="supervision-detail-list">
+      <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman and A/Prof. Gustavo Batista</li>
+      <li><strong>Scholarship support:</strong> UNSW Tuition Fee Scholarship (TFS) with stipend</li>
+    </ul>
+  </article>
 
+  <article class="supervision-card">
+    <div class="supervision-card__header">
+      <h3><a href="https://wangyi.fan/">Yifan Wang</a></h3>
+      <div class="supervision-meta">
+        <span>PhD student</span>
+        <span>Dec 2022 - present</span>
+      </div>
+    </div>
+    <p class="supervision-topic">AI-based Network Traffic Analysis for Multimedia User Experience</p>
+    <ul class="supervision-detail-list">
+      <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman</li>
+      <li><strong>Scholarship support:</strong> UNSW's <strong>University International Postgraduate Award (UIPA)</strong></li>
+      <li><strong>Scholarship support:</strong> Australian Government's <strong>National Industry PhD Program</strong></li>
+    </ul>
+  </article>
+</section>
 
-Representative Thesis & Intern Students
-======
+<h2 class="supervision-category-heading supervision-category-heading--representative">Representative Thesis &amp; Intern Students</h2>
 
+<section class="supervision-card-list supervision-card-list--representative" aria-label="Representative thesis and intern students">
+  <article class="supervision-card">
+    <div class="supervision-card__header">
+      <h3><a href="https://www.linkedin.com/in/marta-zumaquero-a813581b7/">Marta Zumaquero Gil</a></h3>
+      <div class="supervision-meta">
+        <span>UG Thesis</span>
+        <span>Feb 2023 - Dec 2023</span>
+      </div>
+    </div>
+    <p class="supervision-topic">Cybersecurity Product Mapping &amp; Vulnerabilities Tool</p>
+    <ul class="supervision-detail-list">
+      <li><strong>Supervised with:</strong> A/Prof. Hassan Habibi Gharakheili</li>
+      <li><strong>Degree:</strong> BE in Telecommunications &amp; BCom</li>
+      <li><strong>Outcome:</strong> One <strong>first-authored</strong> research paper published at <strong>AINTEC 2024</strong></li>
+      <li><strong>After graduation:</strong> Joined Nokia as Network and Security Engineer</li>
+    </ul>
+  </article>
 
-* **[Marta Zumaquero Gil](hhttps://www.linkedin.com/in/marta-zumaquero-a813581b7/)**, UG Thesis, Feb 2023 - Dec 2023, "Cybersecurity Product Mapping & Vulnerabilities Tool".
-  * supervised with A/Prof. Hassan Habibi Gharakheili
-  * BE in Telecommunications & BCom
-  * one **first-authored** research paper published at **AINTEC 2024**
-  * joined Nokia as Network and Security Engineer
+  <article class="supervision-card">
+    <div class="supervision-card__header">
+      <h3><a href="https://www.linkedin.com/in/rahul-tripathi-238184179/">Rahul Dev Tripathi</a></h3>
+      <div class="supervision-meta">
+        <span>Taste-of-Research Intern &amp; UG Thesis</span>
+        <span>May 2022 - Aug 2023</span>
+      </div>
+    </div>
+    <p class="supervision-topic">Metaverse Network Analysis</p>
+    <ul class="supervision-detail-list">
+      <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman</li>
+      <li><strong>Degree:</strong> BE in Software Engineering/BSc in Mathematics</li>
+      <li><strong>Outcome:</strong> One <strong>second-authored</strong> research paper published at <strong>ACM SIGMETRICS 2024</strong></li>
+      <li><strong>Outcome:</strong> One <strong>first-authored</strong> research paper published at <strong>IEEE MetaCom 2024</strong></li>
+      <li><strong>Recognition:</strong> Invited to <a href="https://www.cse.unsw.edu.au/~cs4953/showcase_2023.html">CSE Outstanding Research Thesis Showcase 2023</a></li>
+      <li><strong>After graduation:</strong> Pursuing PhD study at UCLA</li>
+    </ul>
+  </article>
 
+  <article class="supervision-card">
+    <div class="supervision-card__header">
+      <h3>Song Guo</h3>
+      <div class="supervision-meta">
+        <span>PG Project</span>
+        <span>Sep 2022 - Aug 2023</span>
+      </div>
+    </div>
+    <p class="supervision-topic">Blockchain for IoT MUD Data Sharing</p>
+    <ul class="supervision-detail-list">
+      <li><strong>Supervised with:</strong> A/Prof. Hassan Habibi Gharakheili</li>
+      <li><strong>Degree:</strong> ME in Telecommunications</li>
+      <li><strong>Outcome:</strong> One <strong>first-authored</strong> research paper published at <strong>IEEE/IFIP NOMS 2024</strong></li>
+      <li><strong>After graduation:</strong> Joined China Unicom as Network Engineer</li>
+    </ul>
+  </article>
 
-* **[Rahul Dev Tripathi](https://www.linkedin.com/in/rahul-tripathi-238184179/)**, Taste-of-Research Intern & UG Thesis, May 2022 - Aug 2023, "Metaverse Network Analysis".
-  * supervised with Prof. Vijay Sivaraman
-  * BE in Software Engineering/BSc in Mathematics
-  * one **second-authored** research paper published at **ACM SIGMETRICS 2024**
-  * one **first-authored** research paper published at **IEEE MetaCom 2024**
-  * invited to [CSE Outstanding research thesis showcase 2023](https://www.cse.unsw.edu.au/~cs4953/showcase_2023.html)
-  * pursuing his PhD study at UCLA after graduation
-
-* **Song Guo**, PG Project, Sep 2022 - Aug 2023, "Blockchain for IoT MUD data sharing".
-  * supervised with A/Prof. Hassan Habibi Gharakheili
-  * ME in Telecommunications.
-  * one **first-authored** research paper published at **IEEE/IFIP NOMS 2024**
-  * joined China Unicom as Network Engineer
-
-
-* **[Jun Han](https://www.linkedin.com/in/jun-han-968217195/)**, UG Thesis, Oct 2021 - Dec 2022, "Analysis of Internet Speed Test Tools and Broadband Measurement Programs".
-  * supervised with Prof. Vijay Sivaraman
-  * BE/ME in Electrical Engineering
-  * one **first-authored** research paper published at **AINTEC 2022**
-  * joined Amazon AWS (Sydney, Australia) as Cloud Engineer
+  <article class="supervision-card">
+    <div class="supervision-card__header">
+      <h3><a href="https://www.linkedin.com/in/jun-han-968217195/">Jun Han</a></h3>
+      <div class="supervision-meta">
+        <span>UG Thesis</span>
+        <span>Oct 2021 - Dec 2022</span>
+      </div>
+    </div>
+    <p class="supervision-topic">Analysis of Internet Speed Test Tools and Broadband Measurement Programs</p>
+    <ul class="supervision-detail-list">
+      <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman</li>
+      <li><strong>Degree:</strong> BE/ME in Electrical Engineering</li>
+      <li><strong>Outcome:</strong> One <strong>first-authored</strong> research paper published at <strong>AINTEC 2022</strong></li>
+      <li><strong>After graduation:</strong> Joined Amazon AWS (Sydney, Australia) as Cloud Engineer</li>
+    </ul>
+  </article>
+</section>
