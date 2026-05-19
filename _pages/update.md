@@ -8,6 +8,10 @@ author_profile: true
 <section class="update-timeline" aria-label="Updates timeline">
   <!-- <div class="update-timeline-item"><time>May 2026</time><p>Joined the TPC for <a href="https://www.sigmetrics.org/sigmetrics2027/program_committee.html"><strong>ACM SIGMETRICS 2027</strong></a>.</p></div> -->
   <div class="update-timeline-item">
+    <time>May 2026</time>
+    <p>Invited to serve as an advisory TPC member for <strong>IEEE INFOCOM</strong> 2027.</p>
+  </div>
+  <div class="update-timeline-item">
     <time>Apr 2026</time>
     <p>Joined the TPC for IEEE LCN, IEEE IC2E, ACM ImmerCom, and AINTEC 2026.</p>
   </div>
