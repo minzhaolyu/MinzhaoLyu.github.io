@@ -18,7 +18,7 @@ Long Conference Papers and Journal Articles
       <details class="publication-bib"><summary class="publication-action publication-action--bib" title="BibTeX" aria-label="BibTeX"><i class="fas fa-code" aria-hidden="true"></i><span class="sr-only">BibTeX</span></summary><div class="bib-reference"><div class="bib-reference__header"><span>BibTeX: SIGMETRICS26</span></div><pre><code class="language-bibtex">@article{SIGMETRICS26,&#10;  title = {Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services},&#10;  author = {A. Septiadi and M. Lyu and H. Habibi Gharakheili and V. Sivaraman},&#10;  journal = {Proceedings of the ACM on Measurement and Analysis of Computing Systems},&#10;  year = {2026},&#10;  url = {https://arxiv.org/abs/2512.13946}&#10;}</code></pre></div></details>
     </div>
 
-17. **[ComNet26]** **M. Lyu\***, Y. Wang, and V. Sivaraman. [Systematic Assessment of Cloud Game Adaptability for Network Conditions and User Experience](https://www.sciencedirect.com/science/article/pii/S1389128626002264) at (Elsevier) **Computer Networks**, Early Access, 2026.
+17. **[ComNet26]** **M. Lyu\***, Y. Wang, and V. Sivaraman. [Systematic Assessment of Cloud Game Adaptability for Network Conditions and User Experience](https://www.sciencedirect.com/science/article/pii/S1389128626002264) at (Elsevier) **Computer Networks**, May 2026.
 
     <div class="publication-actions" aria-label="Publication links">
       <a class="publication-action publication-action--published" href="https://www.sciencedirect.com/science/article/pii/S1389128626002264" title="Published version" aria-label="Published version"><i class="fas fa-book-open" aria-hidden="true"></i><span class="sr-only">Published version</span></a>
