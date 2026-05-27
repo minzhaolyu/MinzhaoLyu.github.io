@@ -238,6 +238,13 @@ Regular and Short Conference Papers
 Conference Abstracts and Posters
 ======
 {: .publication-category-heading .publication-category-heading--abstracts}
+3. **[SIGMETRICS Abstracts 26]** A. Septiadi, **M. Lyu**, H. Habibi Gharakheili and V. Sivaraman. [Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services](https://dl.acm.org/doi/10.1145/3801489.3806862) at **Abstracts of the 2026 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems**, Ann Arbor, Michigan, USA, June 2026.
+
+    <div class="publication-actions" aria-label="Publication links">
+      <a class="publication-action publication-action--published" href="https://dl.acm.org/doi/10.1145/3801489.3806862" title="Published version" aria-label="Published version"><i class="fas fa-book-open" aria-hidden="true"></i><span class="sr-only">Published version</span></a>
+      <details class="publication-bib"><summary class="publication-action publication-action--bib" title="BibTeX" aria-label="BibTeX"><i class="fas fa-code" aria-hidden="true"></i><span class="sr-only">BibTeX</span></summary><div class="bib-reference"><div class="bib-reference__header"><span>BibTeX: SIGMETRICS Abstracts 26</span></div><pre><code class="language-bibtex">@inproceedings{SIGMETRICSAbstracts26,&#10;  title = {Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services},&#10;  author = {A. Septiadi and M. Lyu and H. Habibi Gharakheili and V. Sivaraman},&#10;  booktitle = {Abstracts of the 2026 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems},&#10;  year = {2026},&#10;  doi = {10.1145/3801489.3806862},&#10;  url = {https://dl.acm.org/doi/10.1145/3801489.3806862}&#10;}</code></pre></div></details>
+    </div>
+
 2. **[SIGMETRICS Abstracts 25]** R. J. Babaria, **M. Lyu**, G. Batista and V. Sivaraman. [FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](https://dl.acm.org/doi/10.1145/3726854.3727286) at **Abstracts of the 2025 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems**, New York, USA, June 2025.
 
     <div class="publication-actions" aria-label="Publication links">
@@ -251,7 +258,7 @@ Conference Abstracts and Posters
       <a class="publication-action publication-action--published" href="https://dl.acm.org/doi/10.1145/3652963.3655065" title="Published version" aria-label="Published version"><i class="fas fa-book-open" aria-hidden="true"></i><span class="sr-only">Published version</span></a>
       <details class="publication-bib"><summary class="publication-action publication-action--bib" title="BibTeX" aria-label="BibTeX"><i class="fas fa-code" aria-hidden="true"></i><span class="sr-only">BibTeX</span></summary><div class="bib-reference"><div class="bib-reference__header"><span>BibTeX: SIGMETRICS Abstracts 24</span></div><pre><code class="language-bibtex">@inproceedings{SIGMETRICSAbstracts24,&#10;  title = {MetaVRadar: Measuring Metaverse Virtual Reality Network Activity},&#10;  author = {M. Lyu and R. D. Tripathi and V. Sivaraman},&#10;  booktitle = {Abstracts of the 2024 ACM SIGMETRICS/IFIP PERFORMANCE Joint International Conference on Measurement and Modeling of Computer Systems},&#10;  year = {2024},&#10;  doi = {10.1145/3652963.3655065},&#10;  url = {https://dl.acm.org/doi/10.1145/3652963.3655065}&#10;}</code></pre></div></details>
     </div>
-{: .publication-box-list .publication-box-list--abstracts reversed="reversed" start="2"}
+{: .publication-box-list .publication-box-list--abstracts reversed="reversed" start="3"}
 
 Patents
 ======
