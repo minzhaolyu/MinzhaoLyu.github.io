@@ -31,19 +31,19 @@ This website also contains a list of my publications, blogs, teaching, and profe
   </div>
   <div class="about-update-item">
     <time>Mar 2026</time>
-    <p><a href="/publications/"><strong>Assessing Authoritative DNS Resilience</strong></a>, first-authored by PhD student Agung Septiadi, is accepted at ACM SIGMETRICS 2026.</p>
+    <p><a href="https://dl.acm.org/doi/10.1145/3805629"><strong>Assessing Authoritative DNS Resilience</strong></a>, first-authored by PhD student Agung Septiadi, is accepted at ACM SIGMETRICS 2026.</p>
   </div>
   <div class="about-update-item">
     <time>Mar 2026</time>
-    <p><a href="/publications/"><strong>Assessing Cloud Gaming Adaptability</strong></a> is accepted at Computer Networks.</p>
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S1389128626002264"><strong>Assessing Cloud Gaming Adaptability</strong></a> is accepted at Computer Networks.</p>
   </div>
   <div class="about-update-item">
     <time>Oct 2025</time>
-    <p><a href="/publications/"><strong>Measuring Cloud Gaming at Scale</strong></a> is accepted at IEEE Transactions on Networking.</p>
+    <p><a href="https://ieeexplore.ieee.org/document/11219363"><strong>Measuring Cloud Gaming at Scale</strong></a> is accepted at IEEE Transactions on Networking.</p>
   </div>
   <div class="about-update-item">
     <time>Sep 2025</time>
-    <p><a href="/publications/"><strong>Measuring Cloud Gaming Contexts for Effective QoE</strong></a>, first-authored by PhD student Yifan Wang, is accepted at ACM IMC 2025.</p>
+    <p><a href="https://dl.acm.org/doi/10.1145/3730567.3764455"><strong>Measuring Cloud Gaming Contexts for Effective QoE</strong></a>, first-authored by PhD student Yifan Wang, is accepted at ACM IMC 2025.</p>
   </div>
   <div class="about-update-item">
     <time>Sep 2025</time>
