@@ -12,11 +12,11 @@ I received my **B.Eng. (First Class Hons.)** and **Ph.D.** degrees from the Univ
 
 My research vision focuses on **AI-driven Systems Observability**, including **AI-native systems data schema**, **AI models for systems behavioral analysis**, and **AI systems** for **Cybersecurity** and multimedia **Quality-of-Experience** use cases.
 
-I actively publish at ACM **SIGMETRICS** and ACM **IMC**, the two top conferences in [**Systems Measurement and Performance Analysis**](https://csrankings.org/#/fromyear/2022/toyear/2026/index?metrics&au), and in [**JCR Q1** journals](https://www.scimagojr.com/index.php) in **computer networking**, including IEEE Transactions on Networking, IEEE Transactions on Network and Service Management, and Computer Networks.
+I actively publish at ACM **SIGMETRICS** and ACM **IMC**, the two top conferences in [**Systems Measurement and Performance Analysis**](https://csrankings.org/#/fromyear/2022/toyear/2026/index?metrics&au), and in [**JCR Q1** journals](https://www.scimagojr.com/index.php) in **Computer Systems and Networking**, including ACM Computing Surveys, IEEE Transactions on Networking, IEEE Transactions on Network and Service Management, and Computer Networks.
 
 This website also contains a list of my publications, blogs, teaching, and professional services. You may also find my profile at [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=6oFRlVcAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Minzhao-Lyu).
 
-(***For Future Students***): Our group is continuously looking for **PhD students** and **MPhil students** who are self-motivated and have a strong background in computer networks and systems. If you are interested, please do not hesitate to contact me via email [**minzhao.lyu@unsw.edu.au**](mailto:minzhao.lyu@unsw.edu.au).
+(***For Future Students***): Our group is continuously looking for **PhD students** and **MPhil students** who are self-motivated and have a strong background in computer systems and networking. If you are interested, please do not hesitate to contact me via email [**minzhao.lyu@unsw.edu.au**](mailto:minzhao.lyu@unsw.edu.au).
 
 <section class="about-updates">
   <h2>Updates</h2>
