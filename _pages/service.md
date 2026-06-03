@@ -7,6 +7,7 @@ author_profile: true
 
 Technical Program Committee (TPC) Member
 ======
+  * IEEE INFOCOM 2027 (Advisory TPC member)
   * ACM SIGMETRICS [2026](https://www.sigmetrics.org/sigmetrics2026/program_committee.html)
   * [PAM 2026](https://pam2026.at/committees/)
   * IEEE International Conference on Cloud Engineering (IC2E) [2026](https://conferences.computer.org/IC2E/2026/pc-research.html)
