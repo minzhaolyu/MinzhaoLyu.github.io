@@ -22,6 +22,10 @@ This website also contains a list of my publications, blogs, teaching, and profe
   <h2>Updates</h2>
   <!-- <div class="about-update-item"><time>May 2026</time><p>Joined the TPC for <a href="https://www.sigmetrics.org/sigmetrics2027/program_committee.html"><strong>ACM SIGMETRICS 2027</strong></a>.</p></div> -->
   <div class="about-update-item">
+    <time>Jun 2026</time>
+    <p>Joined the TPC for <a href="http://ntc-reloaded.github.io/"><strong>NTC-R 2026</strong></a> on trustworthy and reproducible AI for networked systems.</p>
+  </div>
+  <div class="about-update-item">
     <time>May 2026</time>
     <p>Invited to serve as an advisory TPC member for <strong>IEEE INFOCOM</strong> 2027.</p>
   </div>
