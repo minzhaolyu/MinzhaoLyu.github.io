@@ -16,7 +16,7 @@ author_profile: true
         <span>Jun 2025 - present</span>
       </div>
     </div>
-    <p class="supervision-topic">IoT Network Behavioural Analysis for Security</p>
+    <p class="supervision-topic">Network Behavioural Modelling and Analysis of Internet-of-Things</p>
     <ul class="supervision-detail-list">
       <li><strong>Supervised with:</strong> A/Prof. Hassan Habibi Gharakheili</li>
       <li><strong>Scholarship support:</strong> UNSW Tuition Fee Scholarship (TFS) with stipend</li>
