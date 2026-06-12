@@ -46,7 +46,7 @@ author_profile: true
         <span>Feb 2024 - present</span>
       </div>
     </div>
-    <p class="supervision-topic">Network Traffic Classification at ISP Scale</p>
+    <p class="supervision-topic">AI-Driven Network Traffic Classification of Internet Applications for ISPs</p>
     <ul class="supervision-detail-list">
       <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman and A/Prof. Gustavo Batista</li>
       <li><strong>Scholarship support:</strong> UNSW Tuition Fee Scholarship (TFS) with stipend</li>
