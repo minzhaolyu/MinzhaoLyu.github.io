@@ -45,7 +45,13 @@ author_profile: true
 </ol>
 
 <h2 class="media-category-heading media-category-heading--video">Featured Video Presentation</h2>
-<ol class="media-exposure-list media-exposure-list--video" reversed start="1">
+<ol class="media-exposure-list media-exposure-list--video" reversed start="2">
+  <li>
+    <p><strong>[ACM]</strong> M.Lyu, <a href="https://www.youtube.com/watch?v=slQK8bowsk0&amp;list=PLKuoVHAgEsK4&amp;index=10">SIGMETRICS'26 - Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services</a>, Association for Computing Machinery (ACM), Jun 2026.</p>
+    <div class="media-actions" aria-label="Media links">
+      <a class="media-action" href="https://www.youtube.com/watch?v=slQK8bowsk0&amp;list=PLKuoVHAgEsK4&amp;index=10" title="Watch video" aria-label="Watch video"><i class="fas fa-play" aria-hidden="true"></i><span class="sr-only">Watch video</span></a>
+    </div>
+  </li>
   <li>
     <p><strong>[ACM]</strong> M.Lyu, <a href="https://www.youtube.com/watch?v=wXUWo-9BGM0">SIGMETRICS'24 - MetaVRadar: Measuring Metaverse Virtual Reality Network Activity</a>, Association for Computing Machinery (ACM), Jun 2024.</p>
     <div class="media-actions" aria-label="Media links">
