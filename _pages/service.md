@@ -15,7 +15,7 @@ Technical Program Committee (TPC) Member
   * IEEE LCN Special Track - LLMNet [2025](https://llmnet.nss-research.io/),2026
   * ACM SIGCOMM Asian Internet Engineering Conference (AINTEC) [2025](https://interlab.ait.ac.th/aintec2025/committees), 2026
   * ACM ImmerCom [2026](https://immercom.github.io/committees.html)
-  * NTC-R [2026](http://ntc-reloaded.github.io/)
+  * ACM NTC-R [2026](http://ntc-reloaded.github.io/)
 
 
 Journal Reviewer
