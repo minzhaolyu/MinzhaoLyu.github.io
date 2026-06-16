@@ -9,7 +9,7 @@ author_profile: true
   <!-- <div class="update-timeline-item"><time>May 2026</time><p>Joined the TPC for <a href="https://www.sigmetrics.org/sigmetrics2027/program_committee.html"><strong>ACM SIGMETRICS 2027</strong></a>.</p></div> -->
   <div class="update-timeline-item">
     <time>Jun 2026</time>
-    <p>Joined the TPC for <a href="http://ntc-reloaded.github.io/"><strong>NTC-R 2026</strong></a> on trustworthy and reproducible AI for networked systems.</p>
+    <p>Joined the TPC for <a href="http://ntc-reloaded.github.io/"><strong>ACM NTC-R 2026</strong></a> on trustworthy and reproducible AI for networked systems.</p>
   </div>
   <div class="update-timeline-item">
     <time>May 2026</time>
