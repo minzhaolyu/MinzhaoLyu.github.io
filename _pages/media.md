@@ -17,7 +17,13 @@ author_profile: true
  -->
 
 <h2 class="media-category-heading media-category-heading--guest">Guest Post</h2>
-<ol class="media-exposure-list media-exposure-list--guest" reversed start="4">
+<ol class="media-exposure-list media-exposure-list--guest" reversed start="5">
+  <li>
+    <p><strong>[Internet Society Pulse]</strong> M.Lyu, <a href="https://pulse.internetsociety.org/en/blog/2026/06/how-resilient-are-government-dns-services/">How Resilient Are Government DNS Services?</a>, Internet Society Pulse, Jun 2026.</p>
+    <div class="media-actions" aria-label="Media links">
+      <a class="media-action" href="https://pulse.internetsociety.org/en/blog/2026/06/how-resilient-are-government-dns-services/" title="Read article" aria-label="Read article"><i class="fas fa-newspaper" aria-hidden="true"></i><span class="sr-only">Read article</span></a>
+    </div>
+  </li>
   <li>
     <p><strong>[APNIC Blog]</strong> M.Lyu, <a href="https://blog.apnic.net/2025/06/10/estimating-the-sweet-spot-of-packets-for-classifying-network-flows-at-scale/">Estimating the sweet spot of packets for classifying network flows at scale</a>, APNIC Blog, Jun 2025.</p>
     <div class="media-actions" aria-label="Media links">
