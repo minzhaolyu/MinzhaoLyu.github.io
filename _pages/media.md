@@ -17,11 +17,17 @@ author_profile: true
  -->
 
 <h2 class="media-category-heading media-category-heading--guest">Guest Post</h2>
-<ol class="media-exposure-list media-exposure-list--guest" reversed start="5">
+<ol class="media-exposure-list media-exposure-list--guest" reversed start="6">
   <li>
     <p><strong>[Internet Society Pulse]</strong> M.Lyu, <a href="https://pulse.internetsociety.org/en/blog/2026/06/how-resilient-are-government-dns-services/">How Resilient Are Government DNS Services?</a>, Internet Society Pulse, Jun 2026.</p>
     <div class="media-actions" aria-label="Media links">
       <a class="media-action" href="https://pulse.internetsociety.org/en/blog/2026/06/how-resilient-are-government-dns-services/" title="Read article" aria-label="Read article"><i class="fas fa-newspaper" aria-hidden="true"></i><span class="sr-only">Read article</span></a>
+    </div>
+  </li>
+  <li>
+    <p><strong>[APNIC Blog]</strong> M.Lyu, <a href="https://blog.apnic.net/2026/06/10/unveiling-the-hidden-complexity-of-authoritative-dns-resilience/">Unveiling the hidden complexity of authoritative DNS resilience</a>, APNIC Blog, Jun 2026.</p>
+    <div class="media-actions" aria-label="Media links">
+      <a class="media-action" href="https://blog.apnic.net/2026/06/10/unveiling-the-hidden-complexity-of-authoritative-dns-resilience/" title="Read article" aria-label="Read article"><i class="fas fa-newspaper" aria-hidden="true"></i><span class="sr-only">Read article</span></a>
     </div>
   </li>
   <li>
