@@ -14,7 +14,6 @@ author_profile: true
     <h3>Citing us</h3>
     <div class="dataset-citations">
       <div class="bib-reference">
-        <div class="bib-reference__header"><span>Septiadi et al., PACM SIGMETRICS 2026</span></div>
         <pre><code class="language-bibtex">@article{SIGMETRICS2026,
   title = {Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services},
   author = {Septiadi, Agung and Lyu, Minzhao and Habibi Gharakheili, Hassan and Sivaraman, Vijay},

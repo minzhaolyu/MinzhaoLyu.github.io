@@ -15,7 +15,6 @@ author_profile: true
     <h3>Citing us</h3>
     <div class="dataset-citations">
       <div class="bib-reference">
-        <div class="bib-reference__header"><span>Wang et al., IMC 2025</span></div>
         <pre><code class="language-bibtex">@inproceedings{wang_games_2025,
   author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
   title = {Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement},
@@ -26,7 +25,6 @@ author_profile: true
 }</code></pre>
       </div>
       <div class="bib-reference">
-        <div class="bib-reference__header"><span>Lyu et al., Computer Networks 2026</span></div>
         <pre><code class="language-bibtex">@article{LYU2026112214,
   title = {Systematic Assessment of Cloud Game Adaptability for Network Conditions and User Experience},
   journal = {Computer Networks},
@@ -35,7 +33,6 @@ author_profile: true
 }</code></pre>
       </div>
       <div class="bib-reference">
-        <div class="bib-reference__header"><span>Lyu and Sivaraman, IEEE/ACM Transactions on Networking 2025</span></div>
         <pre><code class="language-bibtex">@ARTICLE{11219363,
   author = {Lyu, Minzhao and Sivaraman, Vijay},
   journal = {IEEE Transactions on Networking},
@@ -55,7 +52,6 @@ author_profile: true
     <h3>Citing us</h3>
     <div class="dataset-citations">
       <div class="bib-reference">
-        <div class="bib-reference__header"><span>Wang et al., IMC 2024</span></div>
         <pre><code class="language-bibtex">@inproceedings{wang_characterizing_2024,
   author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
   booktitle = {Proc. ACM Internet Measurement Conference (IMC)},
@@ -77,7 +73,6 @@ author_profile: true
     <h3>Citing us</h3>
     <div class="dataset-citations">
       <div class="bib-reference">
-        <div class="bib-reference__header"><span>Lyu et al., PACM SIGMETRICS 2023</span></div>
         <pre><code class="language-bibtex">@article{lyu2023metavradar,
   title = {MetaVRadar: Measuring Metaverse Virtual Reality Network Activity},
   author = {Lyu, Minzhao and Tripathi, Rahul Dev and Sivaraman, Vijay},
