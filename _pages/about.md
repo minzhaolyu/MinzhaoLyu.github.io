@@ -22,6 +22,10 @@ This website also contains a list of my publications, blogs, teaching, and profe
   <h2>Updates</h2>
   <!-- <div class="about-update-item"><time>May 2026</time><p>Joined the TPC for <a href="https://www.sigmetrics.org/sigmetrics2027/program_committee.html"><strong>ACM SIGMETRICS 2027</strong></a>.</p></div> -->
   <div class="about-update-item">
+    <time>Jul 2026</time>
+    <p>Joined the TPC for <strong>IEEE/IFIP DSN</strong> 2027.</p>
+  </div>
+  <div class="about-update-item">
     <time>Jun 2026</time>
     <p>Continue serving on the TPC for <strong>ACM SIGMETRICS</strong> in 2027.</p>
   </div>
@@ -56,10 +60,6 @@ This website also contains a list of my publications, blogs, teaching, and profe
   <div class="about-update-item">
     <time>Sep 2025</time>
     <p>Joined the TPC for <a href="https://pam2026.at/committees/"><strong>PAM 2026</strong></a>.</p>
-  </div>
-  <div class="about-update-item">
-    <time>Jul 2025</time>
-    <p>Joined the TPC for <a href="https://www.sigmetrics.org/sigmetrics2026/program_committee.html"><strong>ACM SIGMETRICS 2026</strong></a>.</p>
   </div>
   <p class="about-more-updates"><a href="/update/">More updates</a></p>
 </section>
