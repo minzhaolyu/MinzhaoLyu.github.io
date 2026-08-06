@@ -10,6 +10,21 @@ author_profile: true
 <section class="supervision-card-list supervision-card-list--phd" aria-label="PhD students">
   <article class="supervision-card">
     <div class="supervision-card__header">
+      <h3><a href="https://www.linkedin.com/in/natalia-piotrowski-4399b1195/">Natalia Piotrowski</a></h3>
+      <div class="supervision-meta">
+        <span>Incoming PhD student</span>
+        <span>Starting Feb 2027</span>
+      </div>
+    </div>
+    <p class="supervision-topic">Topic to be determined</p>
+    <ul class="supervision-detail-list">
+      <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman</li>
+      <li><strong>Scholarship support:</strong> UNSW's <strong>University International Postgraduate Award (UIPA)</strong></li>
+    </ul>
+  </article>
+
+  <article class="supervision-card">
+    <div class="supervision-card__header">
       <h3><a href="https://shuai-zhang16.github.io/">Shuai Zhang</a></h3>
       <div class="supervision-meta">
         <span>PhD student</span>
@@ -70,76 +85,72 @@ author_profile: true
   </article>
 </section>
 
-<h2 class="supervision-category-heading supervision-category-heading--representative">Representative Thesis &amp; Intern Students</h2>
+<h2 class="supervision-category-heading supervision-category-heading--coursework">Honours, Master Thesis &amp; Project Supervision</h2>
 
-<section class="supervision-card-list supervision-card-list--representative" aria-label="Representative thesis and intern students">
-  <article class="supervision-card">
+<p class="supervision-summary-intro">Students are grouped by the year their supervision commenced.</p>
+
+<section class="supervision-card-list supervision-card-list--coursework" aria-label="Honours, master thesis and project students by starting year">
+  <article class="supervision-card supervision-year-summary">
     <div class="supervision-card__header">
-      <h3><a href="https://www.linkedin.com/in/marta-zumaquero-a813581b7/">Marta Zumaquero Gil</a></h3>
-      <div class="supervision-meta">
-        <span>UG Thesis</span>
-        <span>Feb 2023 - Dec 2023</span>
-      </div>
+      <h3>2026</h3>
+      <div class="supervision-meta"><span>13 students</span></div>
     </div>
-    <p class="supervision-topic">Cybersecurity Product Mapping &amp; Vulnerabilities Tool</p>
-    <ul class="supervision-detail-list">
-      <li><strong>Supervised with:</strong> A/Prof. Hassan Habibi Gharakheili</li>
-      <li><strong>Degree:</strong> BE in Telecommunications &amp; BCom</li>
-      <li><strong>Outcome:</strong> One <strong>first-authored</strong> research paper published at <strong>AINTEC 2024</strong></li>
-      <li><strong>After graduation:</strong> Joined Nokia as Network and Security Engineer</li>
+    <ul class="supervision-detail-list supervision-summary-list">
+      <li><strong>Undergraduate honours / Master thesis (7):</strong> Qiaojia Li, Ning Mao, Jiaqi Zang, Mingyi Huo, Hanqing Zhao, Ahmed Gazi Acar, Myint Zu Thin</li>
+      <li><strong>Master project (6):</strong> Zexuan Yu, Wanling Hu, Junzhe Zhou, Shijie Wan, Xingyu Liu, Yuemeng Huang</li>
     </ul>
   </article>
 
-  <article class="supervision-card">
+  <article class="supervision-card supervision-year-summary">
     <div class="supervision-card__header">
-      <h3><a href="https://www.linkedin.com/in/rahul-tripathi-238184179/">Rahul Dev Tripathi</a></h3>
-      <div class="supervision-meta">
-        <span>Taste-of-Research Intern &amp; UG Thesis</span>
-        <span>May 2022 - Aug 2023</span>
-      </div>
+      <h3>2025</h3>
+      <div class="supervision-meta"><span>30 students</span></div>
     </div>
-    <p class="supervision-topic">Metaverse Network Analysis</p>
-    <ul class="supervision-detail-list">
-      <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman</li>
-      <li><strong>Degree:</strong> BE in Software Engineering/BSc in Mathematics</li>
-      <li><strong>Outcome:</strong> One <strong>second-authored</strong> research paper published at <strong>ACM SIGMETRICS 2024</strong></li>
-      <li><strong>Outcome:</strong> One <strong>first-authored</strong> research paper published at <strong>IEEE MetaCom 2024</strong></li>
-      <li><strong>Recognition:</strong> Invited to <a href="https://www.cse.unsw.edu.au/~cs4953/showcase_2023.html">CSE Outstanding Research Thesis Showcase 2023</a></li>
-      <li><strong>After graduation:</strong> Pursuing PhD study at UCLA</li>
+    <ul class="supervision-detail-list supervision-summary-list">
+      <li><strong>Undergraduate honours / Master thesis (7):</strong> Yuanmao Li, Jinwen Li, Jaiden Brocklebank, Fai Leui Chan, Anna Wu, Jason Liu, Jack Ma</li>
+      <li><strong>Master project (23):</strong> Haoyu Chen, Qiongyu Wang, Zicheng Xu, Jing Liu, Yuming Shan, Runjie Zhu, Jiamei Song, Wensi Hu, Yuchuan Tan, Ruichen Zhang, Hanyue Yu, Hanqin Tang, Zimo Li, Xinyu Liang, Xiaoran Fan, Yirong Chang, Entong Zhu, Huang Xu, Qian Wang, Jingxuan Sun, Jiaxin Li, Chuhua Hu, Chong Chai</li>
     </ul>
   </article>
 
-  <article class="supervision-card">
+  <article class="supervision-card supervision-year-summary">
     <div class="supervision-card__header">
-      <h3>Song Guo</h3>
-      <div class="supervision-meta">
-        <span>PG Project</span>
-        <span>Sep 2022 - Aug 2023</span>
-      </div>
+      <h3>2024</h3>
+      <div class="supervision-meta"><span>14 students</span></div>
     </div>
-    <p class="supervision-topic">Blockchain for IoT MUD Data Sharing</p>
-    <ul class="supervision-detail-list">
-      <li><strong>Supervised with:</strong> A/Prof. Hassan Habibi Gharakheili</li>
-      <li><strong>Degree:</strong> ME in Telecommunications</li>
-      <li><strong>Outcome:</strong> One <strong>first-authored</strong> research paper published at <strong>IEEE/IFIP NOMS 2024</strong></li>
-      <li><strong>After graduation:</strong> Joined China Unicom as Network Engineer</li>
+    <ul class="supervision-detail-list supervision-summary-list">
+      <li><strong>Undergraduate honours / Master thesis (7):</strong> Caikun Peng, Shuo Liang, Yang Xin, Yash Khandelwal, Karisa Ardelia Hanifah, Haichuan Zhang, Phot Koseekrainiramon</li>
+      <li><strong>Master project (7):</strong> Bingxian Min, Chi Zhang, Haoran Zheng, Haowen Deng, Qixin Lu, Yuchuan Zhou, Yin Liu</li>
     </ul>
   </article>
 
-  <article class="supervision-card">
+  <article class="supervision-card supervision-year-summary">
     <div class="supervision-card__header">
-      <h3><a href="https://www.linkedin.com/in/jun-han-968217195/">Jun Han</a></h3>
-      <div class="supervision-meta">
-        <span>UG Thesis</span>
-        <span>Oct 2021 - Dec 2022</span>
-      </div>
+      <h3>2023</h3>
+      <div class="supervision-meta"><span>2 students</span></div>
     </div>
-    <p class="supervision-topic">Analysis of Internet Speed Test Tools and Broadband Measurement Programs</p>
-    <ul class="supervision-detail-list">
-      <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman</li>
-      <li><strong>Degree:</strong> BE/ME in Electrical Engineering</li>
-      <li><strong>Outcome:</strong> One <strong>first-authored</strong> research paper published at <strong>AINTEC 2022</strong></li>
-      <li><strong>After graduation:</strong> Joined Amazon AWS (Sydney, Australia) as Cloud Engineer</li>
+    <ul class="supervision-detail-list supervision-summary-list">
+      <li><strong>Undergraduate honours / Master thesis (2):</strong> Marta Zumaquero Gil, Praseem Singh Beniwal</li>
+    </ul>
+  </article>
+
+  <article class="supervision-card supervision-year-summary">
+    <div class="supervision-card__header">
+      <h3>2022</h3>
+      <div class="supervision-meta"><span>3 students</span></div>
+    </div>
+    <ul class="supervision-detail-list supervision-summary-list">
+      <li><strong>Undergraduate honours / Master thesis (2):</strong> Rushil Pardasani, Rahul Dev Tripathi</li>
+      <li><strong>Master project (1):</strong> Song Guo</li>
+    </ul>
+  </article>
+
+  <article class="supervision-card supervision-year-summary">
+    <div class="supervision-card__header">
+      <h3>2021</h3>
+      <div class="supervision-meta"><span>1 student</span></div>
+    </div>
+    <ul class="supervision-detail-list supervision-summary-list">
+      <li><strong>Undergraduate honours / Master thesis (1):</strong> Jun Han</li>
     </ul>
   </article>
 </section>

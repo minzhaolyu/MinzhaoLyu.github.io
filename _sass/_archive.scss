@@ -322,7 +322,7 @@
   --supervision-heading-text: #00779f;
 }
 
-.supervision-category-heading--representative {
+.supervision-category-heading--coursework {
   --supervision-heading-accent: #8b4513;
   --supervision-heading-text: #6f3510;
 }
@@ -343,7 +343,7 @@
   --supervision-accent-contrast: #00779f;
 }
 
-.supervision-card-list--representative {
+.supervision-card-list--coursework {
   --supervision-accent: #8b4513;
   --supervision-accent-soft: #fbf1e9;
   --supervision-accent-contrast: #6f3510;
@@ -408,6 +408,20 @@
   font-size: $type-size-5;
   font-weight: bold;
   line-height: 1.35;
+}
+
+.supervision-summary-intro {
+  margin: -0.25rem 0 1rem;
+  color: $gray;
+  font-family: $sans-serif;
+}
+
+.supervision-year-summary .supervision-card__header {
+  margin-bottom: 0.5rem;
+}
+
+.supervision-detail-list.supervision-summary-list li {
+  margin-bottom: 0.6rem;
 }
 
 .supervision-detail-list {
