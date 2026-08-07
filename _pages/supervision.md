@@ -87,70 +87,82 @@ author_profile: true
 
 <h2 class="supervision-category-heading supervision-category-heading--coursework">Honours, Master Thesis &amp; Project Supervision</h2>
 
-<p class="supervision-summary-intro">Students are grouped by the year their supervision commenced.</p>
+<p class="supervision-summary-intro">Students are grouped by the starting year of their theses or projects.</p>
 
 <section class="supervision-card-list supervision-card-list--coursework" aria-label="Honours, master thesis and project students by starting year">
   <article class="supervision-card supervision-year-summary">
     <div class="supervision-card__header">
       <h3>2026</h3>
-      <div class="supervision-meta"><span>13 students</span></div>
+      <div class="supervision-meta">
+        <span>7 thesis students</span>
+        <span>6 project students</span>
+      </div>
     </div>
     <ul class="supervision-detail-list supervision-summary-list">
-      <li><strong>Undergraduate honours / Master thesis (7):</strong> Qiaojia Li, Ning Mao, Jiaqi Zang, Mingyi Huo, Hanqing Zhao, Ahmed Gazi Acar, Myint Zu Thin</li>
-      <li><strong>Master project (6):</strong> Zexuan Yu, Wanling Hu, Junzhe Zhou, Shijie Wan, Xingyu Liu, Yuemeng Huang</li>
+      <li><strong>Undergraduate honours / Master thesis:</strong> Qiaojia Li, Ning Mao, Jiaqi Zang, Mingyi Huo, Hanqing Zhao, Ahmed Gazi Acar, Myint Zu Thin</li>
+      <li><strong>Master project:</strong> Zexuan Yu, Wanling Hu, Junzhe Zhou, Shijie Wan, Xingyu Liu, Yuemeng Huang</li>
     </ul>
   </article>
 
   <article class="supervision-card supervision-year-summary">
     <div class="supervision-card__header">
       <h3>2025</h3>
-      <div class="supervision-meta"><span>30 students</span></div>
+      <div class="supervision-meta">
+        <span>7 thesis students</span>
+        <span>23 project students</span>
+      </div>
     </div>
     <ul class="supervision-detail-list supervision-summary-list">
-      <li><strong>Undergraduate honours / Master thesis (7):</strong> Yuanmao Li, Jinwen Li, Jaiden Brocklebank, Fai Leui Chan, Anna Wu, Jason Liu, Jack Ma</li>
-      <li><strong>Master project (23):</strong> Haoyu Chen, Qiongyu Wang, Zicheng Xu, Jing Liu, Yuming Shan, Runjie Zhu, Jiamei Song, Wensi Hu, Yuchuan Tan, Ruichen Zhang, Hanyue Yu, Hanqin Tang, Zimo Li, Xinyu Liang, Xiaoran Fan, Yirong Chang, Entong Zhu, Huang Xu, Qian Wang, Jingxuan Sun, Jiaxin Li, Chuhua Hu, Chong Chai</li>
+      <li><strong>Undergraduate honours / Master thesis:</strong> Yuanmao Li, Jinwen Li, Jaiden Brocklebank, Fai Leui Chan, Anna Wu, Jason Liu, Jack Ma</li>
+      <li><strong>Master project:</strong> Haoyu Chen, Qiongyu Wang, Zicheng Xu, Jing Liu, Yuming Shan, Runjie Zhu, Jiamei Song, Wensi Hu, Yuchuan Tan, Ruichen Zhang, Hanyue Yu, Hanqin Tang, Zimo Li, Xinyu Liang, Xiaoran Fan, Yirong Chang, Entong Zhu, Huang Xu, Qian Wang, Jingxuan Sun, Jiaxin Li, Chuhua Hu, Chong Chai</li>
     </ul>
   </article>
 
   <article class="supervision-card supervision-year-summary">
     <div class="supervision-card__header">
       <h3>2024</h3>
-      <div class="supervision-meta"><span>14 students</span></div>
+      <div class="supervision-meta">
+        <span>7 thesis students</span>
+        <span>7 project students</span>
+      </div>
     </div>
     <ul class="supervision-detail-list supervision-summary-list">
-      <li><strong>Undergraduate honours / Master thesis (7):</strong> Caikun Peng, Shuo Liang, Yang Xin, Yash Khandelwal, Karisa Ardelia Hanifah, Haichuan Zhang, Phot Koseekrainiramon</li>
-      <li><strong>Master project (7):</strong> Bingxian Min, Chi Zhang, Haoran Zheng, Haowen Deng, Qixin Lu, Yuchuan Zhou, Yin Liu</li>
+      <li><strong>Undergraduate honours / Master thesis:</strong> Caikun Peng, Shuo Liang, Yang Xin, Yash Khandelwal, Karisa Ardelia Hanifah, Haichuan Zhang, Phot Koseekrainiramon</li>
+      <li><strong>Master project:</strong> Bingxian Min, Chi Zhang, Haoran Zheng, Haowen Deng, Qixin Lu, Yuchuan Zhou, Yin Liu</li>
     </ul>
   </article>
 
   <article class="supervision-card supervision-year-summary">
     <div class="supervision-card__header">
       <h3>2023</h3>
-      <div class="supervision-meta"><span>2 students</span></div>
+      <div class="supervision-meta"><span>2 thesis students</span></div>
     </div>
     <ul class="supervision-detail-list supervision-summary-list">
-      <li><strong>Undergraduate honours / Master thesis (2):</strong> Marta Zumaquero Gil, Praseem Singh Beniwal</li>
+      <li><strong>Undergraduate honours / Master thesis:</strong> Marta Zumaquero Gil, Praseem Singh Beniwal</li>
     </ul>
   </article>
 
   <article class="supervision-card supervision-year-summary">
     <div class="supervision-card__header">
       <h3>2022</h3>
-      <div class="supervision-meta"><span>3 students</span></div>
+      <div class="supervision-meta">
+        <span>2 thesis students</span>
+        <span>1 project student</span>
+      </div>
     </div>
     <ul class="supervision-detail-list supervision-summary-list">
-      <li><strong>Undergraduate honours / Master thesis (2):</strong> Rushil Pardasani, Rahul Dev Tripathi</li>
-      <li><strong>Master project (1):</strong> Song Guo</li>
+      <li><strong>Undergraduate honours / Master thesis:</strong> Rushil Pardasani, Rahul Dev Tripathi</li>
+      <li><strong>Master project:</strong> Song Guo</li>
     </ul>
   </article>
 
   <article class="supervision-card supervision-year-summary">
     <div class="supervision-card__header">
       <h3>2021</h3>
-      <div class="supervision-meta"><span>1 student</span></div>
+      <div class="supervision-meta"><span>1 thesis student</span></div>
     </div>
     <ul class="supervision-detail-list supervision-summary-list">
-      <li><strong>Undergraduate honours / Master thesis (1):</strong> Jun Han</li>
+      <li><strong>Undergraduate honours / Master thesis:</strong> Jun Han</li>
     </ul>
   </article>
 </section>
