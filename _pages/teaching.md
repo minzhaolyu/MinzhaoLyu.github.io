@@ -12,11 +12,8 @@ author_profile: true
 <section class="teaching-card-list teaching-card-list--undergraduate" aria-label="Undergraduate courses">
   <article class="teaching-card">
     <div class="teaching-card__header">
-      <h3>Electrical Circuit Fundamentals</h3>
-      <div class="teaching-meta">
-        <span>ELEC1111</span>
-        <span>Current</span>
-      </div>
+      <h3><span class="teaching-course-code">ELEC1111</span> Electrical Circuit Fundamentals</h3>
+      <div class="teaching-meta"><span>Current</span></div>
     </div>
     <ul class="teaching-role-list">
       <li><span class="teaching-role-period">2024 Summer–present</span><span><strong>Convenor</strong> and Lecturer</span></li>
@@ -25,11 +22,8 @@ author_profile: true
 
   <article class="teaching-card">
     <div class="teaching-card__header">
-      <h3>Digital Circuit Design</h3>
-      <div class="teaching-meta">
-        <span>ELEC2141</span>
-        <span>Current</span>
-      </div>
+      <h3><span class="teaching-course-code">ELEC2141</span> Digital Circuit Design</h3>
+      <div class="teaching-meta"><span>Current</span></div>
     </div>
     <ul class="teaching-role-list">
       <li><span class="teaching-role-period">2026–present</span><span>Tutor</span></li>
@@ -38,8 +32,7 @@ author_profile: true
 
   <article class="teaching-card">
     <div class="teaching-card__header">
-      <h3>Network Technologies</h3>
-      <div class="teaching-meta"><span>TELE3118</span></div>
+      <h3><span class="teaching-course-code">TELE3118</span> Network Technologies</h3>
     </div>
     <ul class="teaching-role-list">
       <li><span class="teaching-role-period">2019–2023</span><span>Teaching Assistant and Lab Demonstrator</span></li>
@@ -48,8 +41,7 @@ author_profile: true
 
   <article class="teaching-card">
     <div class="teaching-card__header">
-      <h3>Trusted Network</h3>
-      <div class="teaching-meta"><span>TELE3119</span></div>
+      <h3><span class="teaching-course-code">TELE3119</span> Trusted Network</h3>
     </div>
     <ul class="teaching-role-list">
       <li><span class="teaching-role-period">2018–2019</span><span>Lab Demonstrator</span></li>
@@ -58,11 +50,8 @@ author_profile: true
 
   <article class="teaching-card">
     <div class="teaching-card__header">
-      <h3>Engineering Vertically Integrated Project</h3>
-      <div class="teaching-meta">
-        <span>ENGG4600</span>
-        <span>Current</span>
-      </div>
+      <h3><span class="teaching-course-code">ENGG4600</span> Engineering Vertically Integrated Project</h3>
+      <div class="teaching-meta"><span>Current</span></div>
     </div>
     <ul class="teaching-role-list">
       <li><span class="teaching-role-period">2026–present</span><span><strong>Co-lead</strong>, CyberShield Project</span></li>
@@ -72,8 +61,7 @@ author_profile: true
 
   <article class="teaching-card">
     <div class="teaching-card__header">
-      <h3>Network Performance</h3>
-      <div class="teaching-meta"><span>TELE4642</span></div>
+      <h3><span class="teaching-course-code">TELE4642</span> Network Performance</h3>
     </div>
     <ul class="teaching-role-list">
       <li><span class="teaching-role-period">2018–2023</span><span>Teaching Assistant and Lab Demonstrator</span></li>
@@ -88,11 +76,8 @@ author_profile: true
 <section class="teaching-card-list teaching-card-list--postgraduate" aria-label="Postgraduate courses">
   <article class="teaching-card">
     <div class="teaching-card__header">
-      <h3>Network Operations and Control</h3>
-      <div class="teaching-meta">
-        <span>TELE9752</span>
-        <span>Current</span>
-      </div>
+      <h3><span class="teaching-course-code">TELE9752</span> Network Operations and Control</h3>
+      <div class="teaching-meta"><span>Current</span></div>
     </div>
     <ul class="teaching-role-list">
       <li><span class="teaching-role-period">2023–present</span><span><strong>Convenor</strong> and Lecturer</span></li>
@@ -102,11 +87,8 @@ author_profile: true
 
   <article class="teaching-card">
     <div class="teaching-card__header">
-      <h3>Network Systems Architecture</h3>
-      <div class="teaching-meta">
-        <span>GSOE9758</span>
-        <span>Current</span>
-      </div>
+      <h3><span class="teaching-course-code">GSOE9758</span> Network Systems Architecture</h3>
+      <div class="teaching-meta"><span>Current</span></div>
     </div>
     <ul class="teaching-role-list">
       <li><span class="teaching-role-period">2023–present</span><span><strong>Convenor</strong> and Lecturer</span></li>
