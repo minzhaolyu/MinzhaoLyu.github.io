@@ -9,6 +9,7 @@ Long Conference Papers and Journal Articles
 ======
 {: .publication-category-heading .publication-category-heading--long}
 ''**\***'' indicates that I am the corresponding author.
+{: .publication-summary-intro}
 
 18. **[SIGMETRICS26]** A. Septiadi, **M. Lyu\***, H. Habibi Gharakheili and V. Sivaraman. [Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services](https://dl.acm.org/doi/10.1145/3805629) at **Proceedings of the ACM on Measurement and Analysis of Computing Systems**, Ann Arbor, Michigan, USA, Jun 2026. (Accpetance Rate: 15% = 32/211)
 

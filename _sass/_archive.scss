@@ -726,6 +726,12 @@
   --publication-heading-text: #005000;
 }
 
+.publication-summary-intro {
+  margin: -0.25rem 0 1rem;
+  color: $gray;
+  font-family: $sans-serif;
+}
+
 .publication-actions {
   display: flex;
   align-items: center;
