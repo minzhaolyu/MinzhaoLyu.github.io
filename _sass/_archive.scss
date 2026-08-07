@@ -217,7 +217,8 @@
 */
 
 .about-updates,
-.update-timeline {
+.update-timeline,
+.service-section {
   margin: 1.45rem 0 2rem;
 
   h2 {
@@ -232,7 +233,9 @@
 }
 
 .about-update-item,
-.update-timeline-item {
+.update-timeline-item,
+.service-card-item,
+.dataset-index-item {
   display: grid;
   grid-template-columns: 6.1rem minmax(0, 1fr);
   gap: 0.75rem;
@@ -287,16 +290,57 @@
   }
 }
 
+
+/*
+   Professional service and dataset indexes
+   ==========================================================================
+*/
+
+.dataset-index {
+  margin: 1.45rem 0 2rem;
+}
+
+.service-card-list {
+  margin: 0 0 1.45rem;
+  padding: 0;
+  list-style: none;
+}
+
+.service-card-item,
+.dataset-index-item {
+  display: block;
+}
+
+.service-card-item {
+  p {
+    margin: 0;
+    color: $dark-gray;
+    line-height: 1.55;
+  }
+}
+
+.dataset-index-item {
+  h2 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: $darker-gray;
+    font-family: $sans-serif;
+    font-size: $type-size-5;
+    line-height: 1.45;
+  }
+}
+
 @include breakpoint(max-width $small) {
-  .about-update-item {
+  .about-update-item,
+  .update-timeline-item {
     grid-template-columns: 1fr;
     gap: 0.25rem;
     padding: 0.72rem 0.75rem;
   }
 
-  .update-timeline-item {
-    grid-template-columns: 1fr;
-    gap: 0.25rem;
+  .service-card-item,
+  .dataset-index-item {
     padding: 0.72rem 0.75rem;
   }
 }
