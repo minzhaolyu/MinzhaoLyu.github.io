@@ -65,6 +65,7 @@ author_profile: true
     <ul class="supervision-detail-list">
       <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman and A/Prof. Gustavo Batista</li>
       <li><strong>Scholarship support:</strong> UNSW Tuition Fee Scholarship (TFS) with stipend</li>
+      <li><strong>Program support:</strong> Australian Graduate School of Engineering (AGSE) Industry PhD program</li>
     </ul>
   </article>
 
@@ -80,7 +81,7 @@ author_profile: true
     <ul class="supervision-detail-list">
       <li><strong>Supervised with:</strong> Prof. Vijay Sivaraman</li>
       <li><strong>Scholarship support:</strong> UNSW's <strong>University International Postgraduate Award (UIPA)</strong></li>
-      <li><strong>Scholarship support:</strong> Australian Government's <strong>National Industry PhD Program</strong></li>
+      <li><strong>Program support:</strong> Australian Government's <strong>National Industry PhD Program</strong></li>
     </ul>
   </article>
 </section>
