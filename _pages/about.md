@@ -22,6 +22,10 @@ This website also contains a list of my publications, blogs, teaching, and profe
   <h2>Updates</h2>
   <!-- <div class="about-update-item"><time>May 2026</time><p>Joined the TPC for <a href="https://www.sigmetrics.org/sigmetrics2027/program_committee.html"><strong>ACM SIGMETRICS 2027</strong></a>.</p></div> -->
   <div class="about-update-item">
+    <time>Oct 2026</time>
+    <p>Continue serving on the TPC for <a href="https://pam2027.furg.br/committees/"><strong>PAM (Passive and Active Measurement) conference</strong></a> in 2027.</p>
+  </div>
+  <div class="about-update-item">
     <time>Jul 2026</time>
     <p>Joined the TPC for <strong>IEEE/IFIP DSN</strong> 2027.</p>
   </div>
