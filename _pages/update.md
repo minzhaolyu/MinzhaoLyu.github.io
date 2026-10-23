@@ -6,18 +6,17 @@ author_profile: true
 ---
 
 <section class="update-timeline" aria-label="Updates timeline">
-  <!-- <div class="update-timeline-item"><time>May 2026</time><p>Joined the TPC for <a href="https://www.sigmetrics.org/sigmetrics2027/program_committee.html"><strong>ACM SIGMETRICS 2027</strong></a>.</p></div> -->
   <div class="update-timeline-item">
     <time>Oct 2026</time>
     <p>Continue serving on the TPC for <a href="https://pam2027.furg.br/committees/"><strong>PAM (Passive and Active Measurement) conference</strong></a> in 2027.</p>
   </div>
   <div class="update-timeline-item">
     <time>Jul 2026</time>
-    <p>Joined the TPC for <strong>IEEE/IFIP DSN</strong> 2027.</p>
+    <p>Joined the TPC for <a href="https://dsn2027-berlin.github.io/committees/research-track-program-committee/"><strong>IEEE/IFIP DSN</strong></a> 2027.</p>
   </div>
   <div class="update-timeline-item">
     <time>Jun 2026</time>
-    <p>Continue serving on the TPC for <strong>ACM SIGMETRICS</strong> in 2027.</p>
+    <p>Continue serving on the TPC for <a href="https://www.sigmetrics.org/sigmetrics2027/pages/program_committee.html"><strong>ACM SIGMETRICS</strong></a> in 2027.</p>
   </div>
   <div class="update-timeline-item">
     <time>Jun 2026</time>
@@ -25,11 +24,11 @@ author_profile: true
   </div>
   <div class="update-timeline-item">
     <time>May 2026</time>
-    <p>Invited to serve as an advisory TPC member for <strong>IEEE INFOCOM</strong> 2027.</p>
+    <p>Invited to serve as an advisory TPC member for <a href="https://infocom2027.ieee-infocom.org/committees"><strong>IEEE INFOCOM</strong></a> 2027.</p>
   </div>
   <div class="update-timeline-item">
     <time>Apr 2026</time>
-    <p>Joined the TPC for IEEE LCN, IEEE IC2E, ACM ImmerCom, and AINTEC 2026.</p>
+    <p>Joined the TPC for <a href="https://www.ieeelcn.org/Committees_TPC.html">IEEE LCN</a>, <a href="https://conferences.computer.org/IC2E/2026/pc-research.html">IEEE IC2E</a>, <a href="https://immercom.github.io/committees.html">ACM ImmerCom</a>, and <a href="https://interlab.ait.ac.th/aintec2026/committees">AINTEC</a> 2026.</p>
   </div>
   <div class="update-timeline-item">
     <time>Mar 2026</time>

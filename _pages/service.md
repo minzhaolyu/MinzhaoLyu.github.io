@@ -8,13 +8,14 @@ author_profile: true
 <section class="service-section" aria-labelledby="tpc-heading">
   <h2 id="tpc-heading">Technical Program Committee (TPC) Member</h2>
   <ul class="service-card-list">
-    <li class="service-card-item"><p><strong>ACM SIGMETRICS</strong> <a href="https://www.sigmetrics.org/sigmetrics2026/program_committee.html">2026 (Reviewer Award)</a>, 2027</p></li>
+    <li class="service-card-item"><p><strong>ACM SIGMETRICS</strong> <a href="https://www.sigmetrics.org/sigmetrics2026/program_committee.html">2026 (Reviewer Award)</a>, <a href="https://www.sigmetrics.org/sigmetrics2027/pages/program_committee.html">2027</a></p></li>
     <li class="service-card-item"><p><strong>PAM</strong> <a href="https://pam2026.at/committees/">2026</a>, <a href="https://pam2027.furg.br/committees/">2027</a></p></li>
-    <li class="service-card-item"><p><strong>IEEE INFOCOM</strong> 2027 (Advisory TPC member)</p></li>
+    <li class="service-card-item"><p><strong>IEEE INFOCOM</strong> <a href="https://infocom2027.ieee-infocom.org/committees">2027</a> (Advisory TPC member)</p></li>
+    <li class="service-card-item"><p><strong>IEEE/IFIP DSN</strong> <a href="https://dsn2027-berlin.github.io/committees/research-track-program-committee/">2027</a></p></li>
     <li class="service-card-item"><p><strong>IEEE International Conference on Cloud Engineering (IC2E)</strong> <a href="https://conferences.computer.org/IC2E/2026/pc-research.html">2026</a></p></li>
-    <li class="service-card-item"><p><strong>IEEE LCN</strong> <a href="https://www.ieeelcn.org/prior/LCN50/Committees_TPC.html">2025</a>, 2026</p></li>
-    <li class="service-card-item"><p><strong>IEEE LCN Special Track – LLMNet</strong> <a href="https://llmnet.nss-research.io/">2025</a>, 2026</p></li>
-    <li class="service-card-item"><p><strong>ACM SIGCOMM Asian Internet Engineering Conference (AINTEC)</strong> <a href="https://interlab.ait.ac.th/aintec2025/committees">2025</a>, 2026</p></li>
+    <li class="service-card-item"><p><strong>IEEE LCN</strong> <a href="https://www.ieeelcn.org/prior/LCN50/Committees_TPC.html">2025</a>, <a href="https://www.ieeelcn.org/Committees_TPC.html">2026</a></p></li>
+    <li class="service-card-item"><p><strong>IEEE LCN Special Track – LLMNet</strong> <a href="https://llmnet.nss-research.io/">2025</a>, <a href="https://llmnet.nss-research.io/">2026</a></p></li>
+    <li class="service-card-item"><p><strong>ACM SIGCOMM Asian Internet Engineering Conference (AINTEC)</strong> <a href="https://interlab.ait.ac.th/aintec2025/committees">2025</a>, <a href="https://interlab.ait.ac.th/aintec2026/committees">2026</a></p></li>
     <li class="service-card-item"><p><strong>ACM ImmerCom</strong> <a href="https://immercom.github.io/committees.html">2026</a></p></li>
     <li class="service-card-item"><p><strong>ACM NTC-R</strong> <a href="http://ntc-reloaded.github.io/">2026</a></p></li>
   </ul>
