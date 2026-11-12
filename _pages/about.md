@@ -22,7 +22,7 @@ This website also contains a list of my publications, blogs, teaching, and profe
   <h2>Updates</h2>
   <div class="about-update-item">
     <time>Nov 2026</time>
-    <p>Invited to serve on the TPC for <a href="https://conferences.sigcomm.org/imc/2027/"><strong>ACM IMC 2027</strong></a>.</p>
+    <p>Joined the TPC for <a href="https://conferences.sigcomm.org/imc/2027/"><strong>ACM IMC 2027</strong></a>.</p>
   </div>
   <div class="about-update-item">
     <time>Oct 2026</time>
