@@ -9,6 +9,7 @@ author_profile: true
   <h2 id="tpc-heading">Technical Program Committee (TPC) Member</h2>
   <ul class="service-card-list">
     <li class="service-card-item"><p><strong>ACM SIGMETRICS</strong> <a href="https://www.sigmetrics.org/sigmetrics2026/program_committee.html">2026 (Reviewer Award)</a>, <a href="https://www.sigmetrics.org/sigmetrics2027/pages/program_committee.html">2027</a></p></li>
+    <li class="service-card-item"><p><strong>ACM IMC</strong> <a href="https://conferences.sigcomm.org/imc/2027/">2027</a></p></li>
     <li class="service-card-item"><p><strong>PAM</strong> <a href="https://pam2026.at/committees/">2026</a>, <a href="https://pam2027.furg.br/committees/">2027</a></p></li>
     <li class="service-card-item"><p><strong>IEEE INFOCOM</strong> <a href="https://infocom2027.ieee-infocom.org/committees">2027</a> (Advisory TPC member)</p></li>
     <li class="service-card-item"><p><strong>IEEE/IFIP DSN</strong> <a href="https://dsn2027-berlin.github.io/committees/research-track-program-committee/">2027</a></p></li>

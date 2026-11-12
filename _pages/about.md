@@ -21,6 +21,10 @@ This website also contains a list of my publications, blogs, teaching, and profe
 <section class="about-updates">
   <h2>Updates</h2>
   <div class="about-update-item">
+    <time>Nov 2026</time>
+    <p>Invited to serve on the TPC for <a href="https://conferences.sigcomm.org/imc/2027/"><strong>ACM IMC 2027</strong></a>.</p>
+  </div>
+  <div class="about-update-item">
     <time>Oct 2026</time>
     <p>Continue serving on the TPC for <a href="https://pam2027.furg.br/committees/"><strong>PAM (Passive and Active Measurement) conference</strong></a> in 2027.</p>
   </div>
