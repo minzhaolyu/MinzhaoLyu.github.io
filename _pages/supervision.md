@@ -5,9 +5,9 @@ permalink: /supervision/
 author_profile: true
 ---
 
-<h2 class="supervision-category-heading supervision-category-heading--phd">PhD Students</h2>
+<h2 class="supervision-category-heading supervision-category-heading--phd">Higher Degree Research (HDR) Students</h2>
 
-<section class="supervision-card-list supervision-card-list--phd" aria-label="PhD students">
+<section class="supervision-card-list supervision-card-list--phd" aria-label="Higher Degree Research students">
   <article class="supervision-card">
     <div class="supervision-card__header">
       <h3><a href="https://www.linkedin.com/in/natalia-piotrowski-4399b1195/">Natalia Piotrowski</a></h3>
@@ -27,7 +27,7 @@ author_profile: true
     <div class="supervision-card__header">
       <h3><a href="https://shuai-zhang16.github.io/">Shuai Zhang</a></h3>
       <div class="supervision-meta">
-        <span>PhD student</span>
+        <span>HDR student</span>
         <span>Jun 2025 - present</span>
       </div>
     </div>
