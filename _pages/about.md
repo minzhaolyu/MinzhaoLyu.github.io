@@ -56,17 +56,5 @@ This website also contains a list of my publications, blogs, teaching, and profe
     <time>Mar 2026</time>
     <p><a href="https://www.sciencedirect.com/science/article/pii/S1389128626002264"><strong>Assessing Cloud Gaming Adaptability</strong></a> is accepted at Computer Networks.</p>
   </div>
-  <div class="about-update-item">
-    <time>Oct 2025</time>
-    <p><a href="https://ieeexplore.ieee.org/document/11219363"><strong>Measuring Cloud Gaming at Scale</strong></a> is accepted at IEEE Transactions on Networking.</p>
-  </div>
-  <div class="about-update-item">
-    <time>Sep 2025</time>
-    <p><a href="https://dl.acm.org/doi/10.1145/3730567.3764455"><strong>Measuring Cloud Gaming Contexts for Effective QoE</strong></a>, first-authored by PhD student Yifan Wang, is accepted at ACM IMC 2025.</p>
-  </div>
-  <div class="about-update-item">
-    <time>Sep 2025</time>
-    <p>Joined the TPC for <a href="https://pam2026.at/committees/"><strong>PAM 2026</strong></a>.</p>
-  </div>
   <p class="about-more-updates"><a href="/update/">More updates</a></p>
 </section>
