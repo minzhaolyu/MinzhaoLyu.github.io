@@ -25,7 +25,7 @@ author_profile: true
 
   <article class="supervision-card supervision-card--hdr">
     <div class="supervision-card__header">
-      <h3><a href="https://shuai-zhang16.github.io/">Shuai Zhang</a></h3>
+      <h3>Shuai Zhang</h3>
       <div class="supervision-meta">
         <span>HDR student</span>
         <span>Jun 2025 - present</span>
