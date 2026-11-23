@@ -26,7 +26,7 @@ This website also contains a list of my publications, blogs, teaching, and profe
   </div>
   <div class="about-update-item">
     <time>Oct 2026</time>
-    <p>Continue serving on the TPC for <a href="https://pam2027.furg.br/committees/"><strong>PAM (Passive and Active Measurement) conference</strong></a> in 2027.</p>
+    <p>Continue serving on the TPC for <a href="https://pam2027.furg.br/committees/"><strong>PAM 2027</strong></a>.</p>
   </div>
   <div class="about-update-item">
     <time>Jul 2026</time>
